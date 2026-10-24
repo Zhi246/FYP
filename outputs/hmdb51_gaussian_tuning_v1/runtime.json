@@ -1,0 +1,13 @@
+{
+  "total_seconds": 4.566425721997803,
+  "classifier_fits": 249,
+  "peak_process_rss_bytes": 377319424,
+  "memory_total_bytes": 16674566144,
+  "logical_cpu_count": 28,
+  "gpu_used": false,
+  "python": "3.10.12",
+  "sklearn": "1.7.2",
+  "blas_threads": 1,
+  "preprocessing_cache_reused": true,
+  "note": "End-to-end time through computation/plotting, excluding final report serialization."
+}

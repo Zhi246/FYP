@@ -1,0 +1,7 @@
+{
+  "training_global_max": 0.5371314287185669,
+  "test_clipped_values": 0,
+  "test_total_values": 2816,
+  "test_clipped_ratio": 0.0,
+  "training_only_fit": true
+}

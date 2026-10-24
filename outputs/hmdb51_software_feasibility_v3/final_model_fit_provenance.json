@@ -1,0 +1,29 @@
+[
+  {
+    "method": "A",
+    "reused": true,
+    "reused_from": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/models/A_tuned.joblib",
+    "classifier_training_seconds_this_run": 0.0,
+    "converged": true,
+    "n_iter": 35,
+    "warnings": []
+  },
+  {
+    "method": "G_default",
+    "reused": false,
+    "reused_from": null,
+    "classifier_training_seconds_this_run": 0.02725708900106838,
+    "converged": true,
+    "n_iter": 294,
+    "warnings": []
+  },
+  {
+    "method": "G_adjusted",
+    "reused": false,
+    "reused_from": null,
+    "classifier_training_seconds_this_run": 0.0321108229982201,
+    "converged": true,
+    "n_iter": 348,
+    "warnings": []
+  }
+]

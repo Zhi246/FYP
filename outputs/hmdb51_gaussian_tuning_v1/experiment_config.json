@@ -1,0 +1,35 @@
+{
+  "seed": 42,
+  "folds": 5,
+  "sigmas": [
+    0.005,
+    0.01,
+    0.025,
+    0.05,
+    0.075,
+    0.1,
+    0.15,
+    0.2
+  ],
+  "center_modes": [
+    "uniform_full",
+    "power2",
+    "power3",
+    "uniform_p95",
+    "uniform_p99",
+    "quantiles"
+  ],
+  "number_gaussian_configurations": 48,
+  "classifier": {
+    "C": 1.0,
+    "solver": "lbfgs",
+    "max_iter": 5000,
+    "tol": 1e-06,
+    "random_state": 42
+  },
+  "cache_path": "/home/ziyan/FYP_XZH/outputs/hmdb51_six_split1/feature_cache.joblib",
+  "cache_sha256": "e44efee863d1e5f5bd4bb124a5851501cfa3b65ba50669a09b566de6f36445f4",
+  "selection_rule": "mean accuracy desc, mean macro-F1 desc, accuracy SD asc, config_id asc",
+  "prior_test_results_already_observed": true,
+  "blas_threads": 1
+}

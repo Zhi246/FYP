@@ -1,0 +1,7 @@
+,walk,run,jump,sit,stand,wave
+walk,0,2,0,5,10,13
+run,4,4,2,10,4,4
+jump,1,0,5,2,8,12
+sit,2,5,0,8,6,9
+stand,5,3,2,8,5,7
+wave,2,2,0,10,6,10

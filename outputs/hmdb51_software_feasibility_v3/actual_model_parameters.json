@@ -1,0 +1,87 @@
+[
+  {
+    "method": "A",
+    "output_dimensions": 16,
+    "center_mode": "none",
+    "sigma": 0.0,
+    "centers": null,
+    "Gaussian_peak": 1.0,
+    "classifier": {
+      "solver": "lbfgs",
+      "max_iter": 5000,
+      "tol": 1e-06,
+      "random_state": 42,
+      "C": 0.1,
+      "penalty": "l2"
+    },
+    "coordinate_units": "dimensionless normalized input; no pulse-time or current calibration assumed"
+  },
+  {
+    "method": "G_default",
+    "output_dimensions": 16,
+    "center_mode": "uniform_0_1",
+    "sigma": 0.1,
+    "centers": [
+      0.0,
+      0.06666666666666667,
+      0.13333333333333333,
+      0.2,
+      0.26666666666666666,
+      0.3333333333333333,
+      0.4,
+      0.4666666666666667,
+      0.5333333333333333,
+      0.6,
+      0.6666666666666666,
+      0.7333333333333333,
+      0.8,
+      0.8666666666666667,
+      0.9333333333333333,
+      1.0
+    ],
+    "Gaussian_peak": 1.0,
+    "classifier": {
+      "solver": "lbfgs",
+      "max_iter": 5000,
+      "tol": 1e-06,
+      "random_state": 42,
+      "C": 10.0,
+      "penalty": "l2"
+    },
+    "coordinate_units": "dimensionless normalized input; no pulse-time or current calibration assumed"
+  },
+  {
+    "method": "G_adjusted",
+    "output_dimensions": 16,
+    "center_mode": "uniform_p01_p99",
+    "sigma": 0.05,
+    "centers": [
+      0.0002905406648411431,
+      0.01694535516043545,
+      0.03360016965602976,
+      0.05025498415162406,
+      0.06690979864721837,
+      0.08356461314281267,
+      0.10021942763840698,
+      0.11687424213400129,
+      0.13352905662959558,
+      0.15018387112518988,
+      0.1668386856207842,
+      0.1834935001163785,
+      0.2001483146119728,
+      0.2168031291075671,
+      0.2334579436031614,
+      0.2501127580987557
+    ],
+    "Gaussian_peak": 1.0,
+    "classifier": {
+      "solver": "lbfgs",
+      "max_iter": 5000,
+      "tol": 1e-06,
+      "random_state": 42,
+      "C": 10.0,
+      "penalty": "l2"
+    },
+    "coordinate_units": "dimensionless normalized input; no pulse-time or current calibration assumed"
+  }
+]

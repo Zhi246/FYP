@@ -1,0 +1,36 @@
+{
+  "seed": 42,
+  "folds": 3,
+  "splitter": "StratifiedKFold(shuffle=True)",
+  "reliable_source_IDs_available": false,
+  "center_modes": [
+    "uniform_0_1",
+    "uniform_p01_p99",
+    "quantile_p01_p99"
+  ],
+  "sigmas": [
+    0.01,
+    0.02,
+    0.05,
+    0.1,
+    0.2
+  ],
+  "classifier_C": [
+    0.1,
+    1.0,
+    10.0
+  ],
+  "solver": {
+    "solver": "lbfgs",
+    "max_iter": 5000,
+    "tol": 1e-06,
+    "random_state": 42
+  },
+  "selection_rule": "mean validation Macro-F1 desc; mean validation accuracy desc; Macro-F1 SD asc; C asc; configuration ID asc",
+  "test_used_for_selection": false,
+  "Gaussian_peak": 1,
+  "Gaussian_curves": 16,
+  "C_is_software_diagnostic_only": true,
+  "blas_threads": 1,
+  "cache_sha256": "e44efee863d1e5f5bd4bb124a5851501cfa3b65ba50669a09b566de6f36445f4"
+}

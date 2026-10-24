@@ -1,0 +1,143 @@
+[
+  {
+    "method": "A_default",
+    "family": "A",
+    "classifier": {
+      "solver": "lbfgs",
+      "max_iter": 5000,
+      "tol": 1e-06,
+      "random_state": 42,
+      "C": 1.0,
+      "penalty": "l2",
+      "fit_intercept": true
+    },
+    "center_mode": "none",
+    "sigma": 0.0,
+    "centers": null,
+    "unique_center_count": null,
+    "dimensions": 16
+  },
+  {
+    "method": "B_default",
+    "family": "B",
+    "classifier": {
+      "solver": "lbfgs",
+      "max_iter": 5000,
+      "tol": 1e-06,
+      "random_state": 42,
+      "C": 1.0,
+      "penalty": "l2",
+      "fit_intercept": true
+    },
+    "center_mode": "uniform_0_1",
+    "sigma": 0.1,
+    "centers": [
+      0.0,
+      0.06666666666666667,
+      0.13333333333333333,
+      0.2,
+      0.26666666666666666,
+      0.3333333333333333,
+      0.4,
+      0.4666666666666667,
+      0.5333333333333333,
+      0.6,
+      0.6666666666666666,
+      0.7333333333333333,
+      0.8,
+      0.8666666666666667,
+      0.9333333333333333,
+      1.0
+    ],
+    "unique_center_count": 16,
+    "dimensions": 16
+  },
+  {
+    "method": "A_tuned",
+    "family": "A",
+    "classifier": {
+      "solver": "lbfgs",
+      "max_iter": 5000,
+      "tol": 1e-06,
+      "random_state": 42,
+      "C": 0.1,
+      "penalty": "l2",
+      "fit_intercept": true
+    },
+    "center_mode": "none",
+    "sigma": 0.0,
+    "centers": null,
+    "unique_center_count": null,
+    "dimensions": 16
+  },
+  {
+    "method": "B_tuned",
+    "family": "B",
+    "classifier": {
+      "solver": "lbfgs",
+      "max_iter": 5000,
+      "tol": 1e-06,
+      "random_state": 42,
+      "C": 10.0,
+      "penalty": "l2",
+      "fit_intercept": true
+    },
+    "center_mode": "quantile_p01_p99",
+    "sigma": 0.02,
+    "centers": [
+      0.0002905406648411431,
+      0.004302080284012664,
+      0.007437132189854265,
+      0.010419797285600623,
+      0.01340065131547555,
+      0.0168441759628178,
+      0.02047182297660119,
+      0.024557616746443738,
+      0.030049927579212043,
+      0.03636185101486201,
+      0.04319851119172352,
+      0.052349891986080116,
+      0.06618713883929216,
+      0.08557053548937643,
+      0.11859714186873092,
+      0.2501127580987557
+    ],
+    "unique_center_count": 16,
+    "dimensions": 16
+  },
+  {
+    "method": "C_no_sum_diagnostic",
+    "family": "C",
+    "classifier": {
+      "solver": "lbfgs",
+      "max_iter": 5000,
+      "tol": 1e-06,
+      "random_state": 42,
+      "C": 1.0,
+      "penalty": "l2",
+      "fit_intercept": true
+    },
+    "center_mode": "quantile_p01_p99",
+    "sigma": 0.02,
+    "centers": [
+      0.0002905406648411431,
+      0.004302080284012664,
+      0.007437132189854265,
+      0.010419797285600623,
+      0.01340065131547555,
+      0.0168441759628178,
+      0.02047182297660119,
+      0.024557616746443738,
+      0.030049927579212043,
+      0.03636185101486201,
+      0.04319851119172352,
+      0.052349891986080116,
+      0.06618713883929216,
+      0.08557053548937643,
+      0.11859714186873092,
+      0.2501127580987557
+    ],
+    "unique_center_count": 16,
+    "dimensions": 256
+  }
+]

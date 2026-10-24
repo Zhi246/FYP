@@ -1,0 +1,10 @@
+{
+  "status": "PASSED",
+  "saved_models_reproduce_all_predictions_and_probabilities": 3,
+  "confusion_matrices_match": 6,
+  "independent_Gaussian_formulas_match": 2,
+  "every_saved_permutation_is_valid": true,
+  "saved_permutation_maxima_match_reports": true,
+  "previous_results_unchanged": true,
+  "fits_performed_during_verification": 0
+}

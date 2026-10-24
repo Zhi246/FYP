@@ -1,0 +1,8 @@
+{
+  "working_directory": "/home/ziyan/FYP_XZH",
+  "main_command": ".venv/bin/python software_feasibility.py",
+  "render_only_command": ".venv/bin/python software_feasibility.py --render-only",
+  "main_execution_completed": true,
+  "render_only_execution_completed": true,
+  "render_only_fits": 0
+}

@@ -1,0 +1,17 @@
+{
+  "A": {
+    "center_mode": "none",
+    "sigma": 0.0,
+    "regularization_C": 0.1,
+    "config_id": "A__none__sigma_0__C_0.1"
+  },
+  "B": {
+    "center_mode": "quantile_p01_p99",
+    "sigma": 0.02,
+    "regularization_C": 10.0,
+    "config_id": "B__quantile_p01_p99__sigma_0.02__C_10"
+  },
+  "selection_rule": "mean validation Macro-F1 desc; mean validation accuracy desc; Macro-F1 SD asc; C asc; configuration ID asc",
+  "test_used_for_selection": false,
+  "AB_freeze_time_local": "2026-10-19 13:24:48 +0800"
+}

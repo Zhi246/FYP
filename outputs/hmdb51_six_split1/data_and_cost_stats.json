@@ -1,0 +1,14 @@
+{
+  "included_videos": 588,
+  "candidate_videos": 600,
+  "original_video_bytes": 162269184,
+  "total_duration_seconds": 1509.3333333333333,
+  "total_frames": 45280,
+  "sampled_frame_bytes_total": 163774464,
+  "final_raw_feature_bytes": 75264,
+  "preprocessing_seconds_this_run": 100.33185045800201,
+  "cache_reused": false,
+  "mean_preprocessing_seconds_per_candidate_video": 0.16721975076333667,
+  "estimated_seconds_for_all_1331_six_class_videos": 222.56948826600112,
+  "estimate_method": "measured mean per 600 split-1 candidate videos multiplied by 1331 extracted six-class videos"
+}

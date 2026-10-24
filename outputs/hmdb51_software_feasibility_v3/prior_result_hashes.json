@@ -1,0 +1,1242 @@
+[
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_six_split1/confusion_A_linear.csv",
+    "bytes": 134,
+    "sha256": "bd20075b8f26c22868a95884d1933f9e859622f01e90625e24f0ac5a65b92fce"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_six_split1/confusion_A_linear.png",
+    "bytes": 68542,
+    "sha256": "1102ca051beab351b55265510c6c0f35516b3400c6638fd8c2b3a6032e11d3f9"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_six_split1/confusion_B_gaussian_sum.csv",
+    "bytes": 140,
+    "sha256": "56793241b2d84bbb92691ce4fabcf3587e47ff36662fa8bc554415a2e957fe8b"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_six_split1/confusion_B_gaussian_sum.png",
+    "bytes": 74517,
+    "sha256": "95d35ff341e86278a4fb867672eff7c5ac70dd18f14e5b761d595a186554e005"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_six_split1/data_and_cost_stats.json",
+    "bytes": 587,
+    "sha256": "be5396c7c84352e5ff12dbe553a4168bc9bb50ce60824d7b3e8b6f811ab28623"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_six_split1/download_extract_timing.json",
+    "bytes": 510,
+    "sha256": "030087cdbcf74e175009c8e5dfc3e7aa72c924199847971f5f158ba3cba21618"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_six_split1/environment_and_runtime.json",
+    "bytes": 419,
+    "sha256": "c0095ba903b4e35041a41d5be1e8218f659310bf443a5d4c5ec34e38152ed340"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_six_split1/excluded_counts.csv",
+    "bytes": 311,
+    "sha256": "8760dc6e7048d2e443f9b07a8fbae0acff81dcb8b7d430f0bc8c3b6616f48202"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_six_split1/exclusions.csv",
+    "bytes": 2462,
+    "sha256": "604f15fc413cc92e3c6faa037dd7d4e3b4e4e055cc7465529b9dddcd12a53e06"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_six_split1/feature_cache.joblib",
+    "bytes": 65010,
+    "sha256": "e44efee863d1e5f5bd4bb124a5851501cfa3b65ba50669a09b566de6f36445f4"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_six_split1/features_arrays.npz",
+    "bytes": 179655,
+    "sha256": "62679240991a379f004b677997ce686b695e12ce6d041656ff3a7d292720963a"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_six_split1/included_counts_by_class.csv",
+    "bytes": 82,
+    "sha256": "e81a727b6b5dbf9dd7188535b694b7ac883ecea9f4270b57e441ed7896bde2aa"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_six_split1/input_distribution.png",
+    "bytes": 61270,
+    "sha256": "b7c6aa35f8058f8fb207474e506a16202cfff928a2a929a045a598888f8f1bf5"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_six_split1/input_examples.png",
+    "bytes": 267470,
+    "sha256": "be01fca33a8f90d64c6f9f39afbb9e629cc1ffe19e81411856ce991c15dcaa9f"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_six_split1/metrics.csv",
+    "bytes": 381,
+    "sha256": "01c02cbd1cdfc87a66108ac1d63e544ed38c2e0237be840e757e3a4fb9fda11a"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_six_split1/model_A_linear.joblib",
+    "bytes": 2745,
+    "sha256": "7c358746d67430087adfb569ef21bbac868cbd5f91f140accf2e33a6cc80864b"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_six_split1/model_B_gaussian_sum.joblib",
+    "bytes": 2745,
+    "sha256": "4eafdff1c248fc1def8e8ac9f6e282828964b007c16fc3616d4c6dd0ffe93c8b"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_six_split1/official_manifest_all.csv",
+    "bytes": 177404,
+    "sha256": "2d23835574f2d6239640224231855037530e2862f329a088a4855f076d17fea6"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_six_split1/predictions_all_samples.csv",
+    "bytes": 81603,
+    "sha256": "219cebdfef488e0ae7186ae00a371f84d40743562ccf1ce2b3c6820335f19910"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_six_split1/sample_manifest_and_features.csv",
+    "bytes": 363926,
+    "sha256": "de0f7cf5115e93bf12e3d031aec04aa8f5678711de34267a2c8ef01939a1a0e0"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_six_split1/scaling.json",
+    "bytes": 162,
+    "sha256": "67d52ed5c6facd57299fbd45777ddad83e916b063969b114e394d35c525b7c3a"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_six_split1/实验说明.md",
+    "bytes": 2546,
+    "sha256": "30f39ee496097526770d0ccc2425f6870187176b9e62041c97b0a6ea619ef414"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/audit.json",
+    "bytes": 443,
+    "sha256": "421130ce636cc818467c49158297f0a342b5f6865e8083387dfe4fbf5904aea3"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/confusion_A_linear.csv",
+    "bytes": 134,
+    "sha256": "bd20075b8f26c22868a95884d1933f9e859622f01e90625e24f0ac5a65b92fce"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/confusion_A_linear.png",
+    "bytes": 67782,
+    "sha256": "d3832aca893980152918b571b6e3ba1658362d62976cf065d456ea8ba1581ec0"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/confusion_B_centers_and_width_selected.csv",
+    "bytes": 135,
+    "sha256": "00d0e5a6a7108fb8ebf4018c21bf3c7c5db3b5246ea27642e6d4e36b042510cd"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/confusion_B_centers_and_width_selected.png",
+    "bytes": 70703,
+    "sha256": "22237e9678936c10e6c06122383f0726f27ad0f696e608169af1d51ad2d0d593"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/confusion_B_default.csv",
+    "bytes": 140,
+    "sha256": "56793241b2d84bbb92691ce4fabcf3587e47ff36662fa8bc554415a2e957fe8b"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/confusion_B_default.png",
+    "bytes": 70427,
+    "sha256": "f4c1961a16ecdab7229c64e259d9134954e1e07adc18f8e67669ed06a14fe1cf"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/confusion_B_width_only_selected.csv",
+    "bytes": 136,
+    "sha256": "8a2a7a97c1e0e2f91e38081ebf91c4c7938301c10250df7da343617e10d84791"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/confusion_B_width_only_selected.png",
+    "bytes": 71413,
+    "sha256": "0cd5b9ac22276a3782344dcf043362646617a08dc34f6f33c40a8b44e4498de5"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/exclusions.csv",
+    "bytes": 2520,
+    "sha256": "24be45d912b2f6821f560090aa0c59d52f3eec92a49dfd16d82e88ee13212662"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/experiment_config.json",
+    "bytes": 753,
+    "sha256": "c33d046ad59f1780ef55e80917dc042ba9714bf9701887a39e306971f4b0f4c0"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/final_counts_by_class.csv",
+    "bytes": 105,
+    "sha256": "79fc7079e211c8dd966d8e17c05d5d4fe00da059e6068d6adaf4911667d58ac0"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/final_features.npz",
+    "bytes": 291034,
+    "sha256": "3513f17e62effc5acb44c5491c76b0bf4df868a0bd50a2b86792644a469c5cd9"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/final_gaussian_parameters.json",
+    "bytes": 1422,
+    "sha256": "63b59a4c574db6f813e929dbd4ab94a6ed00436587b34b31b8949cbbae3ca0dd"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/final_scaling.json",
+    "bytes": 196,
+    "sha256": "a9a81c7be87df3b370e4820265a4c11f2a59e438a6a32d4dff158a69820ea06d"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/final_test_metrics.csv",
+    "bytes": 731,
+    "sha256": "813b2bee95c3e8c0b4ccce29f85441e05d2ff5aa0e0432e80668334cef873382"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/final_test_metrics.json",
+    "bytes": 1593,
+    "sha256": "fc96d1bdc7f7db04146dd166087e838e54eec83c8ec601ec907580b7c86c1719"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/final_test_predictions.csv",
+    "bytes": 34996,
+    "sha256": "42996379191e2469df1599aebe46ec309916ade5caaaced96dc35a8d6a3236e8"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/fold_centers.json",
+    "bytes": 14083,
+    "sha256": "9fd7b6f11c614efda1530d119cec3aada1793d367334d465d0bff3cc034cde27"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/fold_class_counts.csv",
+    "bytes": 408,
+    "sha256": "aaeac8d4c78be6695ea0446525c86ae36942f1a90a7e1be9090513cb5428ca91"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/fold_features/fold_1_gaussian_outputs.npz",
+    "bytes": 2320051,
+    "sha256": "2cf179c9a4ebfee3119677b6da83b1e51249fed12eb0c4673eec2cedf9cc9d6c"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/fold_features/fold_1_inputs.npz",
+    "bytes": 77535,
+    "sha256": "d07fbe73b7da45f731a1823d56fd0b184b9c2fba0455a60fa9633ca76867675a"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/fold_features/fold_2_gaussian_outputs.npz",
+    "bytes": 2318587,
+    "sha256": "dfe1dd561fe1b1059dabac7157d026e442fef28e078aa4f655b00f22984afadd"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/fold_features/fold_2_inputs.npz",
+    "bytes": 77483,
+    "sha256": "a3a8eb8c6b48ba4f21434dc2b24e742502675219cd14f652837b95d5f54fc2bd"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/fold_features/fold_3_gaussian_outputs.npz",
+    "bytes": 2332796,
+    "sha256": "4838e2b13379e2219cc0cacd2a5eed8dbed63bb595266a902c64efe982461391"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/fold_features/fold_3_inputs.npz",
+    "bytes": 77698,
+    "sha256": "2a04b23ca422f16d56d538ee8e18970399eed95221af42b50811768a7c8f1873"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/fold_features/fold_4_gaussian_outputs.npz",
+    "bytes": 2318478,
+    "sha256": "3a77a1a09db74ddcc1dfca434b30ea91f876866bfcf7637a19ae8053746fe49f"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/fold_features/fold_4_inputs.npz",
+    "bytes": 77637,
+    "sha256": "345a2743ef1425931a8874633d7f2626fb8b7d489044e4214996a1a9b7005aa7"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/fold_features/fold_5_gaussian_outputs.npz",
+    "bytes": 2318936,
+    "sha256": "bc71229ad056e876dea61a00e8d96762ca671d997a5842b2f80e7c08588a58ee"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/fold_features/fold_5_inputs.npz",
+    "bytes": 77817,
+    "sha256": "e80b6a47d628d5ce1c35de11ca601374b025d9a2928cb17f81ed2609081480cd"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/fold_scaling_and_group_audit.json",
+    "bytes": 1866,
+    "sha256": "2b15ac91a993cced2f9fe2384c012dee7d2ca00e92dff99a2414f07afb6e5d26"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/gaussian_parameter_examples.png",
+    "bytes": 479300,
+    "sha256": "947f1af7760571a953f3533d90bbe247d59af518f593e45cd090d9744bc8a30b"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/gaussian_validation_ranking.csv",
+    "bytes": 10125,
+    "sha256": "c04cdd7bc90268a3f180e0ad80ce76272cfe1b106ef92da8b64a099e33ce50e1"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/models/A_linear.joblib",
+    "bytes": 2997,
+    "sha256": "2b0c05253f49ecaaa1a8112f2a99c18fa93fc82ad75c36f2c4c8db1a7bc541a3"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/models/B_centers_and_width_selected.joblib",
+    "bytes": 3187,
+    "sha256": "0cee1066621eb6e539be0d5f799bbdfd36952cb1eaee271ca6c225c545231286"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/models/B_default.joblib",
+    "bytes": 3187,
+    "sha256": "c59afe56d256f339a481c2bbd998b2ccd99b442fd9d71ff81ea6a7cdd249d5b2"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/models/B_width_only_selected.joblib",
+    "bytes": 3187,
+    "sha256": "075478ce65c5396070ded375011561a395e570a1274da011a17f84579497e500"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/official_split_source_audit.json",
+    "bytes": 986,
+    "sha256": "656098c55e40c5e83b7695c3e9b66d4f0c1a4193e3470fcf8c354593220c94f5"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/runtime.json",
+    "bytes": 391,
+    "sha256": "62b873054773856f50cb14f62a34ee8244eb523f40fd091e26daa4248ed94522"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/sample_manifest.csv",
+    "bytes": 89130,
+    "sha256": "921317052b7d6b265cb517c6ecdab32709a698b036e591eaca4c7f9139035667"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/selection_frozen_before_test.json",
+    "bytes": 332,
+    "sha256": "864d2b36e500e81857dadc8944670bad2ea4732c2afd7a27db58c74adf80a4c1"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/sigma_sensitivity.png",
+    "bytes": 409831,
+    "sha256": "06a064495331839c3661f4e72d3f48c66b504f5e0ea08defd46d10b8a71f7079"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/training_validation_folds.csv",
+    "bytes": 30547,
+    "sha256": "e64e58b1a1cfd7940c41994b0fa0a78dd1cca53cdb5d33a064f943ce035d3e1f"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/training_value_distribution.json",
+    "bytes": 347,
+    "sha256": "a748684b804ad12cdf951f4bb16726c6f4896c494ef83a991eb1677e6f6345cb"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/validation_accuracy_heatmap.png",
+    "bytes": 159648,
+    "sha256": "4e1a328c41b4ed127ac14e458fc82ef7a369e1dc2c87a6e66886ac6c886b230d"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/validation_fold_metrics.csv",
+    "bytes": 37535,
+    "sha256": "3d01ebf9f32feafdfdd1e98cc83a9ded32f8982fe48ad457ab779933429d13cf"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/validation_predictions.csv",
+    "bytes": 754494,
+    "sha256": "ff8fe409b2fde91c50f75892cd29bdcc2274fea521a69de37949303dfeeca307"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/validation_summary.csv",
+    "bytes": 10137,
+    "sha256": "699a03d90699c6904eedd6a66a84aaa8f35c41ca305f572d88b1db9f065467e2"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_gaussian_tuning_v1/参数实验说明.md",
+    "bytes": 5149,
+    "sha256": "17056ce6d0237cf9b072b8c9f39c1b88f18001755b7878db66508c3d92e0b47f"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/AB_selection_frozen_before_C_and_test.json",
+    "bytes": 513,
+    "sha256": "93d39ffe91c2719c0db60577889c21971f3d20ed828f9a56148276cfc1934325"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/Gaussian_parameter_comparison.png",
+    "bytes": 186535,
+    "sha256": "7ee32d96700831fc8f26f3ec2eb9822f6ea6a63edeb50fd0c4b5cd52cd5dec61"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/all_final_prediction_counts.csv",
+    "bytes": 1701,
+    "sha256": "21b7151ddc90396dbaedf93ce8f7fcc94c1325eaf61a4911d3c557b04327da89"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/all_final_predictions.csv",
+    "bytes": 245578,
+    "sha256": "ba9b7e1e2a598a881f9dacec582c5cd1cfce9f0a23aeced07c618e065c0d4ff8"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/all_parameters_frozen_before_test.json",
+    "bytes": 726,
+    "sha256": "342ddc3fe92d42b98c135d35fa5b3231b5c2934ae4a3f9225579455535c46fde"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/candidate_manifest_all_600.csv",
+    "bytes": 160083,
+    "sha256": "8fd25fe0ea1423286a67af9ee7b8cdea8e4dc988c95b198909f6fa344080cfb6"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/confusion_A_default_test.csv",
+    "bytes": 134,
+    "sha256": "bd20075b8f26c22868a95884d1933f9e859622f01e90625e24f0ac5a65b92fce"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/confusion_A_default_test.png",
+    "bytes": 65155,
+    "sha256": "671540e18524a4c8e2c65d3f576d15c2f2bf21e5e64606d23676a34a95238c92"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/confusion_A_default_train.csv",
+    "bytes": 148,
+    "sha256": "2336a64fa1d5f32e1290eecd62b808d65c5ed6ecdcb22ad46f7fc9cb995a3234"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/confusion_A_default_train.png",
+    "bytes": 71939,
+    "sha256": "7e6a6165681f074ff7601ff787d16942ca3b86846ddf4eedded063262fcfa7b5"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/confusion_A_tuned_test.csv",
+    "bytes": 136,
+    "sha256": "5824e5fccea6fb4f808290131ddeac2f19e5b9e0b65a4183899c27f353aee8a5"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/confusion_A_tuned_test.png",
+    "bytes": 67007,
+    "sha256": "39bc2421f6f44fc8d7154effdfed7bd4910f2c800dcc956f0cd74e69c7144a47"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/confusion_A_tuned_train.csv",
+    "bytes": 146,
+    "sha256": "b1f70babb9d8e35fd29d38e9763e74c398dd6e54a902e38f1cc2e81ce8e5e3ec"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/confusion_A_tuned_train.png",
+    "bytes": 70911,
+    "sha256": "8a7877122919b3526138eef3702ca6795047eca91426bb2ed22c5c9c6b4ecbfb"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/confusion_B_default_test.csv",
+    "bytes": 140,
+    "sha256": "56793241b2d84bbb92691ce4fabcf3587e47ff36662fa8bc554415a2e957fe8b"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/confusion_B_default_test.png",
+    "bytes": 67492,
+    "sha256": "946c4843983bf52f2c60a1853875b017342656696226ab614f735fccc97d74d7"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/confusion_B_default_train.csv",
+    "bytes": 143,
+    "sha256": "80dab07248f116d9bb120c0720f1911f9262239cffd01e74e801d749269f4ed7"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/confusion_B_default_train.png",
+    "bytes": 71664,
+    "sha256": "973af5e7acd30876792f049097e6ff00428c68e33b380bbb300fc2500ed38b6c"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/confusion_B_tuned_test.csv",
+    "bytes": 133,
+    "sha256": "0de5c51347812cabee2a07725d882ef2c0eed745b9553b0e62e442a06b5f40a7"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/confusion_B_tuned_test.png",
+    "bytes": 63582,
+    "sha256": "f2ec936fdee249c6372b8f47484712918c545ec4f03abc06193e09339d5c2bc1"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/confusion_B_tuned_train.csv",
+    "bytes": 153,
+    "sha256": "b67a71318e1fcd10f0668359ce35c631dbeff0728515dbef92314b3448eefa76"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/confusion_B_tuned_train.png",
+    "bytes": 70245,
+    "sha256": "54b1cb1780b53265125ca5077a90c2d4e8f21e648b90318d038398ef04397bab"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/confusion_C_no_sum_diagnostic_test.csv",
+    "bytes": 135,
+    "sha256": "e9778ec4ac6ae1524bcf40cdca0bfc0320e38076c1fea179fa601b6d2a83cdce"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/confusion_C_no_sum_diagnostic_test.png",
+    "bytes": 68649,
+    "sha256": "c55763b947462591c8e9811ae335d0a5217c1e1f4592f6ed6140d976b3b207fc"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/confusion_C_no_sum_diagnostic_train.csv",
+    "bytes": 140,
+    "sha256": "4fcef22f10726ab5f026825893c8853beb527b347d2ba21912c4d95a24388795"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/confusion_C_no_sum_diagnostic_train.png",
+    "bytes": 70927,
+    "sha256": "b69a48d3748af0f09ac3bf259e42a6171301b3613ffc3ca1b278a2265a13881e"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/cv/A_validation_ranking.csv",
+    "bytes": 1113,
+    "sha256": "227e84396003d3ceccf5ae79ad24fdeff3e02463f9218b9a418bafad0c9b8bd7"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/cv/B_validation_ranking.csv",
+    "bytes": 12742,
+    "sha256": "1145009627355184365e0a2a99278e023899f6ef31a44647a5ac14d212651900"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/cv/C_validation_ranking.csv",
+    "bytes": 1197,
+    "sha256": "59bcd423b4c51aaef32e0d4f9e0e2e99a509a089fb9f624091f38470888b8280"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/cv/all_configuration_summary.csv",
+    "bytes": 14338,
+    "sha256": "f0a509aa8773cc8167f23e5425d9c3834d65b126462489ebe982312591a99ff3"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/cv/all_fold_metrics.csv",
+    "bytes": 38692,
+    "sha256": "fd970f552b43b8e54f4fddd480c10661fbb93a9ff2c853126ffde6001d52ff98"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/cv/all_fold_predictions.csv",
+    "bytes": 3660270,
+    "sha256": "c1752621c12cda3e57e64f7eb2438058b9396141d8871acead9b4f4544626b72"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/cv/fold_1_AB_features.npz",
+    "bytes": 812325,
+    "sha256": "ad9f2eaf95530e522a1a826490c2489f2df3ac2d7c695989653dcb40de175160"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/cv/fold_1_C_features.npz",
+    "bytes": 806272,
+    "sha256": "e06888cfa3b9438716a42eac7d03cc0b52a83f00966fca62af548af62365abe1"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/cv/fold_2_AB_features.npz",
+    "bytes": 812883,
+    "sha256": "5af520a307fde3c50806f50af502bda79d7ebf11e9551c6df8af4f1349da8806"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/cv/fold_2_C_features.npz",
+    "bytes": 806471,
+    "sha256": "6483ff52a9e9dba3443b9b7885fcab2c2c00e4731acdaec42da6475ca622646d"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/cv/fold_3_AB_features.npz",
+    "bytes": 818100,
+    "sha256": "c2123792540bad2409fc4993e562e346d2320f2da9c0c433200f7cc3b89fba72"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/cv/fold_3_C_features.npz",
+    "bytes": 811665,
+    "sha256": "4c58744ef96261b758b578a6cbd95c0d5a0f3c03907740f9726ea0fab162a9da"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/cv/fold_Gaussian_centers.json",
+    "bytes": 27174,
+    "sha256": "7571bed80a68109886e0cc57488d6896bd74cf3aa7f8227556cb17ee2c62a3d5"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/cv/fold_class_counts.csv",
+    "bytes": 684,
+    "sha256": "54d40e2cf58838f995a403ef275637cb428ce50a3b0e18a75a05cd1b7c8adc00"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/cv/fold_sample_manifest.csv",
+    "bytes": 87037,
+    "sha256": "46fee03b07856a2664dd8c98707dc2d4e07fa2842a291d6d27b491c483992c1c"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/cv/fold_training_only_scaling.json",
+    "bytes": 707,
+    "sha256": "ee6d92c3574b3109aed40cc7f8167271aea499e0f67cc9fa9e92edac55a84c14"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/cv/non_converged_fits.csv",
+    "bytes": 316,
+    "sha256": "5656e178f90f14c645bb23b6b1cb75c9b634fbd14fb71ae33ad241534741af88"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/default_B_channel_variation.png",
+    "bytes": 97140,
+    "sha256": "0f4aaf304b677ffa68adc7b753b9e15a136c594bca449226ad502acc86edfdc0"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/default_B_training_channel_statistics.csv",
+    "bytes": 3394,
+    "sha256": "ea08a112a6fee83525b7251184c98ad05d29e205845ff6cba7538c3b93dc374c"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/exclusions.csv",
+    "bytes": 2520,
+    "sha256": "24be45d912b2f6821f560090aa0c59d52f3eec92a49dfd16d82e88ee13212662"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/experiment_config.json",
+    "bytes": 793,
+    "sha256": "663e0eb42ffebbc115400ec97128892423fecb62f07a4c0d79bf67719b761b57"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/final_default_and_tuned_ABC_metrics.csv",
+    "bytes": 1251,
+    "sha256": "17d8a521b08785f1c53e927989b3a20410f614eb4d939af3cded78d23fe3474b"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/final_default_and_tuned_ABC_metrics.json",
+    "bytes": 3057,
+    "sha256": "4026d84697e7f6e03cbd450e28d6115977f5d9bc994fdb55c5607b716b4dc291"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/final_features.npz",
+    "bytes": 1468612,
+    "sha256": "1459097ac087d971e6d60570faa704fdf94f44b252afff48d060b0ed1c60896c"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/final_model_parameters.json",
+    "bytes": 3068,
+    "sha256": "2de98ca58ffaa6a9ab54c545c630140b05b11be102082fbec45453cd77c238f9"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/final_training_only_scaling.json",
+    "bytes": 196,
+    "sha256": "a9a81c7be87df3b370e4820265a4c11f2a59e438a6a32d4dff158a69820ea06d"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/implementation_checks.json",
+    "bytes": 4730,
+    "sha256": "a5eff466a989c221116a3f4796ea5edbf01cf770f5b3877021a9ef0473eb145a"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/independent_video_feature_verification.csv",
+    "bytes": 999,
+    "sha256": "b90054d1d9db9ed9764ea2b02a00346446dba98401a0b262c0f94e3b1499ac66"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/models/A_default.joblib",
+    "bytes": 3133,
+    "sha256": "2221737e7333bfd66fb62ba5cd97fa77488498f9582ebb84da02e340427f2519"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/models/A_tuned.joblib",
+    "bytes": 3133,
+    "sha256": "983300af6a14a7406110fb99cfdf6c345c41da9eb14f65988ea4182e410a515d"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/models/B_default.joblib",
+    "bytes": 3312,
+    "sha256": "c04c2c62b20a8aba5c47eaaa54a9b7692572577db0a5a1e0cd44086082a5e52f"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/models/B_tuned.joblib",
+    "bytes": 3312,
+    "sha256": "e81a8972a5ef8eeae7fc397d64282fce271c637783a03a28787316e14c6d1078"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/models/C_no_sum_diagnostic.joblib",
+    "bytes": 20592,
+    "sha256": "f14e0ddb38f3f38c8b3d798fcd99a67e5a2c278c5a8cd39645fc7d3341e25aa1"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/original_AB_prediction_counts.csv",
+    "bytes": 679,
+    "sha256": "7d104e18c5bf185e36742633128b8b9ce06dd5c9b19ff4c24845aeda93eaf732"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/original_AB_train_test_metrics.csv",
+    "bytes": 275,
+    "sha256": "1dcba7a4e026364e8eb4be65a27735ea632ae428ae39b7c6c99b883f274af099"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/original_scaling_verification.json",
+    "bytes": 196,
+    "sha256": "a9a81c7be87df3b370e4820265a4c11f2a59e438a6a32d4dff158a69820ea06d"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/post_run_verification.json",
+    "bytes": 419,
+    "sha256": "42c7cfce18ffd41807c9077915920a44a501b9780b2b0dd1e235ea463abe7da0"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/README.md",
+    "bytes": 2091,
+    "sha256": "bd7acd8f21f6ecbab980ddd1d3a4f2dac027736dbe26a69ba21fda10547e9cf6"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/diagnose_hmdb51.py",
+    "bytes": 49837,
+    "sha256": "bc056d8e1348e59ed0ba4d27cb398792b478b924b9b6cb7d60c47c7b1ca59c9e"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/audit.json",
+    "bytes": 443,
+    "sha256": "421130ce636cc818467c49158297f0a342b5f6865e8083387dfe4fbf5904aea3"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/confusion_A_linear.csv",
+    "bytes": 134,
+    "sha256": "bd20075b8f26c22868a95884d1933f9e859622f01e90625e24f0ac5a65b92fce"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/confusion_A_linear.png",
+    "bytes": 67782,
+    "sha256": "d3832aca893980152918b571b6e3ba1658362d62976cf065d456ea8ba1581ec0"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/confusion_B_centers_and_width_selected.csv",
+    "bytes": 135,
+    "sha256": "00d0e5a6a7108fb8ebf4018c21bf3c7c5db3b5246ea27642e6d4e36b042510cd"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/confusion_B_centers_and_width_selected.png",
+    "bytes": 70703,
+    "sha256": "22237e9678936c10e6c06122383f0726f27ad0f696e608169af1d51ad2d0d593"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/confusion_B_default.csv",
+    "bytes": 140,
+    "sha256": "56793241b2d84bbb92691ce4fabcf3587e47ff36662fa8bc554415a2e957fe8b"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/confusion_B_default.png",
+    "bytes": 70427,
+    "sha256": "f4c1961a16ecdab7229c64e259d9134954e1e07adc18f8e67669ed06a14fe1cf"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/confusion_B_width_only_selected.csv",
+    "bytes": 136,
+    "sha256": "8a2a7a97c1e0e2f91e38081ebf91c4c7938301c10250df7da343617e10d84791"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/confusion_B_width_only_selected.png",
+    "bytes": 71413,
+    "sha256": "0cd5b9ac22276a3782344dcf043362646617a08dc34f6f33c40a8b44e4498de5"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/exclusions.csv",
+    "bytes": 2520,
+    "sha256": "24be45d912b2f6821f560090aa0c59d52f3eec92a49dfd16d82e88ee13212662"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/experiment_config.json",
+    "bytes": 753,
+    "sha256": "c33d046ad59f1780ef55e80917dc042ba9714bf9701887a39e306971f4b0f4c0"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/final_counts_by_class.csv",
+    "bytes": 105,
+    "sha256": "79fc7079e211c8dd966d8e17c05d5d4fe00da059e6068d6adaf4911667d58ac0"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/final_features.npz",
+    "bytes": 291034,
+    "sha256": "3513f17e62effc5acb44c5491c76b0bf4df868a0bd50a2b86792644a469c5cd9"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/final_gaussian_parameters.json",
+    "bytes": 1422,
+    "sha256": "63b59a4c574db6f813e929dbd4ab94a6ed00436587b34b31b8949cbbae3ca0dd"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/final_scaling.json",
+    "bytes": 196,
+    "sha256": "a9a81c7be87df3b370e4820265a4c11f2a59e438a6a32d4dff158a69820ea06d"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/final_test_metrics.csv",
+    "bytes": 731,
+    "sha256": "813b2bee95c3e8c0b4ccce29f85441e05d2ff5aa0e0432e80668334cef873382"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/final_test_metrics.json",
+    "bytes": 1593,
+    "sha256": "fc96d1bdc7f7db04146dd166087e838e54eec83c8ec601ec907580b7c86c1719"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/final_test_predictions.csv",
+    "bytes": 34996,
+    "sha256": "42996379191e2469df1599aebe46ec309916ade5caaaced96dc35a8d6a3236e8"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/fold_centers.json",
+    "bytes": 14083,
+    "sha256": "9fd7b6f11c614efda1530d119cec3aada1793d367334d465d0bff3cc034cde27"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/fold_class_counts.csv",
+    "bytes": 408,
+    "sha256": "aaeac8d4c78be6695ea0446525c86ae36942f1a90a7e1be9090513cb5428ca91"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/fold_features/fold_1_gaussian_outputs.npz",
+    "bytes": 2320051,
+    "sha256": "2cf179c9a4ebfee3119677b6da83b1e51249fed12eb0c4673eec2cedf9cc9d6c"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/fold_features/fold_1_inputs.npz",
+    "bytes": 77535,
+    "sha256": "d07fbe73b7da45f731a1823d56fd0b184b9c2fba0455a60fa9633ca76867675a"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/fold_features/fold_2_gaussian_outputs.npz",
+    "bytes": 2318587,
+    "sha256": "dfe1dd561fe1b1059dabac7157d026e442fef28e078aa4f655b00f22984afadd"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/fold_features/fold_2_inputs.npz",
+    "bytes": 77483,
+    "sha256": "a3a8eb8c6b48ba4f21434dc2b24e742502675219cd14f652837b95d5f54fc2bd"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/fold_features/fold_3_gaussian_outputs.npz",
+    "bytes": 2332796,
+    "sha256": "4838e2b13379e2219cc0cacd2a5eed8dbed63bb595266a902c64efe982461391"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/fold_features/fold_3_inputs.npz",
+    "bytes": 77698,
+    "sha256": "2a04b23ca422f16d56d538ee8e18970399eed95221af42b50811768a7c8f1873"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/fold_features/fold_4_gaussian_outputs.npz",
+    "bytes": 2318478,
+    "sha256": "3a77a1a09db74ddcc1dfca434b30ea91f876866bfcf7637a19ae8053746fe49f"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/fold_features/fold_4_inputs.npz",
+    "bytes": 77637,
+    "sha256": "345a2743ef1425931a8874633d7f2626fb8b7d489044e4214996a1a9b7005aa7"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/fold_features/fold_5_gaussian_outputs.npz",
+    "bytes": 2318936,
+    "sha256": "bc71229ad056e876dea61a00e8d96762ca671d997a5842b2f80e7c08588a58ee"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/fold_features/fold_5_inputs.npz",
+    "bytes": 77817,
+    "sha256": "e80b6a47d628d5ce1c35de11ca601374b025d9a2928cb17f81ed2609081480cd"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/fold_scaling_and_group_audit.json",
+    "bytes": 1866,
+    "sha256": "2b15ac91a993cced2f9fe2384c012dee7d2ca00e92dff99a2414f07afb6e5d26"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/gaussian_parameter_examples.png",
+    "bytes": 479300,
+    "sha256": "947f1af7760571a953f3533d90bbe247d59af518f593e45cd090d9744bc8a30b"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/gaussian_validation_ranking.csv",
+    "bytes": 10125,
+    "sha256": "c04cdd7bc90268a3f180e0ad80ce76272cfe1b106ef92da8b64a099e33ce50e1"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/models/A_linear.joblib",
+    "bytes": 2997,
+    "sha256": "2b0c05253f49ecaaa1a8112f2a99c18fa93fc82ad75c36f2c4c8db1a7bc541a3"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/models/B_centers_and_width_selected.joblib",
+    "bytes": 3187,
+    "sha256": "0cee1066621eb6e539be0d5f799bbdfd36952cb1eaee271ca6c225c545231286"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/models/B_default.joblib",
+    "bytes": 3187,
+    "sha256": "c59afe56d256f339a481c2bbd998b2ccd99b442fd9d71ff81ea6a7cdd249d5b2"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/models/B_width_only_selected.joblib",
+    "bytes": 3187,
+    "sha256": "075478ce65c5396070ded375011561a395e570a1274da011a17f84579497e500"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/official_split_source_audit.json",
+    "bytes": 986,
+    "sha256": "656098c55e40c5e83b7695c3e9b66d4f0c1a4193e3470fcf8c354593220c94f5"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/runtime.json",
+    "bytes": 391,
+    "sha256": "62b873054773856f50cb14f62a34ee8244eb523f40fd091e26daa4248ed94522"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/sample_manifest.csv",
+    "bytes": 89130,
+    "sha256": "921317052b7d6b265cb517c6ecdab32709a698b036e591eaca4c7f9139035667"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/selection_frozen_before_test.json",
+    "bytes": 332,
+    "sha256": "864d2b36e500e81857dadc8944670bad2ea4732c2afd7a27db58c74adf80a4c1"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/sigma_sensitivity.png",
+    "bytes": 409831,
+    "sha256": "06a064495331839c3661f4e72d3f48c66b504f5e0ea08defd46d10b8a71f7079"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/training_validation_folds.csv",
+    "bytes": 30547,
+    "sha256": "e64e58b1a1cfd7940c41994b0fa0a78dd1cca53cdb5d33a064f943ce035d3e1f"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/training_value_distribution.json",
+    "bytes": 347,
+    "sha256": "a748684b804ad12cdf951f4bb16726c6f4896c494ef83a991eb1677e6f6345cb"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/validation_accuracy_heatmap.png",
+    "bytes": 159648,
+    "sha256": "4e1a328c41b4ed127ac14e458fc82ef7a369e1dc2c87a6e66886ac6c886b230d"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/validation_fold_metrics.csv",
+    "bytes": 37535,
+    "sha256": "3d01ebf9f32feafdfdd1e98cc83a9ded32f8982fe48ad457ab779933429d13cf"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/validation_predictions.csv",
+    "bytes": 754494,
+    "sha256": "ff8fe409b2fde91c50f75892cd29bdcc2274fea521a69de37949303dfeeca307"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/validation_summary.csv",
+    "bytes": 10137,
+    "sha256": "699a03d90699c6904eedd6a66a84aaa8f35c41ca305f572d88b1db9f065467e2"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_gaussian_tuning_v1/参数实验说明.md",
+    "bytes": 5149,
+    "sha256": "17056ce6d0237cf9b072b8c9f39c1b88f18001755b7878db66508c3d92e0b47f"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_six_split1/confusion_A_linear.csv",
+    "bytes": 134,
+    "sha256": "bd20075b8f26c22868a95884d1933f9e859622f01e90625e24f0ac5a65b92fce"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_six_split1/confusion_A_linear.png",
+    "bytes": 68542,
+    "sha256": "1102ca051beab351b55265510c6c0f35516b3400c6638fd8c2b3a6032e11d3f9"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_six_split1/confusion_B_gaussian_sum.csv",
+    "bytes": 140,
+    "sha256": "56793241b2d84bbb92691ce4fabcf3587e47ff36662fa8bc554415a2e957fe8b"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_six_split1/confusion_B_gaussian_sum.png",
+    "bytes": 74517,
+    "sha256": "95d35ff341e86278a4fb867672eff7c5ac70dd18f14e5b761d595a186554e005"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_six_split1/data_and_cost_stats.json",
+    "bytes": 587,
+    "sha256": "be5396c7c84352e5ff12dbe553a4168bc9bb50ce60824d7b3e8b6f811ab28623"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_six_split1/download_extract_timing.json",
+    "bytes": 510,
+    "sha256": "030087cdbcf74e175009c8e5dfc3e7aa72c924199847971f5f158ba3cba21618"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_six_split1/environment_and_runtime.json",
+    "bytes": 419,
+    "sha256": "c0095ba903b4e35041a41d5be1e8218f659310bf443a5d4c5ec34e38152ed340"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_six_split1/excluded_counts.csv",
+    "bytes": 311,
+    "sha256": "8760dc6e7048d2e443f9b07a8fbae0acff81dcb8b7d430f0bc8c3b6616f48202"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_six_split1/exclusions.csv",
+    "bytes": 2462,
+    "sha256": "604f15fc413cc92e3c6faa037dd7d4e3b4e4e055cc7465529b9dddcd12a53e06"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_six_split1/feature_cache.joblib",
+    "bytes": 65010,
+    "sha256": "e44efee863d1e5f5bd4bb124a5851501cfa3b65ba50669a09b566de6f36445f4"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_six_split1/features_arrays.npz",
+    "bytes": 179655,
+    "sha256": "62679240991a379f004b677997ce686b695e12ce6d041656ff3a7d292720963a"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_six_split1/included_counts_by_class.csv",
+    "bytes": 82,
+    "sha256": "e81a727b6b5dbf9dd7188535b694b7ac883ecea9f4270b57e441ed7896bde2aa"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_six_split1/input_distribution.png",
+    "bytes": 61270,
+    "sha256": "b7c6aa35f8058f8fb207474e506a16202cfff928a2a929a045a598888f8f1bf5"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_six_split1/input_examples.png",
+    "bytes": 267470,
+    "sha256": "be01fca33a8f90d64c6f9f39afbb9e629cc1ffe19e81411856ce991c15dcaa9f"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_six_split1/metrics.csv",
+    "bytes": 381,
+    "sha256": "01c02cbd1cdfc87a66108ac1d63e544ed38c2e0237be840e757e3a4fb9fda11a"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_six_split1/model_A_linear.joblib",
+    "bytes": 2745,
+    "sha256": "7c358746d67430087adfb569ef21bbac868cbd5f91f140accf2e33a6cc80864b"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_six_split1/model_B_gaussian_sum.joblib",
+    "bytes": 2745,
+    "sha256": "4eafdff1c248fc1def8e8ac9f6e282828964b007c16fc3616d4c6dd0ffe93c8b"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_six_split1/official_manifest_all.csv",
+    "bytes": 177404,
+    "sha256": "2d23835574f2d6239640224231855037530e2862f329a088a4855f076d17fea6"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_six_split1/predictions_all_samples.csv",
+    "bytes": 81603,
+    "sha256": "219cebdfef488e0ae7186ae00a371f84d40743562ccf1ce2b3c6820335f19910"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_six_split1/sample_manifest_and_features.csv",
+    "bytes": 363926,
+    "sha256": "de0f7cf5115e93bf12e3d031aec04aa8f5678711de34267a2c8ef01939a1a0e0"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_six_split1/scaling.json",
+    "bytes": 162,
+    "sha256": "67d52ed5c6facd57299fbd45777ddad83e916b063969b114e394d35c525b7c3a"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/hmdb51_six_split1/实验说明.md",
+    "bytes": 2546,
+    "sha256": "30f39ee496097526770d0ccc2425f6870187176b9e62041c97b0a6ea619ef414"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/original_file_hashes.json",
+    "bytes": 15066,
+    "sha256": "894e3dd435c2ba294205ff01b713b9977cf494125548db69f9233539bf673206"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/requirements.txt",
+    "bytes": 164,
+    "sha256": "0c0c94133c7482c5b2b17dea262584e242428212c1257c0f6c377ff9e2b6944d"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/run_experiment.py",
+    "bytes": 16360,
+    "sha256": "9b38455e8a95585a36aa818f0009f7130d55b963fbcdd8a198ac9a536ea6fdae"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/previous_results_snapshot/tune_gaussian.py",
+    "bytes": 27745,
+    "sha256": "2976c8fb620e559f1d596c17c7688213c39b2eb3a0f76a1070009e111e62b72f"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/raw_cached_features.npz",
+    "bytes": 40589,
+    "sha256": "30ea86fc61c3643baa70a200b29a0eb6b6cb1fbd89faf0327fb5e606e3fe43bb"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/run_commands.txt",
+    "bytes": 185,
+    "sha256": "3b2ed1e7a0575053e2197333ab7f99a4fdf8ef074fea2f1bf24002909711a777"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/runtime.json",
+    "bytes": 497,
+    "sha256": "88537297613009ba93c8ee97adea5a1484a77cbf67f6a32c05b9cf19f382f4d8"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/sample_manifest.csv",
+    "bytes": 154231,
+    "sha256": "6c3ae47632eb9671a3c3ede75873de0fd6f7461d94fc71cac4a57d1fd8cbdc2d"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/sampling_contact_sheets/jump_1_actual_gray.png",
+    "bytes": 166923,
+    "sha256": "483372b2e4e506b08fca5d97f39efee446cfd07f15b3bd603ee69f6c0705f3c3"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/sampling_contact_sheets/jump_2_actual_gray.png",
+    "bytes": 159892,
+    "sha256": "48da45f27b6efbcd3f156753d9644c5c5098d3c0f4cdb44ef18ac078046f80b2"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/sampling_contact_sheets/jump_two_training_videos.png",
+    "bytes": 2928814,
+    "sha256": "0676425e6624431336a3384dac13f36b70374bbafd2f2daad4c8cb846c524890"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/sampling_contact_sheets/overview_12_videos.png",
+    "bytes": 4688870,
+    "sha256": "73d1f4386f0b8895c3690c89cf1fa470c9d6c0578b2bff59ae42dc3d1c6cea40"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/sampling_contact_sheets/run_1_actual_gray.png",
+    "bytes": 142501,
+    "sha256": "a89c4c1aff78ec8ab86285a0709e6ee0dbff23aab524529716066552640fc264"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/sampling_contact_sheets/run_2_actual_gray.png",
+    "bytes": 189603,
+    "sha256": "f9635dc3059f0a989cc874fe689d717fc11ee7d5c6cb7d193085cc019d883fb6"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/sampling_contact_sheets/run_two_training_videos.png",
+    "bytes": 2807590,
+    "sha256": "e8cb057a9ad54214971129850b1b1ceae038e04384f483838c30856e5fee671a"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/sampling_contact_sheets/selected_samples_and_timestamps.json",
+    "bytes": 18844,
+    "sha256": "d93126dfebc2b53ce78e2f941e49d9713992c6b897d40a38113939c70fe4c61e"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/sampling_contact_sheets/sit_1_actual_gray.png",
+    "bytes": 186730,
+    "sha256": "251db1fe730e51aa084d2d218d5483e3724d7d39fd4aa64a53daff336c1bc6db"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/sampling_contact_sheets/sit_2_actual_gray.png",
+    "bytes": 186653,
+    "sha256": "7d7290c8acc57884edc5db84649592781aac84853c1d62e31f0aae5ea38c3a50"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/sampling_contact_sheets/sit_two_training_videos.png",
+    "bytes": 3321849,
+    "sha256": "6c491d078babe67eb0b2244edf034b644fde25178c32992e760c6dc9cd51f107"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/sampling_contact_sheets/stand_1_actual_gray.png",
+    "bytes": 190342,
+    "sha256": "941ad979456cdd8fe034a96d85950f24161ccc4a6fe13553ec9ddb88ad5051b0"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/sampling_contact_sheets/stand_2_actual_gray.png",
+    "bytes": 154241,
+    "sha256": "e7c3e9ad87ac330d9915d7e0f1d39ef732022052902241154a65de95f81143cd"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/sampling_contact_sheets/stand_two_training_videos.png",
+    "bytes": 2782307,
+    "sha256": "9d446adf8e1603a4751270b96436db645f67e0643a193903f8b64c28125cd27f"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/sampling_contact_sheets/walk_1_actual_gray.png",
+    "bytes": 138257,
+    "sha256": "8c38573bce8d967105f839410f96e53beea275871262f800b54041a6f08b9345"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/sampling_contact_sheets/walk_2_actual_gray.png",
+    "bytes": 216864,
+    "sha256": "4c96c7e5980addd6100873c22ed50d6bd2be1f46b4b89758cc1b3d514f8ecfe1"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/sampling_contact_sheets/walk_two_training_videos.png",
+    "bytes": 3225530,
+    "sha256": "fa3df7b1404dd1227a39a36195fdc7490bfd380de3b7ae94d5f415103c72b08f"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/sampling_contact_sheets/wave_1_actual_gray.png",
+    "bytes": 134602,
+    "sha256": "7fc704b408d3328d89caa9f47a254bbcb347bffa6f656548c63e2ae249a73d98"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/sampling_contact_sheets/wave_2_actual_gray.png",
+    "bytes": 188455,
+    "sha256": "f107b24eb680a710f47b297843e91c9bfe816dbb95e3bbaac281c62017e082cd"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/sampling_contact_sheets/wave_two_training_videos.png",
+    "bytes": 3067294,
+    "sha256": "bf01e3b1e13f02d4dea14bb289c5e33514f9271eb106b496b7263c0708d2c6f9"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/sampling_span_and_repeated_indices.csv",
+    "bytes": 123670,
+    "sha256": "4789971df7d0cd6d63d742d4bb231124e5bd2603a2d4eee2ed27b8199d0bc4e6"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/sampling_visual_review.md",
+    "bytes": 2967,
+    "sha256": "c8315066a0ab6f6907c8c46fb95aa2656150c58c7de1a0841bb457d56f142241"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/source_code/README.md",
+    "bytes": 3449,
+    "sha256": "40c1d9f592a93dc40fe7778f8d87a54ad28993f84e3f3b95aa6bcfc8b4150c85"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/source_code/diagnose_hmdb51.py",
+    "bytes": 52146,
+    "sha256": "8ae6a654a5e77e7e033f6c4e538281a6c8ffab8e1e2692d8c175cc7a8d49af0a"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/source_code/requirements.txt",
+    "bytes": 164,
+    "sha256": "0c0c94133c7482c5b2b17dea262584e242428212c1257c0f6c377ff9e2b6944d"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/source_code/run_experiment.py",
+    "bytes": 16360,
+    "sha256": "9b38455e8a95585a36aa818f0009f7130d55b963fbcdd8a198ac9a536ea6fdae"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/source_code/tune_gaussian.py",
+    "bytes": 27745,
+    "sha256": "2976c8fb620e559f1d596c17c7688213c39b2eb3a0f76a1070009e111e62b72f"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/source_code/verify_hmdb51_diagnostics.py",
+    "bytes": 8300,
+    "sha256": "f29ff6804842937116b13971a7d2d68cad88c761b61eeee019739773f0be0a61"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/train_test_ABC_comparison.png",
+    "bytes": 56553,
+    "sha256": "07403de7bcd6cf34f5d90169d05566f816539a92e5c44c76c51da2020321e6f5"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/training_histogram_bins.csv",
+    "bytes": 70021,
+    "sha256": "36335c37b1fe6e0e086ba7f9b2cca487ceab641502cf0c4ae11476317f25ba84"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/training_input_histograms.png",
+    "bytes": 133876,
+    "sha256": "1ef5eb899c1759199602fb060fdabc91da3edcc262b1d24a1b5877024c82c1ba"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/training_input_statistics.csv",
+    "bytes": 3398,
+    "sha256": "f5470aad93b50efd3242282aee6208313dca914ab192f3bb50a75df089af9551"
+  },
+  {
+    "path": "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/诊断实验说明.md",
+    "bytes": 7529,
+    "sha256": "b37fd1f12f27f4f575f525a9c4f7f0a4c204db85ba50a673405962cdcb578e59"
+  }
+]

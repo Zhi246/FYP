@@ -1,0 +1,11 @@
+{
+  "status": "PASSED",
+  "independent_training_only_fold_feature_checks": 3,
+  "CV_fit_metrics_recomputed": 153,
+  "saved_final_models_reproducing_predictions": 5,
+  "all_final_train_test_confusion_matrices_recomputed": 10,
+  "default_AB_predictions_identical_to_original": true,
+  "C_reshaped_and_summed_equals_tuned_B": true,
+  "original_result_hashes_unchanged": true,
+  "verification_seconds": 1.7704614860049332
+}

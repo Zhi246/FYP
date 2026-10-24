@@ -1,0 +1,13 @@
+class,filename,official_flag,split,path,exists,fps,total_frames,width,height,file_bytes,duration_seconds,sampled_indices,sampled_frame_bytes,feature_bytes,included,exclude_reason,feature,sample_id
+run,BLACK_HAWK_DOWN_run_f_cm_np1_fr_bad_22.avi,2,test,data/videos/hmdb51/run/BLACK_HAWK_DOWN_run_f_cm_np1_fr_bad_22.avi,True,30.0,24,560,240,153088,0.8,,,,False,shorter_than_1_second,,118
+run,BLACK_HAWK_DOWN_run_f_nm_np1_ri_med_17.avi,2,test,data/videos/hmdb51/run/BLACK_HAWK_DOWN_run_f_nm_np1_ri_med_17.avi,True,30.0,22,560,240,122880,0.7333333333333333,,,,False,shorter_than_1_second,,122
+run,THE_PROTECTOR_run_f_cm_np1_ba_med_13.avi,1,train,data/videos/hmdb51/run/THE_PROTECTOR_run_f_cm_np1_ba_med_13.avi,True,30.0,24,416,240,165888,0.8,,,,False,shorter_than_1_second,,158
+run,THE_PROTECTOR_run_u_cm_np1_fr_med_88.avi,1,train,data/videos/hmdb51/run/THE_PROTECTOR_run_u_cm_np1_fr_med_88.avi,True,30.0,25,416,240,88576,0.8333333333333334,,,,False,shorter_than_1_second,,165
+jump,BLACK_HAWK_DOWN_jump_f_cm_np1_ri_bad_9.avi,1,train,data/videos/hmdb51/jump/BLACK_HAWK_DOWN_jump_f_cm_np1_ri_bad_9.avi,True,30.0,25,560,240,105472,0.8333333333333334,,,,False,shorter_than_1_second,,205
+jump,Fellowship_5_jump_f_nm_np1_fr_bad_10.avi,1,train,data/videos/hmdb51/jump/Fellowship_5_jump_f_nm_np1_fr_bad_10.avi,True,30.0,32,352,240,86528,1.0666666666666667,,,,False,frame_read_failed_at_31,,223
+jump,Huge_Dive-Roll_jump_f_cm_np1_ri_bad_0.avi,2,test,data/videos/hmdb51/jump/Huge_Dive-Roll_jump_f_cm_np1_ri_bad_0.avi,True,30.0,33,320,240,166400,1.1,,,,False,frame_read_failed_at_32,,239
+jump,IamLegend_jump_f_cm_np1_ba_bad_12.avi,1,train,data/videos/hmdb51/jump/IamLegend_jump_f_cm_np1_ba_bad_12.avi,True,30.0,24,560,240,115712,0.8,,,,False,shorter_than_1_second,,240
+jump,OldSchool_jump_f_nm_np1_fr_bad_26.avi,2,test,data/videos/hmdb51/jump/OldSchool_jump_f_nm_np1_fr_bad_26.avi,True,30.0,25,320,240,165376,0.8333333333333334,,,,False,shorter_than_1_second,,250
+jump,THE_PROTECTOR_jump_f_nm_np1_fr_bad_95.avi,1,train,data/videos/hmdb51/jump/THE_PROTECTOR_jump_f_nm_np1_fr_bad_95.avi,True,30.0,22,416,240,173056,0.7333333333333333,,,,False,shorter_than_1_second,,288
+sit,likebeckam_sit_f_nm_np1_le_bad_29.avi,1,train,data/videos/hmdb51/sit/likebeckam_sit_f_nm_np1_le_bad_29.avi,True,30.0,25,320,240,135168,0.8333333333333334,,,,False,shorter_than_1_second,,394
+wave,RATRACE_wave_u_nm_np1_fr_med_9.avi,1,train,data/videos/hmdb51/wave/RATRACE_wave_u_nm_np1_fr_med_9.avi,True,30.0,24,560,240,117760,0.8,,,,False,shorter_than_1_second,,576

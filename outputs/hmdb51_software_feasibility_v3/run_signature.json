@@ -1,0 +1,71 @@
+{
+  "cache_sha256": "e44efee863d1e5f5bd4bb124a5851501cfa3b65ba50669a09b566de6f36445f4",
+  "seed": 42,
+  "sigmas": [
+    0.05,
+    0.1,
+    0.2
+  ],
+  "center_modes": [
+    "uniform_0_1",
+    "uniform_p01_p99"
+  ],
+  "regularization_C": [
+    0.1,
+    1.0,
+    10.0
+  ],
+  "solver": {
+    "solver": "lbfgs",
+    "max_iter": 5000,
+    "tol": 1e-06,
+    "random_state": 42
+  },
+  "selection_rule": "mean validation Macro-F1 desc; mean validation accuracy desc; Macro-F1 SD asc; C asc; configuration ID asc",
+  "class_order": [
+    "walk",
+    "run",
+    "jump",
+    "sit",
+    "stand",
+    "wave"
+  ],
+  "permutations": 100,
+  "feature_tolerance": [
+    1e-10,
+    1e-10
+  ],
+  "probability_tolerance": [
+    1e-10,
+    1e-09
+  ],
+  "numpy": "1.26.4",
+  "sklearn": "1.7.2",
+  "source_file_hashes": {
+    "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/experiment_config.json": "663e0eb42ffebbc115400ec97128892423fecb62f07a4c0d79bf67719b761b57",
+    "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/cv/fold_sample_manifest.csv": "46fee03b07856a2664dd8c98707dc2d4e07fa2842a291d6d27b491c483992c1c",
+    "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/cv/all_fold_metrics.csv": "fd970f552b43b8e54f4fddd480c10661fbb93a9ff2c853126ffde6001d52ff98",
+    "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/cv/all_fold_predictions.csv": "c1752621c12cda3e57e64f7eb2438058b9396141d8871acead9b4f4544626b72",
+    "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/cv/all_configuration_summary.csv": "f0a509aa8773cc8167f23e5425d9c3834d65b126462489ebe982312591a99ff3",
+    "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/cv/fold_1_AB_features.npz": "ad9f2eaf95530e522a1a826490c2489f2df3ac2d7c695989653dcb40de175160",
+    "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/cv/fold_2_AB_features.npz": "5af520a307fde3c50806f50af502bda79d7ebf11e9551c6df8af4f1349da8806",
+    "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/cv/fold_3_AB_features.npz": "c2123792540bad2409fc4993e562e346d2320f2da9c0c433200f7cc3b89fba72",
+    "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/models/A_default.joblib": "2221737e7333bfd66fb62ba5cd97fa77488498f9582ebb84da02e340427f2519",
+    "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/models/A_tuned.joblib": "983300af6a14a7406110fb99cfdf6c345c41da9eb14f65988ea4182e410a515d",
+    "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/models/B_default.joblib": "c04c2c62b20a8aba5c47eaaa54a9b7692572577db0a5a1e0cd44086082a5e52f",
+    "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/models/B_tuned.joblib": "e81a8972a5ef8eeae7fc397d64282fce271c637783a03a28787316e14c6d1078",
+    "/home/ziyan/FYP_XZH/outputs/hmdb51_diagnostics_v2/models/C_no_sum_diagnostic.joblib": "f14e0ddb38f3f38c8b3d798fcd99a67e5a2c278c5a8cd39645fc7d3341e25aa1",
+    "/home/ziyan/FYP_XZH/data/splits/testTrainMulti_7030_splits/walk_test_split1.txt": "898b72983f314fc9a8de14067d59e7bce23c31a23d43765571e95496e6e9b1f8",
+    "/home/ziyan/FYP_XZH/data/splits/testTrainMulti_7030_splits/run_test_split1.txt": "67eeff6321c3bf76761cf374017e460fd5d5293e38f42bb76858e168f70236b2",
+    "/home/ziyan/FYP_XZH/data/splits/testTrainMulti_7030_splits/jump_test_split1.txt": "ef870320bd293e6988c9fe0d1f6f7b9dfcc7cff2e6bb10698d2377d02b0917de",
+    "/home/ziyan/FYP_XZH/data/splits/testTrainMulti_7030_splits/sit_test_split1.txt": "610c21d6cc8b003239cdc0eb3262332688edec17828bbc4e616f69c8dd51206b",
+    "/home/ziyan/FYP_XZH/data/splits/testTrainMulti_7030_splits/stand_test_split1.txt": "f2e284617a5a6b22e2eb7518123cb192c995588fcf59a332b35527b8b0d094ab",
+    "/home/ziyan/FYP_XZH/data/splits/testTrainMulti_7030_splits/wave_test_split1.txt": "6a0be76c9130ca9624796404fda34791025c5b60871e7aaf8d5769c8a5b6faed"
+  },
+  "computation_AST": {
+    "run_experiment.py:gaussian_sum": "ac6987d02cdb4ad37d81bc86de198ed55220e490164d781988d0e51fc34a2154",
+    "tune_gaussian.py:scale_fit_and_eval": "c8e07e3ab6b3ddd11d57ca4c35b7fb6c2ac4d3da84d08c68ba161c68121b86eb",
+    "diagnose_hmdb51.py:centers_from_training": "84c3579985abf56da442227f4132c2f4408037a08d1e94750bdb8819b06857b3",
+    "diagnose_hmdb51.py:fit_classifier": "1c57a76ee84ff8c4696dd8bd6abfcc9a5ee327937a8511a66a00635da462159e"
+  }
+}

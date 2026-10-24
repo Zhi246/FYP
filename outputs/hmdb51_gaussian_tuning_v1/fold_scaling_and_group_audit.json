@@ -1,0 +1,72 @@
+[
+  {
+    "fold": 1,
+    "training_groups": 114,
+    "validation_groups": 23,
+    "group_overlap": 0,
+    "training_samples": 340,
+    "validation_samples": 72,
+    "training_global_max": 0.5371314287185669,
+    "divisor": 0.5371314287185669,
+    "zero_max_fallback": false,
+    "eval_clipped_values": 0,
+    "eval_total_values": 1152,
+    "eval_clipped_ratio": 0.0
+  },
+  {
+    "fold": 2,
+    "training_groups": 109,
+    "validation_groups": 28,
+    "group_overlap": 0,
+    "training_samples": 338,
+    "validation_samples": 74,
+    "training_global_max": 0.5371314287185669,
+    "divisor": 0.5371314287185669,
+    "zero_max_fallback": false,
+    "eval_clipped_values": 0,
+    "eval_total_values": 1184,
+    "eval_clipped_ratio": 0.0
+  },
+  {
+    "fold": 3,
+    "training_groups": 108,
+    "validation_groups": 29,
+    "group_overlap": 0,
+    "training_samples": 307,
+    "validation_samples": 105,
+    "training_global_max": 0.3225950002670288,
+    "divisor": 0.3225950002670288,
+    "zero_max_fallback": false,
+    "eval_clipped_values": 2,
+    "eval_total_values": 1680,
+    "eval_clipped_ratio": 0.0011904761904761906
+  },
+  {
+    "fold": 4,
+    "training_groups": 106,
+    "validation_groups": 31,
+    "group_overlap": 0,
+    "training_samples": 347,
+    "validation_samples": 65,
+    "training_global_max": 0.5371314287185669,
+    "divisor": 0.5371314287185669,
+    "zero_max_fallback": false,
+    "eval_clipped_values": 0,
+    "eval_total_values": 1040,
+    "eval_clipped_ratio": 0.0
+  },
+  {
+    "fold": 5,
+    "training_groups": 111,
+    "validation_groups": 26,
+    "group_overlap": 0,
+    "training_samples": 316,
+    "validation_samples": 96,
+    "training_global_max": 0.5371314287185669,
+    "divisor": 0.5371314287185669,
+    "zero_max_fallback": false,
+    "eval_clipped_values": 0,
+    "eval_total_values": 1536,
+    "eval_clipped_ratio": 0.0
+  }
+]

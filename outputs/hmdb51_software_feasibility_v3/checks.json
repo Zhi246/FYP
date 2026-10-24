@@ -1,0 +1,1327 @@
+{
+  "status": "PASSED",
+  "checks": [
+    {
+      "check": "identical_feature_cache",
+      "passed": true,
+      "detail": "SHA-256 agrees with the previously audited CV run"
+    },
+    {
+      "check": "feature_shape_and_finite_values",
+      "passed": true,
+      "detail": "train=412, test=176, all-zero samples=0"
+    },
+    {
+      "check": "official_labels_and_splits",
+      "passed": true,
+      "detail": "All candidate filenames checked against the local official split-1 files"
+    },
+    {
+      "check": "sample_row_identity",
+      "passed": true,
+      "detail": "Sample IDs, filenames, labels and row order agree"
+    },
+    {
+      "check": "video_content_unchanged",
+      "passed": true,
+      "detail": "All 588 local video SHA-256 values agree with the prior audit; no frames reprocessed"
+    },
+    {
+      "check": "no_training_test_overlap",
+      "passed": true,
+      "detail": "No shared filename, resolved path or identical file content across official train/test"
+    },
+    {
+      "check": "same_classifier_and_environment",
+      "passed": true,
+      "detail": "Same lbfgs/L2/logistic regression, tolerance, max_iter, seed, NumPy and scikit-learn versions"
+    },
+    {
+      "check": "same_preprocessing_and_classifier_code",
+      "passed": true,
+      "detail": "AST identities checked for Gaussian response/sum, center construction, training scaling and classifier fitting"
+    },
+    {
+      "check": "previous_audit_applicable",
+      "passed": true,
+      "detail": "Existing independent video/float-difference checks remain applicable to unchanged videos, cache and code"
+    },
+    {
+      "check": "identical_three_fold_partition",
+      "passed": true,
+      "detail": "Original seed-42 stratified 3-fold manifest reused verbatim; verified source IDs are unavailable, so no guessed groups"
+    },
+    {
+      "check": "fold_1_train_validation_alignment",
+      "passed": true,
+      "detail": "Saved arrays and manifests use the same training-only sample IDs"
+    },
+    {
+      "check": "fold_1_training_only_scaling",
+      "passed": true,
+      "detail": "Global training maximum recomputed; validation clipping reproduced"
+    },
+    {
+      "check": "fold_1_uniform_0_1_0.05_train_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_1_uniform_0_1_0.05_validation_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_1_uniform_0_1_0.1_train_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_1_uniform_0_1_0.1_validation_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_1_uniform_0_1_0.2_train_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_1_uniform_0_1_0.2_validation_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_1_uniform_p01_p99_0.05_train_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_1_uniform_p01_p99_0.05_validation_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_1_uniform_p01_p99_0.1_train_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_1_uniform_p01_p99_0.1_validation_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_1_uniform_p01_p99_0.2_train_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_1_uniform_p01_p99_0.2_validation_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_2_train_validation_alignment",
+      "passed": true,
+      "detail": "Saved arrays and manifests use the same training-only sample IDs"
+    },
+    {
+      "check": "fold_2_training_only_scaling",
+      "passed": true,
+      "detail": "Global training maximum recomputed; validation clipping reproduced"
+    },
+    {
+      "check": "fold_2_uniform_0_1_0.05_train_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_2_uniform_0_1_0.05_validation_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_2_uniform_0_1_0.1_train_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_2_uniform_0_1_0.1_validation_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_2_uniform_0_1_0.2_train_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_2_uniform_0_1_0.2_validation_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_2_uniform_p01_p99_0.05_train_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_2_uniform_p01_p99_0.05_validation_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_2_uniform_p01_p99_0.1_train_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_2_uniform_p01_p99_0.1_validation_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_2_uniform_p01_p99_0.2_train_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_2_uniform_p01_p99_0.2_validation_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_3_train_validation_alignment",
+      "passed": true,
+      "detail": "Saved arrays and manifests use the same training-only sample IDs"
+    },
+    {
+      "check": "fold_3_training_only_scaling",
+      "passed": true,
+      "detail": "Global training maximum recomputed; validation clipping reproduced"
+    },
+    {
+      "check": "fold_3_uniform_0_1_0.05_train_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_3_uniform_0_1_0.05_validation_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_3_uniform_0_1_0.1_train_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_3_uniform_0_1_0.1_validation_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_3_uniform_0_1_0.2_train_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_3_uniform_0_1_0.2_validation_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_3_uniform_p01_p99_0.05_train_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_3_uniform_p01_p99_0.05_validation_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_3_uniform_p01_p99_0.1_train_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_3_uniform_p01_p99_0.1_validation_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_3_uniform_p01_p99_0.2_train_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "fold_3_uniform_p01_p99_0.2_validation_Gaussian",
+      "passed": true,
+      "detail": "Reused summed features agree with the independent formula and training-only centers"
+    },
+    {
+      "check": "complete_matching_CV_cache",
+      "passed": true,
+      "detail": "All 21 requested classifier/Gaussian configurations have all 3 completed, converged folds; no CV retraining"
+    },
+    {
+      "check": "CV_A__none__sigma_0__C_0.1_1_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_A__none__sigma_0__C_0.1_1_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_A__none__sigma_0__C_1_1_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_A__none__sigma_0__C_1_1_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_A__none__sigma_0__C_10_1_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_A__none__sigma_0__C_10_1_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.05__C_0.1_1_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.05__C_0.1_1_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.05__C_1_1_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.05__C_1_1_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.05__C_10_1_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.05__C_10_1_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.1__C_0.1_1_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.1__C_0.1_1_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.1__C_1_1_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.1__C_1_1_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.1__C_10_1_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.1__C_10_1_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.2__C_0.1_1_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.2__C_0.1_1_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.2__C_1_1_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.2__C_1_1_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.2__C_10_1_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.2__C_10_1_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.05__C_0.1_1_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.05__C_0.1_1_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.05__C_1_1_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.05__C_1_1_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.05__C_10_1_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.05__C_10_1_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.1__C_0.1_1_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.1__C_0.1_1_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.1__C_1_1_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.1__C_1_1_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.1__C_10_1_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.1__C_10_1_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.2__C_0.1_1_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.2__C_0.1_1_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.2__C_1_1_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.2__C_1_1_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.2__C_10_1_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.2__C_10_1_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_A__none__sigma_0__C_0.1_2_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_A__none__sigma_0__C_0.1_2_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_A__none__sigma_0__C_1_2_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_A__none__sigma_0__C_1_2_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_A__none__sigma_0__C_10_2_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_A__none__sigma_0__C_10_2_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.05__C_0.1_2_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.05__C_0.1_2_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.05__C_1_2_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.05__C_1_2_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.05__C_10_2_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.05__C_10_2_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.1__C_0.1_2_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.1__C_0.1_2_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.1__C_1_2_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.1__C_1_2_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.1__C_10_2_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.1__C_10_2_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.2__C_0.1_2_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.2__C_0.1_2_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.2__C_1_2_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.2__C_1_2_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.2__C_10_2_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.2__C_10_2_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.05__C_0.1_2_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.05__C_0.1_2_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.05__C_1_2_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.05__C_1_2_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.05__C_10_2_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.05__C_10_2_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.1__C_0.1_2_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.1__C_0.1_2_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.1__C_1_2_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.1__C_1_2_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.1__C_10_2_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.1__C_10_2_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.2__C_0.1_2_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.2__C_0.1_2_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.2__C_1_2_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.2__C_1_2_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.2__C_10_2_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.2__C_10_2_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_A__none__sigma_0__C_0.1_3_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_A__none__sigma_0__C_0.1_3_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_A__none__sigma_0__C_1_3_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_A__none__sigma_0__C_1_3_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_A__none__sigma_0__C_10_3_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_A__none__sigma_0__C_10_3_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.05__C_0.1_3_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.05__C_0.1_3_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.05__C_1_3_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.05__C_1_3_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.05__C_10_3_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.05__C_10_3_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.1__C_0.1_3_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.1__C_0.1_3_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.1__C_1_3_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.1__C_1_3_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.1__C_10_3_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.1__C_10_3_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.2__C_0.1_3_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.2__C_0.1_3_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.2__C_1_3_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.2__C_1_3_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.2__C_10_3_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_0_1__sigma_0.2__C_10_3_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.05__C_0.1_3_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.05__C_0.1_3_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.05__C_1_3_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.05__C_1_3_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.05__C_10_3_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.05__C_10_3_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.1__C_0.1_3_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.1__C_0.1_3_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.1__C_1_3_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.1__C_1_3_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.1__C_10_3_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.1__C_10_3_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.2__C_0.1_3_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.2__C_0.1_3_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.2__C_1_3_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.2__C_1_3_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.2__C_10_3_train",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "CV_B__uniform_p01_p99__sigma_0.2__C_10_3_validation",
+      "passed": true,
+      "detail": "Saved predictions/labels and recalculated metrics match; prior fit times are historical"
+    },
+    {
+      "check": "summary_A__none__sigma_0__C_0.1_train_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_A__none__sigma_0__C_0.1_train_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_A__none__sigma_0__C_0.1_validation_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_A__none__sigma_0__C_0.1_validation_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_A__none__sigma_0__C_1_train_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_A__none__sigma_0__C_1_train_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_A__none__sigma_0__C_1_validation_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_A__none__sigma_0__C_1_validation_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_A__none__sigma_0__C_10_train_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_A__none__sigma_0__C_10_train_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_A__none__sigma_0__C_10_validation_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_A__none__sigma_0__C_10_validation_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.05__C_0.1_train_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.05__C_0.1_train_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.05__C_0.1_validation_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.05__C_0.1_validation_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.05__C_1_train_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.05__C_1_train_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.05__C_1_validation_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.05__C_1_validation_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.05__C_10_train_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.05__C_10_train_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.05__C_10_validation_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.05__C_10_validation_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.1__C_0.1_train_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.1__C_0.1_train_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.1__C_0.1_validation_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.1__C_0.1_validation_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.1__C_1_train_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.1__C_1_train_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.1__C_1_validation_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.1__C_1_validation_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.1__C_10_train_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.1__C_10_train_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.1__C_10_validation_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.1__C_10_validation_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.2__C_0.1_train_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.2__C_0.1_train_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.2__C_0.1_validation_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.2__C_0.1_validation_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.2__C_1_train_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.2__C_1_train_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.2__C_1_validation_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.2__C_1_validation_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.2__C_10_train_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.2__C_10_train_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.2__C_10_validation_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_0_1__sigma_0.2__C_10_validation_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.05__C_0.1_train_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.05__C_0.1_train_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.05__C_0.1_validation_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.05__C_0.1_validation_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.05__C_1_train_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.05__C_1_train_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.05__C_1_validation_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.05__C_1_validation_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.05__C_10_train_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.05__C_10_train_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.05__C_10_validation_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.05__C_10_validation_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.1__C_0.1_train_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.1__C_0.1_train_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.1__C_0.1_validation_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.1__C_0.1_validation_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.1__C_1_train_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.1__C_1_train_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.1__C_1_validation_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.1__C_1_validation_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.1__C_10_train_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.1__C_10_train_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.1__C_10_validation_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.1__C_10_validation_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.2__C_0.1_train_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.2__C_0.1_train_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.2__C_0.1_validation_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.2__C_0.1_validation_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.2__C_1_train_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.2__C_1_train_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.2__C_1_validation_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.2__C_1_validation_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.2__C_10_train_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.2__C_10_train_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.2__C_10_validation_accuracy",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    },
+    {
+      "check": "summary_B__uniform_p01_p99__sigma_0.2__C_10_validation_macro_f1",
+      "passed": true,
+      "detail": "Mean and sample SD recomputed from identical folds"
+    }
+  ],
+  "cache_sha256": "e44efee863d1e5f5bd4bb124a5851501cfa3b65ba50669a09b566de6f36445f4",
+  "CV_fits_reused": 63,
+  "CV_fits_new": 0,
+  "reliable_source_IDs_available": false,
+  "limitation": "Stratified folds can share source/scene content; filename heuristics are not treated as verified groups.",
+  "standard_scaler_CV_evidence": "Identical authenticated fitting code asserts fit-sample count/mean/variance against fold training features. Fold models were not saved, so scaler objects are not claimed to have been re-read.",
+  "runtime_seconds": 1.8366021690017078
+}

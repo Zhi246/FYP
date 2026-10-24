@@ -1,0 +1,13 @@
+class,filename,sequential_cache_max_abs_error,independent_scalar_mean_max_abs_error
+walk,20060723sfjffcookies_walk_u_nm_np1_fr_med_0.avi,0.0,8.250253813457675e-10
+walk,20060723sfjffkillerskiss_walk_f_cm_np1_fr_med_1.avi,0.0,5.826223059557378e-09
+run,20060723sfjffangelina_run_f_nm_np1_ri_med_2.avi,0.0,5.729816621169448e-10
+run,20060723sfjffjewcy_run_f_nm_np1_ba_med_3.avi,0.0,1.5061232261359692e-09
+jump,A_Beautiful_Mind_1_jump_f_cm_np1_ba_bad_3.avi,0.0,8.711822374607436e-10
+jump,Arrasando_no_Le_Parkour_jump_f_cm_np1_le_bad_0.avi,0.0,2.138767740689218e-08
+sit,50_FIRST_DATES_sit_f_cm_np1_fr_med_24.avi,0.0,2.601950654934626e-09
+sit,50_FIRST_DATES_sit_f_nm_np1_le_med_4.avi,0.0,6.45741238258779e-10
+stand,20060723sfjffangelina_stand_f_nm_np1_le_med_0.avi,0.0,4.700268618762493e-09
+stand,20060723sfjffcomeback_stand_u_cm_np1_ba_med_1.avi,0.0,4.013713805761654e-09
+wave,21_wave_u_nm_np1_fr_goo_5.avi,0.0,7.270273272297345e-10
+wave,50_FIRST_DATES_wave_f_cm_np1_fr_med_0.avi,0.0,4.702314981841482e-09

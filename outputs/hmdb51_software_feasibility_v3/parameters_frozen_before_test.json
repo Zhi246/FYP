@@ -1,0 +1,27 @@
+{
+  "models": {
+    "A": {
+      "config_id": "A__none__sigma_0__C_0.1",
+      "center_mode": "none",
+      "sigma": 0.0,
+      "regularization_C": 0.1
+    },
+    "G_default": {
+      "config_id": "B__uniform_0_1__sigma_0.1__C_10",
+      "center_mode": "uniform_0_1",
+      "sigma": 0.1,
+      "regularization_C": 10.0
+    },
+    "G_adjusted": {
+      "config_id": "B__uniform_p01_p99__sigma_0.05__C_10",
+      "center_mode": "uniform_p01_p99",
+      "sigma": 0.05,
+      "regularization_C": 10.0
+    }
+  },
+  "selection_rule": "mean validation Macro-F1 desc; mean validation accuracy desc; Macro-F1 SD asc; C asc; configuration ID asc",
+  "selected_for_confusion_display": "G_adjusted",
+  "selection_uses_test": false,
+  "prior_test_already_observed": true,
+  "freeze_time_local": "2026-10-19 17:09:03 +0800"
+}

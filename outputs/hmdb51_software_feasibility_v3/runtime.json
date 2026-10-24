@@ -1,0 +1,27 @@
+{
+  "total_seconds": 3.9398579619955854,
+  "timings": {
+    "matching_checks_and_CV_reuse_seconds": 1.9668564109961153,
+    "final_model_load_or_fit_seconds": 0.07810443700145697,
+    "permutation_and_duplicate_checks_seconds": 0.368545085999358,
+    "final_evaluation_seconds": 0.09572497800400015,
+    "plot_seconds": 1.3871890869995696
+  },
+  "CV_fits_reused": 63,
+  "CV_fits_new": 0,
+  "final_models_reused": 1,
+  "final_model_fits_new": 2,
+  "peak_process_RSS_bytes": 664256512,
+  "GPU_used": false,
+  "CPU_logical_count": 28,
+  "memory_total_bytes": 16674566144,
+  "BLAS_threads": 1,
+  "python": "3.10.12",
+  "numpy": "1.26.4",
+  "sklearn": "1.7.2",
+  "opencv": "4.11.0",
+  "previous_results_unchanged": true,
+  "hardware_operated": false,
+  "download_performed": false,
+  "last_render_only_seconds": 1.4125959559969488
+}

@@ -1,0 +1,44 @@
+# Python environment and local tooling
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+
+# Raw HMDB51 data, archives and local extraction tools
+/data/
+*.rar
+*.zip
+*.7z
+*.tar
+*.tar.gz
+
+# Rebuildable numeric features, models and checkpoints
+*.npz
+*.npy
+*.joblib
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.ckpt
+
+# Duplicate experiment backups and large frame contact sheets stay local
+/outputs/**/previous_results_snapshot/
+/outputs/**/sampling_contact_sheets/
+/outputs/*_local/
+
+# Credentials and machine-local files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.ssh/
+*.log

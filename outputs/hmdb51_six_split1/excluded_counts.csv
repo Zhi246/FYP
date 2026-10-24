@@ -1,0 +1,9 @@
+class,split,exclude_reason,count
+jump,test,frame_read_failed_at_32,1
+jump,test,shorter_than_1_second,1
+jump,train,frame_read_failed_at_31,1
+jump,train,shorter_than_1_second,3
+run,test,shorter_than_1_second,2
+run,train,shorter_than_1_second,2
+sit,train,shorter_than_1_second,1
+wave,train,shorter_than_1_second,1

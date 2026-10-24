@@ -1,0 +1,24 @@
+{
+  "feature_cache_reused": true,
+  "official_training_samples": 412,
+  "training_source_groups": 137,
+  "validation_folds": 5,
+  "gaussian_output_dimensions": 16,
+  "source_overlap_train_validation_every_fold": 0,
+  "test_used_for_selection": false,
+  "all_fits_converged": true,
+  "per_fold_training_samples": [
+    340,
+    338,
+    307,
+    347,
+    316
+  ],
+  "per_fold_validation_samples": [
+    72,
+    74,
+    105,
+    65,
+    96
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "cpu": "x86_64",
+  "logical_cpu_count": 28,
+  "memory_total_bytes": 16674566144,
+  "gpu_used": false,
+  "peak_process_rss_bytes": 377319424,
+  "python": "3.10.12",
+  "opencv": "4.11.0",
+  "numpy": "1.26.4",
+  "sklearn": "1.7.2",
+  "total_experiment_seconds": 101.55339884899877,
+  "classifier_n_iter": {
+    "A_linear": [
+      70
+    ],
+    "B_gaussian_sum": [
+      104
+    ]
+  },
+  "classifier_converged": true
+}

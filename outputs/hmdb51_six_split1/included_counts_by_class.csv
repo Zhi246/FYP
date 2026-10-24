@@ -1,0 +1,7 @@
+class,test,train
+walk,30,70
+run,28,68
+jump,28,66
+sit,30,69
+stand,30,70
+wave,30,69

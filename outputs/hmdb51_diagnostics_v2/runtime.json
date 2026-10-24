@@ -1,0 +1,18 @@
+{
+  "experiment_seconds": 6.890767197000969,
+  "CV_classifier_fits": 153,
+  "final_classifier_fits": 5,
+  "peak_process_rss_bytes": 417009664,
+  "logical_CPU_count": 28,
+  "memory_total_bytes": 16674566144,
+  "GPU_used": false,
+  "python": "3.10.12",
+  "numpy": "1.26.4",
+  "sklearn": "1.7.2",
+  "opencv": "4.11.0",
+  "original_results_unchanged": true,
+  "cache_reused": true,
+  "blas_threads": 1,
+  "artifact_refresh_seconds": 15.776063313001941,
+  "artifact_refresh_peak_RSS_bytes": 409559040
+}

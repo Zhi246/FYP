@@ -1,0 +1,13 @@
+{
+  "best_uniform": {
+    "center_mode": "uniform_full",
+    "sigma": 0.01
+  },
+  "best_overall": {
+    "center_mode": "power3",
+    "sigma": 0.025
+  },
+  "selected_by": "mean accuracy desc, mean macro-F1 desc, accuracy SD asc, config_id asc",
+  "test_used_for_selection": false,
+  "freeze_time_local": "2026-10-19 12:41:52 +0800"
+}

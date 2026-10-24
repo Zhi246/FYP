@@ -1,0 +1,29 @@
+[
+  {
+    "fold": 1,
+    "training_global_max": 0.5371314287185669,
+    "divisor": 0.5371314287185669,
+    "zero_max_fallback": false,
+    "eval_clipped_values": 0,
+    "eval_total_values": 2208,
+    "eval_clipped_ratio": 0.0
+  },
+  {
+    "fold": 2,
+    "training_global_max": 0.5371314287185669,
+    "divisor": 0.5371314287185669,
+    "zero_max_fallback": false,
+    "eval_clipped_values": 0,
+    "eval_total_values": 2192,
+    "eval_clipped_ratio": 0.0
+  },
+  {
+    "fold": 3,
+    "training_global_max": 0.3626723289489746,
+    "divisor": 0.3626723289489746,
+    "zero_max_fallback": false,
+    "eval_clipped_values": 1,
+    "eval_total_values": 2192,
+    "eval_clipped_ratio": 0.0004562043795620438
+  }
+]

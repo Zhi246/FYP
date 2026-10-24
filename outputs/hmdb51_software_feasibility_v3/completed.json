@@ -1,0 +1,10 @@
+{
+  "status": "PASSED",
+  "brief_summary_characters": 266,
+  "all_order_checks_passed": true,
+  "final_parameters_frozen_before_test": true,
+  "CV_fits_reused": 63,
+  "CV_fits_new": 0,
+  "previous_results_unchanged": true,
+  "post_delivery_verification": "PASSED"
+}

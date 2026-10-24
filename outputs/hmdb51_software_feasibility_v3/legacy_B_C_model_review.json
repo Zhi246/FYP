@@ -1,0 +1,16 @@
+{
+  "old_B": {
+    "target_compatible": true,
+    "output_dimensions": 16,
+    "definition_unchanged": true
+  },
+  "old_C": {
+    "target_compatible": false,
+    "output_dimensions": 256,
+    "reason": "Retaining input positions permutes feature blocks; it is a valid previous software diagnostic but does not implement the current order-invariant output.",
+    "single_permutation_max_feature_difference": 0.9999999828480325,
+    "single_permutation_changed_predictions": 443,
+    "classifier_fits_this_run": 0,
+    "included_in_target_performance_comparison": false
+  }
+}

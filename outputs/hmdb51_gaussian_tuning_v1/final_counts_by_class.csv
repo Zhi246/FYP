@@ -1,0 +1,7 @@
+class,test,train,validation
+walk,30,70,0
+run,28,68,0
+jump,28,66,0
+sit,30,69,0
+stand,30,70,0
+wave,30,69,0

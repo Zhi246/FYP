@@ -1,0 +1,10 @@
+{
+  "official_google_drive_attempt": "failed: public link/access quota prevented gdown retrieval",
+  "mirror": "Hugging Face jili5044/hmdb51, linked by official Serre Lab page",
+  "video_archive_bytes": 2117581749,
+  "download_seconds": 690.0,
+  "download_seconds_note": "measured from curl wall time shown by transfer (11:30)",
+  "extract_seconds_six_classes": 1.5584660330059705,
+  "split_mirror": "Hugging Face MichiganNLP/hmdb, linked by official page",
+  "finished_at_local": "2026-10-19 11:29:16 +0800"
+}

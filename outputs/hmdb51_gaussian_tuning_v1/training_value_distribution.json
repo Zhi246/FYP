@@ -1,0 +1,21 @@
+{
+  "source": "official training only; after full-training global-max scaling",
+  "quantile_probabilities": [
+    0,
+    0.25,
+    0.5,
+    0.75,
+    0.95,
+    0.99,
+    1
+  ],
+  "quantile_values": [
+    0.0,
+    0.012382289561155824,
+    0.02704701775051406,
+    0.05616346974639269,
+    0.13897905137506558,
+    0.2501127580987557,
+    1.0
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "status": "PASSED",
+  "cache_sha256": "e44efee863d1e5f5bd4bb124a5851501cfa3b65ba50669a09b566de6f36445f4",
+  "checks": [
+    {
+      "check": "official_filename_label_split_alignment",
+      "passed": true,
+      "detail": "Compared all 600 candidate records to the six official split-1 files"
+    },
+    {
+      "check": "video_filename_class_path_size",
+      "passed": true,
+      "detail": "All candidate video files checked against cache metadata"
+    },
+    {
+      "check": "no_train_test_video_filename_overlap",
+      "passed": true,
+      "detail": "Compared filenames and resolved filesystem paths"
+    },
+    {
+      "check": "no_train_test_path_overlap",
+      "passed": true,
+      "detail": "Official training and test files remain separate"
+    },
+    {
+      "check": "no_train_test_identical_video_bytes",
+      "passed": true,
+      "detail": "SHA-256 content comparison across the included training/test videos"
+    },
+    {
+      "check": "cached_array_label_and_split_alignment",
+      "passed": true,
+      "detail": "Compared the original saved arrays to the cache row by row"
+    },
+    {
+      "check": "raw_feature_shape_and_validity",
+      "passed": true,
+      "detail": "shape=(588, 16); NaN/Inf=0; all-zero samples=0"
+    },
+    {
+      "check": "global_scale_training_only",
+      "passed": true,
+      "detail": "Global maximum recomputed from all training entries only; test clipping reproduced"
+    },
+    {
+      "check": "middle_one_second_fps_sampling",
+      "passed": true,
+      "detail": "All 588 schedules verified; actual span 0.966667 to 1.033333s; videos with repeated indices=0"
+    },
+    {
+      "check": "float_before_subtraction_and_independent_video_recompute",
+      "passed": true,
+      "detail": "12 videos decoded sequentially; float32 subtraction and independent scalar absolute-difference mean match cache; max error=2.14e-08"
+    },
+    {
+      "check": "Gaussian_formula_response_sum_dimensions_and_peak",
+      "passed": true,
+      "detail": "Independent math.exp response error=1.11e-16; response summed over input position axis; peak=1"
+    },
+    {
+      "check": "B_permutation_invariance",
+      "passed": true,
+      "detail": "Maximum absolute error after input-position permutation=3.55e-15"
+    },
+    {
+      "check": "C_flatten_order_consistent_with_B",
+      "passed": true,
+      "detail": "C column = input_position*16 + Gaussian_center_index (row-major order)"
+    },
+    {
+      "check": "A_standard_scaler_training_only",
+      "passed": true,
+      "detail": "Fitted sample count=412"
+    },
+    {
+      "check": "A_classifier_iteration_check",
+      "passed": true,
+      "detail": "n_iter=[70], max_iter=5000; original saved runtime also records convergence"
+    },
+    {
+      "check": "A_train_saved_predictions_match",
+      "passed": true,
+      "detail": "All predictions aligned by filename"
+    },
+    {
+      "check": "A_test_saved_predictions_match",
+      "passed": true,
+      "detail": "All predictions aligned by filename"
+    },
+    {
+      "check": "A_accuracy_confusion_diagonal_agree",
+      "passed": true,
+      "detail": "Recomputed accuracy agrees with saved confusion-matrix diagonal"
+    },
+    {
+      "check": "B_standard_scaler_training_only",
+      "passed": true,
+      "detail": "Fitted sample count=412"
+    },
+    {
+      "check": "B_classifier_iteration_check",
+      "passed": true,
+      "detail": "n_iter=[104], max_iter=5000; original saved runtime also records convergence"
+    },
+    {
+      "check": "B_train_saved_predictions_match",
+      "passed": true,
+      "detail": "All predictions aligned by filename"
+    },
+    {
+      "check": "B_test_saved_predictions_match",
+      "passed": true,
+      "detail": "All predictions aligned by filename"
+    },
+    {
+      "check": "B_accuracy_confusion_diagonal_agree",
+      "passed": true,
+      "detail": "Recomputed accuracy agrees with saved confusion-matrix diagonal"
+    },
+    {
+      "check": "previous_results_preserved",
+      "passed": true,
+      "detail": "Both old result directories remain byte-for-byte unchanged; backup stored in the new directory"
+    }
+  ],
+  "feature_affecting_errors_found": false,
+  "original_features_and_splits_changed": false,
+  "sampling_example_count": 12,
+  "train_samples": 412,
+  "test_samples": 176,
+  "runtime_seconds": 16.234403772003134,
+  "limitations": [
+    "Independent frame decoding covers 12 fixed training examples; all 588 cached sampling schedules are checked.",
+    "Actual timestamp endpoints are quantized to video frames; see sampling_span_and_repeated_indices.csv.",
+    "No verified original-source ID table is available; subsequent CV uses stratification, not guessed source groups."
+  ]
+}

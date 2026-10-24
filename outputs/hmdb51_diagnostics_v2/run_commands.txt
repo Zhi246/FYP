@@ -1,0 +1,2 @@
+/home/ziyan/FYP_XZH/.venv/bin/python /home/ziyan/FYP_XZH/diagnose_hmdb51.py --stage audit
+/home/ziyan/FYP_XZH/.venv/bin/python /home/ziyan/FYP_XZH/diagnose_hmdb51.py --stage experiment
