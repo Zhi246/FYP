@@ -1,0 +1,7 @@
+class,test,train,validation
+walking,144,128,128
+jogging,144,128,128
+running,144,128,128
+boxing,143,126,127
+handwaving,144,126,128
+handclapping,143,124,128

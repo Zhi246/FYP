@@ -1,0 +1,5 @@
+comparison,accuracy_difference,paired_subject_and_draw_bootstrap_95_low,paired_subject_and_draw_bootstrap_95_high,test_subjects,draw_repeats,bootstrap_repeats,seed,independent_new_data
+G1_head_cycle minus G0_mean,0.014153132250580047,-0.0021992016305748905,0.033023282761594226,9,10,2000,42,False
+G2_calibration_and_head_cycle minus G0_mean,-0.0017401392111368909,-0.02900522041763341,0.02578397212543554,9,10,2000,42,False
+A_linear minus G0_mean,-0.04443155452436195,-0.07735837368731659,-0.016490023093752543,9,10,2000,42,False
+I_ideal minus G0_mean,0.03097447795823666,-0.008102086552079309,0.06771393120492665,9,10,2000,42,False

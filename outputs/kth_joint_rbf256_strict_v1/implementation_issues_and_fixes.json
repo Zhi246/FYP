@@ -1,0 +1,41 @@
+{
+  "conceptual_model_correction": {
+    "old": "16 scalar Gaussian responses summed over inputs, 16 final dimensions, permutation invariant",
+    "current": "Original measured bank, dimension/channel standardization, per-dimension Ridge calibration, cross-dimensional product, 256 joint features",
+    "old_implementation_was_not_a_numerical_bug_in_its_old_formula": true,
+    "old_results_preserved": true,
+    "original_upstream_project_modified": false
+  },
+  "clipping_contract": {
+    "initial_search_included_upper_1p2": true,
+    "initial_extended_best_test_accuracy": 0.5545243619489559,
+    "strict_standard_factor_clip": [0.000001, 1.0],
+    "strict_model_test_accuracy": 0.5266821345707656,
+    "strict_selection": "highest validation Macro-F1 among 270 existing upper=1 candidates; test not used to select",
+    "strict_selection_new_training_fits": 0,
+    "extended_results_preserved_and_not_claimed_as_strict_replication": true
+  },
+  "unit_test_development_failure": {
+    "failure": "Ideal float64 linspace levels did not exactly match the actual saved bank levels at the upstream tolerance",
+    "fix": "Unit test now reads the original differential_levels.csv instead of inventing exact linspace levels",
+    "bank_or_training_data_changed": false,
+    "final_test_count": 5,
+    "final_tests_passed": 5
+  },
+  "presentation_rendering_failures": [
+    {
+      "failure": "Existing Torch/NumPy2 environment has an OpenCV extension compiled for NumPy1",
+      "fix": "Decode only the real presentation frames in the existing FYP_XZH NumPy1/OpenCV environment via subprocess",
+      "installed_or_upgraded_packages": false,
+      "reextracted_experiment_features": false
+    },
+    {
+      "failure": "Writing an NPY array directly to the subprocess stdout pipe failed",
+      "fix": "Serialize NPY into an in-memory BytesIO buffer, then send bytes through the pipe",
+      "frames_fabricated_or_changed": false
+    }
+  ],
+  "nonblocking_environment_warning": "Existing Matplotlib Axes3D optional projection import warning; all figures are 2D and final table/four-panel PNGs were visually checked",
+  "mathematical_and_saved_model_checks_passed": true,
+  "test_set_status": "Exploratory software screening; test subjects were examined in earlier different-model runs"
+}

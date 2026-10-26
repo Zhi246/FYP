@@ -1,0 +1,11 @@
+# Existing verified environment: /home/ziyan/FYP_2026/.venv/bin/python
+# This additional experiment imports the original project through --hardware-root.
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.15.3
+scikit-learn==1.7.2
+matplotlib==3.10.7
+joblib==1.5.3
+psutil==5.9.0
+threadpoolctl==3.6.0
+torch==2.7.0

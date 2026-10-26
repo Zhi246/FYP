@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "old_head_files_exactly_reused": true,
+  "all_2389_old_features_and_sampling_unchanged": true,
+  "independent_new_feature_formula_training_examples": 12,
+  "same_training_cycle_rows": true,
+  "new_main_fit_normal_equations_verified": true,
+  "group_cv_folds": [
+    {
+      "fold": 0,
+      "same_subject_assignment_as_old_input": true,
+      "same_training_cycles_as_old_input": true,
+      "fold_only_scaling_and_fit_verified": true
+    },
+    {
+      "fold": 1,
+      "same_subject_assignment_as_old_input": true,
+      "same_training_cycles_as_old_input": true,
+      "fold_only_scaling_and_fit_verified": true
+    },
+    {
+      "fold": 2,
+      "same_subject_assignment_as_old_input": true,
+      "same_training_cycles_as_old_input": true,
+      "fold_only_scaling_and_fit_verified": true
+    },
+    {
+      "fold": 3,
+      "same_subject_assignment_as_old_input": true,
+      "same_training_cycles_as_old_input": true,
+      "fold_only_scaling_and_fit_verified": true
+    }
+  ],
+  "test_scores_not_used_for_selection": true
+}

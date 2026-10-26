@@ -1,0 +1,28 @@
+{
+  "started_date_Asia_Shanghai": "2026-10-26",
+  "finished_at_Asia_Shanghai": "2026-10-26T12:23:49+08:00",
+  "CPU": "x86_64",
+  "logical_cpus": 28,
+  "memory_total_bytes": 16674549760,
+  "gpu_used": false,
+  "BLAS_threads": 1,
+  "numpy": "1.26.4",
+  "sklearn": "1.7.2",
+  "python": "3.10.12",
+  "candidate_configurations": 791,
+  "execution_counts": {
+    "new_fit": 770,
+    "previous_identical_fit": 21
+  },
+  "nonconverged_candidates": 0,
+  "video_decodes_this_run": 0,
+  "preprocessing_seconds_this_run": 0.0,
+  "historical_preprocessing_seconds": 14.858058191995951,
+  "grid_fit_seconds_this_run": 37.440154744515894,
+  "additional_selected_model_fit_seconds": 0.0,
+  "search_wall_seconds": 44.760050866985694,
+  "experiment_wall_seconds": 51.41811962498468,
+  "peak_process_rss_bytes": 643903488,
+  "prior_results_unchanged": true,
+  "classification_remains_exploratory": true
+}

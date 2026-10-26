@@ -1,0 +1,141 @@
+{
+  "passed": true,
+  "same_samples": 2389,
+  "same_unique_videos": 599,
+  "all_source_video_bytes_unchanged": true,
+  "new_exclusions": 0,
+  "old_temporal_max_abs_error": 0.0,
+  "conservation_max_abs_error": 7.450580596923828e-09,
+  "timestamp_max_error_seconds": 0.0,
+  "fixed_sampling_plan_matches_cached_indices": true,
+  "tolerance": 1e-07,
+  "independent_training_audit": [
+    {
+      "sample_id": "person11_walking_d1__segment1",
+      "class": "walking",
+      "split": "train",
+      "independent_new_feature_max_abs_error": 2.980232241545089e-09,
+      "independent_old_feature_max_abs_error": 1.7969047326482634e-09,
+      "read_vs_grab_frames_exactly_equal": true,
+      "tolerance": 1e-07,
+      "passed": true
+    },
+    {
+      "sample_id": "person11_walking_d2__segment1",
+      "class": "walking",
+      "split": "train",
+      "independent_new_feature_max_abs_error": 1.7238598257196536e-09,
+      "independent_old_feature_max_abs_error": 1.0153242205324098e-09,
+      "read_vs_grab_frames_exactly_equal": true,
+      "tolerance": 1e-07,
+      "passed": true
+    },
+    {
+      "sample_id": "person11_jogging_d1__segment1",
+      "class": "jogging",
+      "split": "train",
+      "independent_new_feature_max_abs_error": 3.3308477954963056e-09,
+      "independent_old_feature_max_abs_error": 2.2351741776893697e-09,
+      "read_vs_grab_frames_exactly_equal": true,
+      "tolerance": 1e-07,
+      "passed": true
+    },
+    {
+      "sample_id": "person11_jogging_d2__segment1",
+      "class": "jogging",
+      "split": "train",
+      "independent_new_feature_max_abs_error": 3.360065753410524e-09,
+      "independent_old_feature_max_abs_error": 1.986821495519875e-09,
+      "read_vs_grab_frames_exactly_equal": true,
+      "tolerance": 1e-07,
+      "passed": true
+    },
+    {
+      "sample_id": "person11_running_d1__segment1",
+      "class": "running",
+      "split": "train",
+      "independent_new_feature_max_abs_error": 3.827553163304742e-09,
+      "independent_old_feature_max_abs_error": 3.2724118692595283e-09,
+      "read_vs_grab_frames_exactly_equal": true,
+      "tolerance": 1e-07,
+      "passed": true
+    },
+    {
+      "sample_id": "person11_running_d2__segment1",
+      "class": "running",
+      "split": "train",
+      "independent_new_feature_max_abs_error": 4.3242585415215196e-09,
+      "independent_old_feature_max_abs_error": 2.322828068779259e-09,
+      "read_vs_grab_frames_exactly_equal": true,
+      "tolerance": 1e-07,
+      "passed": true
+    },
+    {
+      "sample_id": "person11_boxing_d1__segment1",
+      "class": "boxing",
+      "split": "train",
+      "independent_new_feature_max_abs_error": 1.4864638738648628e-09,
+      "independent_old_feature_max_abs_error": 1.6362059346297642e-09,
+      "read_vs_grab_frames_exactly_equal": true,
+      "tolerance": 1e-07,
+      "passed": true
+    },
+    {
+      "sample_id": "person11_boxing_d2__segment1",
+      "class": "boxing",
+      "split": "train",
+      "independent_new_feature_max_abs_error": 1.8334271878472919e-09,
+      "independent_old_feature_max_abs_error": 1.5010728545566954e-09,
+      "read_vs_grab_frames_exactly_equal": true,
+      "tolerance": 1e-07,
+      "passed": true
+    },
+    {
+      "sample_id": "person11_handwaving_d1__segment1",
+      "class": "handwaving",
+      "split": "train",
+      "independent_new_feature_max_abs_error": 1.504725101464377e-09,
+      "independent_old_feature_max_abs_error": 1.3275911984328426e-09,
+      "read_vs_grab_frames_exactly_equal": true,
+      "tolerance": 1e-07,
+      "passed": true
+    },
+    {
+      "sample_id": "person11_handwaving_d2__segment1",
+      "class": "handwaving",
+      "split": "train",
+      "independent_new_feature_max_abs_error": 1.94299454997493e-09,
+      "independent_old_feature_max_abs_error": 1.913776585121818e-09,
+      "read_vs_grab_frames_exactly_equal": true,
+      "tolerance": 1e-07,
+      "passed": true
+    },
+    {
+      "sample_id": "person11_handclapping_d1__segment1",
+      "class": "handclapping",
+      "split": "train",
+      "independent_new_feature_max_abs_error": 1.5448998009690018e-09,
+      "independent_old_feature_max_abs_error": 7.742760217699374e-10,
+      "read_vs_grab_frames_exactly_equal": true,
+      "tolerance": 1e-07,
+      "passed": true
+    },
+    {
+      "sample_id": "person11_handclapping_d2__segment1",
+      "class": "handclapping",
+      "split": "train",
+      "independent_new_feature_max_abs_error": 1.3659397744836266e-09,
+      "independent_old_feature_max_abs_error": 1.1577617892166714e-09,
+      "read_vs_grab_frames_exactly_equal": true,
+      "tolerance": 1e-07,
+      "passed": true
+    }
+  ],
+  "new_shape": [
+    2389,
+    16
+  ],
+  "new_all_zero_rows": 0,
+  "new_min": 0.000973690184764564,
+  "new_max": 0.1395287662744522
+}

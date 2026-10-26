@@ -1,0 +1,3957 @@
+[
+  {
+    "config_id": "A__none__sigma0__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005618418013909832
+  },
+  {
+    "config_id": "A__none__sigma0__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006152157002361491
+  },
+  {
+    "config_id": "A__none__sigma0__C0.1",
+    "action_this_execution": "previous_identical_fit",
+    "fit_seconds_this_execution": 0.0
+  },
+  {
+    "config_id": "A__none__sigma0__C1",
+    "action_this_execution": "previous_identical_fit",
+    "fit_seconds_this_execution": 0.0
+  },
+  {
+    "config_id": "A__none__sigma0__C10",
+    "action_this_execution": "previous_identical_fit",
+    "fit_seconds_this_execution": 0.0
+  },
+  {
+    "config_id": "A__none__sigma0__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.030910089990356937
+  },
+  {
+    "config_id": "A__none__sigma0__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.03280253001139499
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.005__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0030280539940577
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.005__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.002575400983914733
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.005__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004444136982783675
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.005__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.009777737985132262
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.005__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.023146006016759202
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.005__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04868690899456851
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.005__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.10761154000647366
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.01__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003587568993680179
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.01__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0029859670030418783
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.01__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0053849800024181604
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.01__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.010906810988672078
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.01__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.026296890020603314
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.01__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.06955898899468593
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.01__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.1340667369950097
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.02__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003196154983015731
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.02__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003555164992576465
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.02__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005284184997435659
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.02__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.012836048990720883
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.02__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.032795060018543154
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.02__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.07781938399421051
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.02__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.1625029779970646
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.03__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0031631599995307624
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.03__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0033132849785033613
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.03__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00591834299848415
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.03__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.015389534004498273
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.03__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0346848180051893
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.03__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.08238125301431865
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.03__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.21429192202049308
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.05__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0031873520056251436
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.05__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003916442015906796
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.05__C0.1",
+    "action_this_execution": "previous_identical_fit",
+    "fit_seconds_this_execution": 0.0
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.05__C1",
+    "action_this_execution": "previous_identical_fit",
+    "fit_seconds_this_execution": 0.0
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.05__C10",
+    "action_this_execution": "previous_identical_fit",
+    "fit_seconds_this_execution": 0.0
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.05__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.10819007700774819
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.05__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.2702120299800299
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.075__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003584838006645441
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.075__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004217634996166453
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.075__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006350180978188291
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.075__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.015634543990017846
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.075__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.043025193008361384
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.075__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.11228269099956378
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.075__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.2941588690155186
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.1__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003599033021600917
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.1__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00445933299488388
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.1__C0.1",
+    "action_this_execution": "previous_identical_fit",
+    "fit_seconds_this_execution": 0.0
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.1__C1",
+    "action_this_execution": "previous_identical_fit",
+    "fit_seconds_this_execution": 0.0
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.1__C10",
+    "action_this_execution": "previous_identical_fit",
+    "fit_seconds_this_execution": 0.0
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.1__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.12632678999216296
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.1__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.330101444007596
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.15__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0037304169964045286
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.15__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004331809002906084
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.15__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006296704988926649
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.15__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.017402135010343045
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.15__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.03954026798601262
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.15__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.1260026430245489
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.15__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.33416419400600716
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.2__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004615562997059897
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.2__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004929374990751967
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.2__C0.1",
+    "action_this_execution": "previous_identical_fit",
+    "fit_seconds_this_execution": 0.0
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.2__C1",
+    "action_this_execution": "previous_identical_fit",
+    "fit_seconds_this_execution": 0.0
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.2__C10",
+    "action_this_execution": "previous_identical_fit",
+    "fit_seconds_this_execution": 0.0
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.2__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.10693518200423568
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.2__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.3072223349881824
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.3__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0038779609894845635
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.3__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005309705011313781
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.3__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007968891994096339
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.3__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.017690555017907172
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.3__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.039987029012991115
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.3__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.11100411502411589
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.3__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.3290788529848214
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.5__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0037775110104121268
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.5__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0048270419938489795
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.5__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007486507995054126
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.5__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.013512798002921045
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.5__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.025314306985819712
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.5__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.06025368100381456
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.5__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.1636292909970507
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.75__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004759463976370171
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.75__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004819798021344468
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.75__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005851155990967527
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.75__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.009717778011690825
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.75__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.012622273992747068
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.75__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.02044012799160555
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma0.75__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.08297898099408485
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma1__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0038040239887777716
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma1__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004702032019849867
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma1__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007109308993676677
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma1__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.009740587003761902
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma1__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.011841594008728862
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma1__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.013854288001311943
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma1__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0474616140127182
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma2__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0038669689965900034
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma2__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004711591987870634
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma2__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006874884013086557
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma2__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.009568440000293776
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma2__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.012112566997529939
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma2__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.011663965997286141
+  },
+  {
+    "config_id": "G__uniform_0_1__sigma2__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.01511826299247332
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.005__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003092368977377191
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.005__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0028428180085029453
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.005__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0044353780103847384
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.005__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.010899862012593076
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.005__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.025538695976138115
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.005__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.07291524900938384
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.005__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.15489557399996556
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.01__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003418051026528701
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.01__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0032716520072426647
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.01__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005329829000402242
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.01__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.012697671976638958
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.01__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.03154890099540353
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.01__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.08299564302433282
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.01__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.1854319359990768
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.02__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003408126998692751
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.02__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0033940190041903406
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.02__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006736267008818686
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.02__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.013922846992500126
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.02__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.03269850299693644
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.02__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.08276205501169898
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.02__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.22090330498758703
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.03__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003960244997870177
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.03__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003763627988519147
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.03__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006371029012370855
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.03__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.015900466998573393
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.03__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.041968079982325435
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.03__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.09716666699387133
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.03__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.2719708520162385
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.05__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0034619969956111163
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.05__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0038721879827789962
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.05__C0.1",
+    "action_this_execution": "previous_identical_fit",
+    "fit_seconds_this_execution": 0.0
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.05__C1",
+    "action_this_execution": "previous_identical_fit",
+    "fit_seconds_this_execution": 0.0
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.05__C10",
+    "action_this_execution": "previous_identical_fit",
+    "fit_seconds_this_execution": 0.0
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.05__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.1257876989839133
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.05__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.3208897160075139
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.075__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00448676900123246
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.075__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004754055000375956
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.075__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00765948899788782
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.075__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.017950591980479658
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.075__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04388658897369169
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.075__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.12311311101075262
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.075__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.3535044669988565
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.1__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0038634309894405305
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.1__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004923747997963801
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.1__C0.1",
+    "action_this_execution": "previous_identical_fit",
+    "fit_seconds_this_execution": 0.0
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.1__C1",
+    "action_this_execution": "previous_identical_fit",
+    "fit_seconds_this_execution": 0.0
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.1__C10",
+    "action_this_execution": "previous_identical_fit",
+    "fit_seconds_this_execution": 0.0
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.1__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.12191744201118127
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.1__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.3628910450206604
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.15__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003801055019721389
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.15__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00498736699228175
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.15__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006952978001208976
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.15__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.016651031997753307
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.15__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04979880899190903
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.15__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.12254795999615453
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.15__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.3052355599938892
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.2__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0035731169919017702
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.2__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005247024004347622
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.2__C0.1",
+    "action_this_execution": "previous_identical_fit",
+    "fit_seconds_this_execution": 0.0
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.2__C1",
+    "action_this_execution": "previous_identical_fit",
+    "fit_seconds_this_execution": 0.0
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.2__C10",
+    "action_this_execution": "previous_identical_fit",
+    "fit_seconds_this_execution": 0.0
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.2__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.11869639498763718
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.2__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.2577271889895201
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.3__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0037307369930204004
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.3__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004593652993207797
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.3__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007228199014207348
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.3__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.015483777999179438
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.3__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.03136975900270045
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.3__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.10157009598333389
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.3__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.1902150990208611
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.5__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003775335004320368
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.5__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004568628006381914
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.5__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005977566994260997
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.5__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.011925489001441747
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.5__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.022911535983439535
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.5__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04938246399979107
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.5__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.06780407499172725
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.75__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004102992010302842
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.75__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0043246609857305884
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.75__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006203401979291812
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.75__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.009730880003189668
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.75__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.011915106006199494
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.75__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.01801596299628727
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma0.75__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.027211359003558755
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma1__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004320853011449799
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma1__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004296755010727793
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma1__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005582892015809193
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma1__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.009507167007541284
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma1__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.011560843995539472
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma1__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.01059347199043259
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma1__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.01217528700362891
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma2__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0037876499991398305
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma2__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004476617992622778
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma2__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005767202994320542
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma2__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006767746002878994
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma2__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007007929001701996
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma2__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00675611401675269
+  },
+  {
+    "config_id": "G__uniform_p01_p99__sigma2__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006319739011814818
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.005__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0030366519931703806
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.005__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003188877977663651
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.005__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005055958987213671
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.005__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.010870872007217258
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.005__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.02293988599558361
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.005__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04783404601039365
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.005__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.07582075099344365
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.01__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003067112003918737
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.01__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003633437998360023
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.01__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005643907003104687
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.01__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.012703730026260018
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.01__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.02294890402117744
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.01__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.049640661978628486
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.01__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.05887459599762224
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.02__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003997498017270118
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.02__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004094528005225584
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.02__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007037978008156642
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.02__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.01570665300823748
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.02__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.03704834700329229
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.02__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.05044658199767582
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.02__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.06292170798406005
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.03__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0034753679938148707
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.03__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004072306997841224
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.03__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007433424994815141
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.03__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.01614848099416122
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.03__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04607929798658006
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.03__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.12268288902123459
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.03__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.23522650302038528
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.05__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0036204630159772933
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.05__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00477378600044176
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.05__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00894201101618819
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.05__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.01893743299297057
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.05__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04689660298754461
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.05__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.12522882700432092
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.05__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.3406803440011572
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.075__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003920004994142801
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.075__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0052137029997538775
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.075__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.008130742993671447
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.075__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.019018054008483887
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.075__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04931574600050226
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.075__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.13276262002182193
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.075__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.34689286298817024
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.1__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004678721015807241
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.1__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004590052994899452
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.1__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007620303018484265
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.1__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.01722682500258088
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.1__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04718066900386475
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.1__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.13028873002622277
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.1__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.3293532870011404
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.15__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0037907069781795144
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.15__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004523246985627338
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.15__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007036516006337479
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.15__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.01769770198734477
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.15__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.046349841984920204
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.15__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.10964030600734986
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.15__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.32857518299715593
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.2__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005271141999401152
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.2__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004546821000985801
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.2__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006812407984398305
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.2__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.016157243022462353
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.2__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.036584976012818515
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.2__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.10678032599389553
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.2__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.24077347700949758
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.3__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00437827201676555
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.3__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003875794995110482
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.3__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006556900014402345
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.3__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.011993204010650516
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.3__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.029289517988217995
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.3__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.08670029300265014
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.3__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.16253675500047393
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.5__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0036948409979231656
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.5__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004069489979883656
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.5__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006519552989630029
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.5__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.008310181001434103
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.5__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.015758273017127067
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.5__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.028300320002017543
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.5__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.08972099699894898
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.75__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0033914269879460335
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.75__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0038059680082369596
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.75__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0059210300096310675
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.75__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.008530913008144125
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.75__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00989525398472324
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.75__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.021328128001186997
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma0.75__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.023218109010485932
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma1__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004693505994509906
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma1__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004031811986351386
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma1__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0048776339972391725
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma1__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007726137002464384
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma1__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00958472999627702
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma1__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.009736892010550946
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma1__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.011105964018497616
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma2__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003213062009308487
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma2__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004099881974980235
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma2__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005599171010544524
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma2__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0053873430006206036
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma2__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00730124200345017
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma2__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006447015010053292
+  },
+  {
+    "config_id": "G__uniform_p05_p95__sigma2__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0059110580186825246
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.005__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0031693599885329604
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.005__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0031936120067257434
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.005__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00510717899305746
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.005__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.011000216007232666
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.005__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.024710269004572183
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.005__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04407405399251729
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.005__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.09961108001880348
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.01__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0029562450072262436
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.01__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004385893000289798
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.01__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007325753016630188
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.01__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.013678688002983108
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.01__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.03235054700053297
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.01__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.06288337000296451
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.01__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.09786696301307529
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.02__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0032830460113473237
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.02__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0039883019926492125
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.02__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006926686997758225
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.02__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.014975550991948694
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.02__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.03861236499506049
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.02__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.06499751299270429
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.02__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.12989127900800668
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.03__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0037349259946495295
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.03__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0043277679942548275
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.03__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007010989007540047
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.03__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.01690000097732991
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.03__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04408214500290342
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.03__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.10466832600650378
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.03__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.30938838300062343
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.05__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00472441699821502
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.05__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004599199979566038
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.05__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007266671978868544
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.05__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.018031624000286683
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.05__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04390377597883344
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.05__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.13427912301267497
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.05__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.3695579790219199
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.075__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003894071007380262
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.075__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00478091900004074
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.075__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007649731007404625
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.075__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.019039570004679263
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.075__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.048094957979628816
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.075__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.13914880601805635
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.075__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.40169442500337027
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.1__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004552967002382502
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.1__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004405537009006366
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.1__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007042117009405047
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.1__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.016986978007480502
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.1__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.05148213900974952
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.1__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.13822789400001056
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.1__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.3817213579895906
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.15__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003864561003865674
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.15__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004354603006504476
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.15__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007307963009225205
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.15__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0183195470017381
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.15__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04194497098797001
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.15__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.10407513901009224
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.15__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.33193228900199756
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.2__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0039505249878857285
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.2__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004384327010484412
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.2__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0067772879847325385
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.2__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0169379000144545
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.2__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.039299944997765124
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.2__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0879506979836151
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.2__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.2536228130047675
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.3__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003565996012184769
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.3__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004441744007635862
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.3__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006885507988044992
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.3__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.013498190004611388
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.3__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.036362610990181565
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.3__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.07529367800452746
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.3__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.18537959098466672
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.5__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003390956000657752
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.5__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00412349498947151
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.5__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006392448995029554
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.5__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.01017077302094549
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.5__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.016714581986889243
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.5__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0453083380125463
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.5__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.14024340498144738
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.75__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0037866359925828874
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.75__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003925995988538489
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.75__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0064535980054643005
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.75__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.008404927008086815
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.75__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.010298658977262676
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.75__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.026078634982695803
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma0.75__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.02699342300184071
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma1__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0035200710117351264
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma1__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004453763016499579
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma1__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005924390978179872
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma1__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007225167995784432
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma1__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00977842800784856
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma1__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.011810531985247508
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma1__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.014464192994637415
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma2__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0034335860109422356
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma2__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004237323999404907
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma2__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005638772010570392
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma2__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005699832981918007
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma2__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.009915892995195463
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma2__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006137733987998217
+  },
+  {
+    "config_id": "G__uniform_0_p95__sigma2__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005671143997460604
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.005__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0032952699984889477
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.005__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0033015059889294207
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.005__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007437096996000037
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.005__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.012382371991407126
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.005__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.025973519979743287
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.005__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.05158421301166527
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.005__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.17207149401656352
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.01__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004231248021824285
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.01__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0035030579892918468
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.01__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005963019008049741
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.01__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.014578138012439013
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.01__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.03335070700268261
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.01__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.08362947398563847
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.01__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.168233981996309
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.02__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003386408992810175
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.02__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004216329019982368
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.02__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007406732009258121
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.02__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.01698136900085956
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.02__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04158220501267351
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.02__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.1083080800017342
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.02__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.24866484900121577
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.03__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003665121999802068
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.03__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00461444299435243
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.03__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007339692994719371
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.03__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.018118976993719116
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.03__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04738603299483657
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.03__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.12335421299212612
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.03__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.32434035901678726
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.05__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003830419998848811
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.05__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004442800011020154
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.05__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007356470974627882
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.05__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.01953548999154009
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.05__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04751139800646342
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.05__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.12843560599139892
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.05__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.32882375197368674
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.075__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0038758300070185214
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.075__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004478895978536457
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.075__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.008262863993877545
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.075__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.019013779994565994
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.075__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04683061598916538
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.075__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.12621207197662443
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.075__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.3919607420102693
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.1__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0039933490043040365
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.1__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005560777004575357
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.1__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007704110990744084
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.1__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.016729274997487664
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.1__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.049832423974294215
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.1__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.10039038700051606
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.1__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.34168189601041377
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.15__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0036643320054281503
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.15__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004479230992728844
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.15__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0077153510064817965
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.15__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.01723597600357607
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.15__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04445583501365036
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.15__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.12323226500302553
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.15__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.2961413390003145
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.2__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0037256650102790445
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.2__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004523151001194492
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.2__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00697138300165534
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.2__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.01630886399652809
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.2__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04129728997941129
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.2__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.11282866599503905
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.2__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.3187068050028756
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.3__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003648162994068116
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.3__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004253513005096465
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.3__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006465144018875435
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.3__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.013859066995792091
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.3__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.03402649599593133
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.3__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.07258033799007535
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.3__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.20062140197842382
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.5__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0036904480075463653
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.5__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004175876994850114
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.5__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0060024859849363565
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.5__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.008728471002541482
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.5__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.013470207981299609
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.5__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.02688852697610855
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.5__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.1034820530039724
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.75__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00414878100855276
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.75__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0040153570007532835
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.75__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005598839983576909
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.75__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.008040271000936627
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.75__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.009451952995732427
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.75__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.016255121008725837
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma0.75__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.027301711990730837
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma1__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0035779049794655293
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma1__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003949910984374583
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma1__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00702580000506714
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma1__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.009252264979295433
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma1__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.010191199980909005
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma1__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.009249408991308883
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma1__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.010882208996918052
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma2__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0038355389842763543
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma2__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004161710996413603
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma2__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005790295981569216
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma2__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0064700810180511326
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma2__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007117439992725849
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma2__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.008009762997971848
+  },
+  {
+    "config_id": "G__quantile_p01_p99__sigma2__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0069949449971318245
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.005__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0031489499961026013
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.005__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0036183659976813942
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.005__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005693151004379615
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.005__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.012076842016540468
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.005__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.027602502988884225
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.005__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.05324361697421409
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.005__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.07763904600869864
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.01__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0033606219803914428
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.01__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0044871340214740485
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.01__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0062381479947362095
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.01__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.01383043100940995
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.01__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.03169152102782391
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.01__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.06246986601036042
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.01__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.09510776400566101
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.02__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0037157039914745837
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.02__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004479721974348649
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.02__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0064269190188497305
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.02__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.01816603899351321
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.02__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04562675199122168
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.02__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.1137306040036492
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.02__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.27197984300437383
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.03__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0039923390140756965
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.03__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004253450984833762
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.03__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00656153800082393
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.03__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.01971248901099898
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.03__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.05048567699850537
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.03__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.11512718701851554
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.03__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.3168993419967592
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.05__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003955780994147062
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.05__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004615928017301485
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.05__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007810392999090254
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.05__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.019045959983486682
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.05__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04792826497578062
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.05__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.12428520599496551
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.05__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.3160998869861942
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.075__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003974866995122284
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.075__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004263501992681995
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.075__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006791138992412016
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.075__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.018766364984912798
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.075__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04573953300132416
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.075__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.1249610910017509
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.075__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.3635909729928244
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.1__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0038008050178177655
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.1__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004944062005961314
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.1__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007461581990355626
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.1__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.01804101900779642
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.1__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04619220001040958
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.1__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.11869616599869914
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.1__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.3765221229987219
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.15__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0036358560028020293
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.15__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004187026992440224
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.15__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007609607971971855
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.15__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.016473922005388886
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.15__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0456449190096464
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.15__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.10539221201906912
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.15__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.3593667929817457
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.2__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004226685996400192
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.2__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0060768050025217235
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.2__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.008110448019579053
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.2__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.014379161002580076
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.2__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.034671404981054366
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.2__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.08900099797756411
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.2__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.23531277899746783
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.3__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003808195993769914
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.3__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004176000016741455
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.3__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007151554978918284
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.3__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.01345253799809143
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.3__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.025509033002890646
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.3__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.06477004097541794
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.3__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.18777014900115319
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.5__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0037663650000467896
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.5__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004048751987284049
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.5__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005567657994106412
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.5__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007701300986809656
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.5__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.01849430301808752
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.5__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.029932603996712714
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.5__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.08683594097965397
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.75__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0038068220019340515
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.75__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003935957996873185
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.75__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00553312900592573
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.75__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00903343700338155
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.75__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00957746000494808
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.75__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.010862470022402704
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma0.75__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.019771731982473284
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma1__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0035480869992170483
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma1__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0039015650108922273
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma1__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005471309006679803
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma1__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.008363503991859034
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma1__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0088211260153912
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma1__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.010250040009850636
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma1__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.011704480013577268
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma2__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005168089002836496
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma2__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004172335000475869
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma2__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005571539019001648
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma2__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00662169698625803
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma2__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006455054972320795
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma2__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006371447001583874
+  },
+  {
+    "config_id": "G__quantile_p05_p95__sigma2__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0066762200149241835
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.005__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003063599986489862
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.005__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0033753979951143265
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.005__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0050941649824380875
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.005__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.012194821989396587
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.005__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.02680358401266858
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.005__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.05333332601003349
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.005__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.10428931697970256
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.01__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.002865404007025063
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.01__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00366904100519605
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.01__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0056837569864001125
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.01__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.013294117001350969
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.01__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.030821427993942052
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.01__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.067161484999815
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.01__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.12543716200161725
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.02__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0031855189881753176
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.02__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0036733699962496758
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.02__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006411791982827708
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.02__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.014136250974843279
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.02__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.03551010199589655
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.02__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0981955440074671
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.02__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.24679246402229182
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.03__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0033538689895067364
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.03__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004089102003490552
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.03__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0074772620282601565
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.03__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.015587878006044775
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.03__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.038969393994193524
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.03__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.10068293201038614
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.03__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.2337882130232174
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.05__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0036639029858633876
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.05__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004103080980712548
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.05__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006829596008174121
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.05__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.017465501005062833
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.05__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04669473000103608
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.05__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.11003985599381849
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.05__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.28499517697491683
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.075__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003786007990129292
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.075__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004316654027206823
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.075__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007082852011080831
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.075__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.018056646978948265
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.075__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.049304852000204846
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.075__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.12330814701272175
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.075__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.3750354170042556
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.1__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0036945980100426823
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.1__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004421916994033381
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.1__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00729728999431245
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.1__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.01814664198900573
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.1__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0469895779970102
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.1__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.13438472099369392
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.1__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.38422287499997765
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.15__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003931450977688655
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.15__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004769628983922303
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.15__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.008703708997927606
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.15__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.018624543998157606
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.15__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04941762101952918
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.15__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.13023993000388145
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.15__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.27684561000205576
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.2__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004387158987810835
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.2__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004729523992864415
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.2__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006719842000165954
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.2__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.017127887986134738
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.2__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04569401600747369
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.2__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.12622998899314553
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.2__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.3590000690019224
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.3__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0038000539934728295
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.3__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00549074198352173
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.3__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.008244243013905361
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.3__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.018203405023086816
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.3__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.041636109992396086
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.3__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.11825434700585902
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.3__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.28042602198547684
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.5__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004217031004372984
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.5__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004852233978454024
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.5__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006656157987890765
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.5__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.012421945022651926
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.5__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.023256757005583495
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.5__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.07837652499438263
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.5__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.13624401501147076
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.75__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003846814011922106
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.75__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004780936025781557
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.75__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005540300975553691
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.75__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.008717647986486554
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.75__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.009705352014862001
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.75__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0369360450131353
+  },
+  {
+    "config_id": "G__power2_0_1__sigma0.75__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.047018857003422454
+  },
+  {
+    "config_id": "G__power2_0_1__sigma1__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003988694021245465
+  },
+  {
+    "config_id": "G__power2_0_1__sigma1__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00481826500617899
+  },
+  {
+    "config_id": "G__power2_0_1__sigma1__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0062874660070519894
+  },
+  {
+    "config_id": "G__power2_0_1__sigma1__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.008944083994720131
+  },
+  {
+    "config_id": "G__power2_0_1__sigma1__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.009213993995217606
+  },
+  {
+    "config_id": "G__power2_0_1__sigma1__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.011142546980408952
+  },
+  {
+    "config_id": "G__power2_0_1__sigma1__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.031059203000040725
+  },
+  {
+    "config_id": "G__power2_0_1__sigma2__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0040901610045693815
+  },
+  {
+    "config_id": "G__power2_0_1__sigma2__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0044669139897450805
+  },
+  {
+    "config_id": "G__power2_0_1__sigma2__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005830465001054108
+  },
+  {
+    "config_id": "G__power2_0_1__sigma2__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.008041806984692812
+  },
+  {
+    "config_id": "G__power2_0_1__sigma2__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.011620615987339988
+  },
+  {
+    "config_id": "G__power2_0_1__sigma2__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.011846926994621754
+  },
+  {
+    "config_id": "G__power2_0_1__sigma2__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.013222784007666633
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.005__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0029583299765363336
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.005__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0031507519888691604
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.005__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005628741986583918
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.005__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.010268535988871008
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.005__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0231427020044066
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.005__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.07306160998996347
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.005__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.16582697498961352
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.01__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0030416329973377287
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.01__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0033808349980972707
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.01__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006945502012968063
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.01__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.015278882987331599
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.01__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.028380425996147096
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.01__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.08317771600559354
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.01__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.1924872880044859
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.02__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0035730999952647835
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.02__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00401817899546586
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.02__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.009053874993696809
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.02__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.017476390989031643
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.02__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.038452490989584476
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.02__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.08019576099468395
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.02__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.18548935899161734
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.03__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003418720996705815
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.03__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004258213011780754
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.03__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007210237992694601
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.03__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.016758338984800503
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.03__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04374552200897597
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.03__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.10480737901525572
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.03__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.24190859001828358
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.05__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003885787009494379
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.05__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00437315899762325
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.05__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007301814010133967
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.05__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.016778485995018855
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.05__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04832055198494345
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.05__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.12575393600855023
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.05__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.3276232600037474
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.075__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0037940990005154163
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.075__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005549254012294114
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.075__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007377850997727364
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.075__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.018383718008408323
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.075__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04839272401295602
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.075__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.1288184009899851
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.075__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.359573622001335
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.1__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003676291002193466
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.1__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005341951997252181
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.1__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007436713989591226
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.1__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.018937218002974987
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.1__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.051358630997128785
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.1__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.14022297397605143
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.1__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.3594513190037105
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.15__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.00405110398423858
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.15__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006457285984652117
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.15__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.009049671003594995
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.15__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.019565705995773897
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.15__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04466868899180554
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.15__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.1263553999888245
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.15__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.2975245760171674
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.2__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003615413006627932
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.2__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004890587006229907
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.2__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006615445017814636
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.2__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.01665487201535143
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.2__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.04645739999250509
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.2__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.11727185398922302
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.2__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.39345044299261644
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.3__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003705979004735127
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.3__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0049417160043958575
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.3__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.007267046021297574
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.3__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.017984820995479822
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.3__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.043507098976988345
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.3__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.11666949201026
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.3__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.26329423900460824
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.5__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004051658004755154
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.5__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0050684490124695
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.5__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006759255978977308
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.5__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.01187335400027223
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.5__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.020612946012988687
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.5__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0674127489910461
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.5__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.14642548499978147
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.75__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.003726085997186601
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.75__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004481585987377912
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.75__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005836322990944609
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.75__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.010134612995898351
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.75__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.010985548986354843
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.75__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.020191404997603968
+  },
+  {
+    "config_id": "G__power3_0_1__sigma0.75__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.03380670500337146
+  },
+  {
+    "config_id": "G__power3_0_1__sigma1__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0039020979893393815
+  },
+  {
+    "config_id": "G__power3_0_1__sigma1__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.005112288985401392
+  },
+  {
+    "config_id": "G__power3_0_1__sigma1__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006365578010445461
+  },
+  {
+    "config_id": "G__power3_0_1__sigma1__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.009416345012141392
+  },
+  {
+    "config_id": "G__power3_0_1__sigma1__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.012238958006491885
+  },
+  {
+    "config_id": "G__power3_0_1__sigma1__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.014165265019983053
+  },
+  {
+    "config_id": "G__power3_0_1__sigma1__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.02944649799610488
+  },
+  {
+    "config_id": "G__power3_0_1__sigma2__C0.001",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.0046775460068602115
+  },
+  {
+    "config_id": "G__power3_0_1__sigma2__C0.01",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.004410538007505238
+  },
+  {
+    "config_id": "G__power3_0_1__sigma2__C0.1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.006063775013899431
+  },
+  {
+    "config_id": "G__power3_0_1__sigma2__C1",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.008480840013362467
+  },
+  {
+    "config_id": "G__power3_0_1__sigma2__C10",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.009850968985119835
+  },
+  {
+    "config_id": "G__power3_0_1__sigma2__C100",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.010370509990025312
+  },
+  {
+    "config_id": "G__power3_0_1__sigma2__C1000",
+    "action_this_execution": "new_fit",
+    "fit_seconds_this_execution": 0.011741688998881727
+  }
+]

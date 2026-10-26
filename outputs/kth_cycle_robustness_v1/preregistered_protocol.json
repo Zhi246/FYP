@@ -1,0 +1,58 @@
+{
+  "written_before_fitting_and_test_evaluation": true,
+  "seed": 42,
+  "training_copies_per_clip": 8,
+  "cycle_pool_counts": {
+    "train": 240,
+    "validation": 80,
+    "test": 80
+  },
+  "hyperparameter_search": false,
+  "sigma": 0.25,
+  "factor_clip": [
+    1e-06,
+    1.0
+  ],
+  "centers": "Same 256 original training-only KMeans centers",
+  "anchor_unique_n": 760,
+  "calibration_anchor_sum_alpha": 0.01,
+  "head_anchor_sum_alpha": 0.1,
+  "average_loss_calibration_lambda": 1.3157894736842106e-05,
+  "average_loss_head_lambda": 0.00013157894736842105,
+  "objective": "mean squared error per response row + lambda * squared non-intercept weights",
+  "sum_alpha_rule": "anchor_alpha * response_row_count / 760; eight copies -> eight times sum alpha",
+  "g1_control": "G0 standardization and calibration frozen; only head sees augmented responses",
+  "g2_scope": "Train-response standardization AND calibration AND head refitted on 8 cycles; not a calibration-weights-only intervention",
+  "training_cycles_seed": 143,
+  "validation_draw_seeds": [
+    2042,
+    2043,
+    2044,
+    2045,
+    2046,
+    2047,
+    2048,
+    2049,
+    2050,
+    2051
+  ],
+  "test_draw_seeds": [
+    3042,
+    3043,
+    3044,
+    3045,
+    3046,
+    3047,
+    3048,
+    3049,
+    3050,
+    3051
+  ],
+  "main_condition": "Recorded cycle only; one shared library cycle index per clip across all dimensions/channels",
+  "secondary_condition": "Original simulator 1-5% multiplicative noise; magnitude references fit train cycles only",
+  "mean_reference": "Separate bank-pool mean at each split (240/80/80 reads), not single-read performance",
+  "selection": "Among G0/G1/G2: validation cycle Macro-F1 mean desc, accuracy mean desc, Macro-F1 std asc, G0/G1/G2 order",
+  "group_cv": "4 folds within original training 8 people; fold-only scaling/centers/stats/fit; five validation-cycle draws; stability audit not selector",
+  "test_status": "Exploratory: KTH test split and full processed bank were viewed previously; not independent new-device validation",
+  "test_mean_and_noise_do_not_select_models": true
+}

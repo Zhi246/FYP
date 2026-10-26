@@ -1,0 +1,11 @@
+{
+  "fit_split": "train",
+  "maximum": 0.1383846402168274,
+  "denominator": 0.1383846402168274,
+  "other_clipped_value_fraction": 2.6161573880284638e-05,
+  "clipped_value_fraction_by_split": {
+    "train": 0.0,
+    "validation": 8.148631029986962e-05,
+    "test": 0.0
+  }
+}

@@ -1,0 +1,11 @@
+cd /home/ziyan/FYP_XZH
+/home/ziyan/FYP_2026/.venv/bin/python -m unittest test_kth_joint_rbf -v
+/home/ziyan/FYP_2026/.venv/bin/python -u run_kth_joint_rbf.py
+/home/ziyan/FYP_2026/.venv/bin/python -u finalize_kth_joint_standard.py
+/home/ziyan/FYP_2026/.venv/bin/python verify_kth_joint.py
+/home/ziyan/FYP_2026/.venv/bin/python render_kth_joint_report.py
+
+Training code imports /home/ziyan/SURF2026/rbf_hardware/src read-only.
+Raw video/feature data are reused from outputs/kth_six_subject_split_v1/.
+Rendering uses /home/ziyan/FYP_XZH/.venv/bin/python only to decode 3 real presentation frames.
+Completed experiments are reused when signatures agree; no git push or hardware operations performed.

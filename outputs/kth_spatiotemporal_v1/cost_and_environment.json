@@ -1,0 +1,22 @@
+{
+  "training_evaluation_and_verification_wall_seconds": 14.198953420011094,
+  "new_main_fit_seconds": 0.24677286299993284,
+  "new_group_cv_seconds": 1.214370861009229,
+  "process_peak_rss_bytes": 804921344,
+  "cpu": "Intel(R) Core(TM) i7-14700KF",
+  "logical_cpus": 28,
+  "torch_threads": 1,
+  "system_ram_bytes": 16674549760,
+  "gpu_used": false,
+  "new_main_primary_head_fits": 3,
+  "new_main_diagnostic_head_fits": 1,
+  "new_main_calibration_fits": 1,
+  "new_cv_head_fits": 16,
+  "new_cv_calibration_fits": 4,
+  "old_main_head_fits_reused": 4,
+  "old_cv_head_fits_reused": 16,
+  "new_raw_feature_bytes": 305792,
+  "new_augmented_response_bytes": 6225920,
+  "one_test_joint_feature_matrix_bytes": 882688,
+  "note": "Video extraction measured separately in preprocessing/cost_and_environment.json; no hardware latency or energy measured."
+}

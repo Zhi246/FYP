@@ -1,0 +1,20 @@
+[
+  {
+    "method": "A",
+    "config_id": "A__none__sigma0__C0.1",
+    "provenance": "original_identical_model_reused",
+    "additional_fit_seconds": 0.0
+  },
+  {
+    "method": "G_default",
+    "config_id": "G__uniform_0_1__sigma0.1__C0.001",
+    "provenance": "expanded_grid_model_reused",
+    "additional_fit_seconds": 0.0
+  },
+  {
+    "method": "G_adjusted",
+    "config_id": "G__uniform_0_p95__sigma0.1__C0.1",
+    "provenance": "expanded_grid_model_reused",
+    "additional_fit_seconds": 0.0
+  }
+]

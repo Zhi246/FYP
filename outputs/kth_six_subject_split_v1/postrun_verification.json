@@ -1,0 +1,40 @@
+{
+  "status": "PASSED",
+  "unit_tests": {
+    "command": ".venv/bin/python -m unittest -v test_kth.py",
+    "passed": 9,
+    "synthetic_arrays_only_for_numerical_unit_tests": true,
+    "reported_experiment_uses_only_real_KTH_videos": true
+  },
+  "saved_result_verification": {
+    "command": ".venv/bin/python verify_kth.py",
+    "passed": true,
+    "verified_subsequences": 2389,
+    "new_classifier_fits": 0,
+    "checks": [
+      "sample IDs, labels and official subject splits",
+      "training-only global scaling, centers and StandardScaler mean/variance",
+      "saved raw/scaled/Gaussian feature arrays",
+      "saved model predictions and probabilities",
+      "accuracy, Macro-F1 and confusion matrix diagonals",
+      "recorded permutation checks"
+    ],
+    "initial_tool_issue": "NumPy default allow_pickle=False rejected object-type string metadata; enabled only for trusted local experiment artifacts. No feature/model/result changed.",
+    "source_snapshot_contains_corrected_verifier": true
+  },
+  "cache_reuse_check": {
+    "command": ".venv/bin/python -u run_kth.py",
+    "passed": true,
+    "result": "Identical completed experiment reused; no preprocessing or training repeated.",
+    "new_classifier_fits": 0
+  },
+  "plots_visually_inspected": [
+    "four_panel_summary.png",
+    "results_table.png",
+    "sampling_contact_sheets/walking_1_gray.png"
+  ],
+  "decoder_warning_record": "decoder_warning_audit.json",
+  "postrun_interpretation": "结果解读与建议.md",
+  "no_hardware_operation": true,
+  "prior_HMDB_results_preserved": true
+}

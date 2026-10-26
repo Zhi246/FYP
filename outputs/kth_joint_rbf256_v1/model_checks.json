@@ -1,0 +1,105 @@
+{
+  "passed": true,
+  "model": "Original dimension-labelled full joint Gaussian, NOT scalar response sum.",
+  "inference_transform_uses_only_hardware_response": true,
+  "checks": {
+    "Hardware_joint256_default": {
+      "independent_product_max_abs_error": 0.0,
+      "coordinated_dimension_relabelling_max_error": 0.0,
+      "input_only_permutation_max_feature_change": 0.20876294374465942,
+      "input_only_invariance_required": false,
+      "tolerance_atol": 2e-07,
+      "tolerance_rtol": 2e-06,
+      "normal_equations_relative_residual": 4.081992802058922e-12,
+      "ridge_is_direct_solve_not_iterative": true,
+      "train_only_means_stds_exact": true,
+      "diagnostics": [
+        {
+          "split": "train",
+          "factor_rmse_before_clip": 0.03535649564576673,
+          "factor_relative_rmse": 0.04223138818981231,
+          "low_clip_fraction": 0.001824951171875,
+          "high_clip_fraction": 0.020602256373355263,
+          "joint_rmse": 0.05922469795137826,
+          "joint_relative_rmse": 0.1462070494890213,
+          "joint_linear_cka": 0.9910278043916002,
+          "all_zero_joint_rows": 0,
+          "constant_joint_channels": 0
+        },
+        {
+          "split": "validation",
+          "factor_rmse_before_clip": 0.034840205448454856,
+          "factor_relative_rmse": 0.04155041143534103,
+          "low_clip_fraction": 0.0015329612125162973,
+          "high_clip_fraction": 0.02096489977183833,
+          "joint_rmse": 0.061039731827177056,
+          "joint_relative_rmse": 0.144952192902565,
+          "joint_linear_cka": 0.9911093233843572,
+          "all_zero_joint_rows": 0,
+          "constant_joint_channels": 0
+        },
+        {
+          "split": "test",
+          "factor_rmse_before_clip": 0.030650233395379062,
+          "factor_relative_rmse": 0.036052568023188146,
+          "low_clip_fraction": 0.000740352196925754,
+          "high_clip_fraction": 0.017372219855713456,
+          "joint_rmse": 0.05945539520774565,
+          "joint_relative_rmse": 0.1344842165708542,
+          "joint_linear_cka": 0.9930410746447814,
+          "all_zero_joint_rows": 0,
+          "constant_joint_channels": 0
+        }
+      ]
+    },
+    "Hardware_joint256_tuned": {
+      "independent_product_max_abs_error": 0.0,
+      "coordinated_dimension_relabelling_max_error": 0.0,
+      "input_only_permutation_max_feature_change": 0.1343083381652832,
+      "input_only_invariance_required": false,
+      "tolerance_atol": 2e-07,
+      "tolerance_rtol": 2e-06,
+      "normal_equations_relative_residual": 2.4947053657094036e-12,
+      "ridge_is_direct_solve_not_iterative": true,
+      "train_only_means_stds_exact": true,
+      "diagnostics": [
+        {
+          "split": "train",
+          "factor_rmse_before_clip": 0.0186644100242524,
+          "factor_relative_rmse": 0.01992831062740758,
+          "low_clip_fraction": 0.0,
+          "high_clip_fraction": 0.0,
+          "joint_rmse": 0.02582073797190062,
+          "joint_relative_rmse": 0.04197625815868378,
+          "joint_linear_cka": 0.9965002644271578,
+          "all_zero_joint_rows": 0,
+          "constant_joint_channels": 0
+        },
+        {
+          "split": "validation",
+          "factor_rmse_before_clip": 0.017782825421097895,
+          "factor_relative_rmse": 0.01896938800564237,
+          "low_clip_fraction": 0.0,
+          "high_clip_fraction": 0.0,
+          "joint_rmse": 0.024924211786011747,
+          "joint_relative_rmse": 0.04017731547355652,
+          "joint_linear_cka": 0.9971202008626938,
+          "all_zero_joint_rows": 0,
+          "constant_joint_channels": 0
+        },
+        {
+          "split": "test",
+          "factor_rmse_before_clip": 0.014787338113946651,
+          "factor_relative_rmse": 0.015679299131919944,
+          "low_clip_fraction": 0.0,
+          "high_clip_fraction": 0.0,
+          "joint_rmse": 0.025591873110110824,
+          "joint_relative_rmse": 0.039867110550403595,
+          "joint_linear_cka": 0.9967952367032462,
+          "all_zero_joint_rows": 0,
+          "constant_joint_channels": 0
+        }
+      ]
+    }
+  }
+}

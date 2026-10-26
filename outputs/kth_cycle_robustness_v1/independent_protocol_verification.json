@@ -1,0 +1,79 @@
+{
+  "passed": true,
+  "complete_cycle_vectors_unique": 400,
+  "reused_control_environment_versions_exact": true,
+  "reused_control_normal_equations_verified": true,
+  "group_cv_fold_audit": [
+    {
+      "fold": 0,
+      "train_subjects": [
+        11,
+        13,
+        14,
+        15,
+        17,
+        18
+      ],
+      "validation_subjects": [
+        12,
+        16
+      ],
+      "train_only_scaling_and_response_statistics": true,
+      "normalized_regularization_verified": true
+    },
+    {
+      "fold": 1,
+      "train_subjects": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "validation_subjects": [
+        11,
+        18
+      ],
+      "train_only_scaling_and_response_statistics": true,
+      "normalized_regularization_verified": true
+    },
+    {
+      "fold": 2,
+      "train_subjects": [
+        11,
+        12,
+        14,
+        16,
+        17,
+        18
+      ],
+      "validation_subjects": [
+        13,
+        15
+      ],
+      "train_only_scaling_and_response_statistics": true,
+      "normalized_regularization_verified": true
+    },
+    {
+      "fold": 3,
+      "train_subjects": [
+        11,
+        12,
+        13,
+        15,
+        16,
+        18
+      ],
+      "validation_subjects": [
+        14,
+        17
+      ],
+      "train_only_scaling_and_response_statistics": true,
+      "normalized_regularization_verified": true
+    }
+  ],
+  "saved_feature_files_checked": 36,
+  "g0_g1_saved_gaussian_features_identical": true,
+  "scope": "Processed-bank index holdout only; source workbook normalization and chronology not independently verified"
+}

@@ -1,0 +1,32 @@
+{
+  "written_before_new_fits_or_test_evaluation": true,
+  "primary_comparison": "same 16 input dimensions, old temporal16 vs region4 x time4",
+  "feature_order": "top_left times1..4; top_right times1..4; bottom_left times1..4; bottom_right times1..4",
+  "only_video_input_encoding_changes": true,
+  "video_sampling_indices_identical": true,
+  "sigma": 0.25,
+  "factor_clip": [
+    1e-06,
+    1.0
+  ],
+  "joint_centers": 256,
+  "seed": 42,
+  "new_parameter_search": false,
+  "linear_anchor_head_alpha": 1.0,
+  "gaussian_anchor_head_alpha": 0.1,
+  "calibration_anchor_alpha": 0.01,
+  "average_loss_anchor_unique_n": 760,
+  "g1_augmented_rows": 6080,
+  "g1_sum_form_head_alpha": 0.8,
+  "input_scaling": "Representation-specific training global max, held-out clipped; not per-video or per-position",
+  "centers_and_all_new_fit_parameters_train_only": true,
+  "g1_standardization_and_calibration_frozen_g0": true,
+  "cycle_partitions_and_training_draws_exactly_reused": true,
+  "group_cv": "Reuse original 4 subject folds and Cycle assignments; refit all new-input fold parameters using fold train only",
+  "selection": "Validation 10-Cycle Macro-F1 mean, accuracy mean, smaller F1 std, old input, simpler scheme in that order",
+  "linear_input_selection_same_validation_rule": true,
+  "ideal_reference_is_diagnostic_not_hardware_candidate": true,
+  "test_status": "Exploratory: old KTH test split viewed before; new-input tests evaluated after validation lock",
+  "no_foreground_tracking_segmentation_cnn_or_new_device_dynamics": true,
+  "interpretation": "Changes spatial retention AND temporal aggregation; does not isolate a pure spatial or Gaussian nonlinear effect"
+}

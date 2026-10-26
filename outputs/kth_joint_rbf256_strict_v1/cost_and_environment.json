@@ -1,0 +1,55 @@
+{
+  "original_657_candidate_stage": {
+    "full_record": "../kth_joint_rbf256_v1/cost_and_environment.json",
+    "wall_seconds": 23.426208179007517,
+    "search_seconds": 16.209272728010546,
+    "new_head_fits": 657,
+    "process_peak_rss_bytes": 870084608
+  },
+  "strict_selection_stage": {
+    "wall_seconds": 4.379231836006511,
+    "new_head_fits": 0,
+    "all_training_fits_reused": true,
+    "peak_rss_measured": false
+  },
+  "presentation": {
+    "record": "presentation_sample.json",
+    "new_frames_for_visualization_only": 3,
+    "training_feature_cache_changed": false
+  },
+  "hardware": {
+    "cpu": "Intel(R) Core(TM) i7-14700KF",
+    "cpu_logical": 28,
+    "torch_training_threads": 1,
+    "system_ram_bytes": 16674549760,
+    "gpu_used": false,
+    "real_hardware_operated": false
+  },
+  "data_processing": {
+    "new_download_seconds": 0,
+    "new_extraction_seconds": 0,
+    "new_experiment_preprocessing_seconds": 0,
+    "historical_cached_preprocessing_seconds": 14.858058191995951,
+    "raw_cache_float64_bytes": 305792,
+    "quantized_input_float32_bytes": 152896,
+    "bank_response_matrix_float32_bytes": 2446336,
+    "one_joint_feature_matrix_float32_bytes": 2446336,
+    "original_video_bytes_unique": 1162375168,
+    "original_video_seconds_unique": 11591.24,
+    "original_video_frames_unique": 289781,
+    "original_video_files": 599
+  },
+  "environment": {
+    "training_python": "/home/ziyan/FYP_2026/.venv/bin/python",
+    "video_decoder_python": "/home/ziyan/FYP_XZH/.venv/bin/python",
+    "platform": "Linux WSL2 x86_64",
+    "python_version": "3.10.12",
+    "training_numpy": "2.2.6",
+    "torch": "2.7.0+cu118, CPU used",
+    "scikit_learn": "1.7.2",
+    "decoder_numpy": "1.26.4",
+    "decoder_opencv": "4.11.0",
+    "dependencies": "source_code/requirements_joint.txt"
+  },
+  "interpretation": "These are software wall-clock and process-memory measurements, not hardware energy, latency, live acquisition, or application deployment performance. Storage bytes are not peak RSS."
+}

@@ -1,0 +1,24 @@
+{
+  "Hardware_joint256_default_minus_Linear16_standardized": {
+    "observed_accuracy_difference": 0.027842227378190254,
+    "subject_cluster_bootstrap_percentile_95_interval": [
+      0.008120649651972157,
+      0.05226480836236934
+    ],
+    "repeats": 2000,
+    "subjects": 9,
+    "seed": 42,
+    "interpretation": "Exploratory uncertainty across 9 held-out people; not independent new data or a guarantee."
+  },
+  "Hardware_joint256_tuned_minus_Linear16_standardized": {
+    "observed_accuracy_difference": 0.0777262180974478,
+    "subject_cluster_bootstrap_percentile_95_interval": [
+      0.04408352668213457,
+      0.11240186932219928
+    ],
+    "repeats": 2000,
+    "subjects": 9,
+    "seed": 42,
+    "interpretation": "Exploratory uncertainty across 9 held-out people; not independent new data or a guarantee."
+  }
+}

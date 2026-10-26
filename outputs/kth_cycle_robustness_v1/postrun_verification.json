@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "saved_scores_and_labels_reproduced": [
+    "A_linear",
+    "I_ideal",
+    "G0_mean",
+    "G1_head_cycle",
+    "G2_calibration_and_head_cycle"
+  ],
+  "cycle_pools_disjoint": true,
+  "training_cycle_rows_unique_within_clip": true,
+  "noise_magnitude_reference_train_cycles_only": true,
+  "score_tolerance_atol": 1e-11,
+  "score_tolerance_rtol": 1e-11,
+  "source_hashes_unchanged": true
+}

@@ -1,0 +1,30 @@
+{
+  "G_default": {
+    "passed": true,
+    "samples": 2389,
+    "permutations_per_sample": 100,
+    "feature_atol": 1e-10,
+    "feature_rtol": 1e-10,
+    "probability_atol": 1e-10,
+    "probability_rtol": 1e-09,
+    "max_feature_abs_difference": 8.881784197001252e-15,
+    "max_probability_abs_difference": 3.3306690738754696e-16,
+    "prediction_changes": 0,
+    "duplicate_input_sum_max_error": 3.552713678800501e-15,
+    "independent_math_max_error": 3.552713678800501e-15
+  },
+  "G_adjusted": {
+    "passed": true,
+    "samples": 2389,
+    "permutations_per_sample": 100,
+    "feature_atol": 1e-10,
+    "feature_rtol": 1e-10,
+    "probability_atol": 1e-10,
+    "probability_rtol": 1e-09,
+    "max_feature_abs_difference": 8.881784197001252e-15,
+    "max_probability_abs_difference": 6.106226635438361e-16,
+    "prediction_changes": 0,
+    "duplicate_input_sum_max_error": 3.552713678800501e-15,
+    "independent_math_max_error": 3.552713678800501e-15
+  }
+}

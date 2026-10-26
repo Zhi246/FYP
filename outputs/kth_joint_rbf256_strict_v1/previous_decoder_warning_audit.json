@@ -1,0 +1,14 @@
+[
+  {
+    "video_id": "person01_boxing_d4",
+    "excluded_sample_id": "person01_boxing_d4__segment4",
+    "decoder_stderr": "[mpeg4 @ 0x55ce721cb680] ac-tex damaged at 8 6\n[mpeg4 @ 0x55ce721cb680] Error at MB: 74\n",
+    "decode_probe": {
+      "header_frames": 370,
+      "successfully_decoded_prefix_frames": 305,
+      "first_unreadable_index": 305
+    },
+    "action": "exclude requested segment that cannot complete sampling; other segments retained only if all 17 requested frames were read",
+    "test_data_used_for_tuning": false
+  }
+]

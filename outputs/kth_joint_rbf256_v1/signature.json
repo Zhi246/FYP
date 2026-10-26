@@ -1,0 +1,25 @@
+{
+  "source_hashes": {
+    "/home/ziyan/FYP_XZH/outputs/kth_six_subject_split_v1/features_arrays.npz": "e448c49fd9f35e0b7a9ca554f4615d7ed34ed04a29ce944d9d80dad6819dcb98",
+    "/home/ziyan/FYP_XZH/outputs/kth_six_subject_split_v1/sample_manifest.csv": "43a773ca822a0472e0ca4bee1174a32cd6f5d7bc5e5892ce25d27e95654365d2",
+    "/home/ziyan/FYP_XZH/outputs/kth_six_subject_split_v1/feature_cache.joblib": "8a6809b2d1247eb35126a63b520c3bd00c2eb2fd621d45a4fe71d08e97dd9934",
+    "/home/ziyan/FYP_XZH/outputs/kth_six_subject_split_v1/independent_video_audit.json": "aaa3b27e8f75d54af63ecc435bf5d054259f06b2a15880528f88040a70f815d5",
+    "/home/ziyan/SURF2026/rbf_hardware/dataset/empirical/hardware_response_samples.npz": "b2d22f0d9469745b7f204f2608d77cf6fc76a1a0fc60d089cc0db6ef18c0c86c",
+    "/home/ziyan/SURF2026/rbf_hardware/dataset/csv/differential_levels.csv": "cced3dd0bda4cbc4a578c2337315117ee8c7c1e7f9fa169f30e270521a5d68d1",
+    "/home/ziyan/SURF2026/rbf_hardware/checkpoints/weights.pt": "58d8a793ba26cc9f7e390a568d5f9da18d1b846e43d17e0de250d65918586960",
+    "/home/ziyan/FYP_XZH/run_kth_joint_rbf.py": "bdf4c77a1572494f6ad6665d13982b3ec2ef92c36a4592e1efa7c4e3dd85f288",
+    "/home/ziyan/SURF2026/rbf_hardware/src/rbf_hardware/modeling/joint_gaussian.py": "c23a1ef23696ccb1dab4e8e757ab4ca55959fca0c51987a3c9d6e0960dea7c43",
+    "/home/ziyan/SURF2026/rbf_hardware/src/rbf_hardware/modeling/ridge_classifier.py": "21dae82aa9db28bda6a86cd9d265dc1a3354de128ce1213ed85ca2e1ead6148a",
+    "/home/ziyan/SURF2026/rbf_hardware/src/rbf_hardware/inference/preprocessing.py": "43856e18f591a84acaba6531f6f71b7e5aafacf9fb286499fe3fb00e7472b153",
+    "/home/ziyan/SURF2026/rbf_hardware/src/rbf_hardware/inference/empirical_response.py": "84edaa62223a63490239a488d25b7ec06f2de176ed8fcb6826a691e9a7474a50"
+  },
+  "seed": 42,
+  "repeats": 10,
+  "versions": {
+    "numpy": "2.2.6",
+    "torch": "2.7.0+cu118",
+    "scikit-learn": "1.7.2",
+    "pandas": "2.3.3",
+    "scipy": "1.15.3"
+  }
+}

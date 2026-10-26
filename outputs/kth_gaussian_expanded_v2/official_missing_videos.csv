@@ -1,0 +1,2 @@
+video_id,subject,class,scenario,annotation_line,exclude_reason
+person13_handclapping_d3,13,handclapping,d3,328,officially_marked_missing_no_segment_intervals

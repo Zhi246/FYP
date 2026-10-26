@@ -1,0 +1,25 @@
+{
+  "selected_scheme": "G1_head_cycle",
+  "selection_uses_validation_cycles_only": true,
+  "gaussian_parameters_fixed": true,
+  "validation": [
+    {
+      "scheme": "G0_mean",
+      "accuracy_mean": 0.5453715775749675,
+      "macro_f1_mean": 0.5252173223733041,
+      "macro_f1_std": 0.012132137030027293
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "accuracy_mean": 0.551890482398957,
+      "macro_f1_mean": 0.5333290867956444,
+      "macro_f1_std": 0.007379309508044443
+    },
+    {
+      "scheme": "G2_calibration_and_head_cycle",
+      "accuracy_mean": 0.5374185136897001,
+      "macro_f1_mean": 0.5183393255622523,
+      "macro_f1_std": 0.006024560557076938
+    }
+  ]
+}

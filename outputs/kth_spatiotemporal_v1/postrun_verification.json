@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "saved_models_and_scores_reproduced": [
+    "temporal16/A_linear",
+    "temporal16/G0_mean",
+    "temporal16/G1_head_cycle",
+    "temporal16/I_ideal",
+    "region4_time4/A_linear",
+    "region4_time4/G0_mean",
+    "region4_time4/G1_head_cycle",
+    "region4_time4/I_ideal"
+  ],
+  "source_hashes_unchanged": true,
+  "score_tolerance_atol": 1e-11,
+  "score_tolerance_rtol": 1e-11
+}

@@ -1,0 +1,18 @@
+{
+  "wall_seconds": 20.204598173004342,
+  "search_seconds": 5.899389892001636,
+  "locked_config_group_cv_seconds": 1.2097434300230816,
+  "locked_config_evaluation_seconds": 6.8827093510190025,
+  "cpu": "x86_64",
+  "logical_cpus": 28,
+  "physical_cpus": 14,
+  "total_ram_bytes": 16674549760,
+  "gpu_used": false,
+  "torch_threads": 1,
+  "blas_threads": 1,
+  "process_peak_rss_bytes": 762961920,
+  "video_decode_seconds": 0.0,
+  "download_seconds": 0.0,
+  "no_hardware_energy_or_latency_measurement": true,
+  "cpu_model": "Intel(R) Core(TM) i7-14700KF"
+}

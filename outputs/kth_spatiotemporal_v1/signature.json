@@ -1,0 +1,47 @@
+{
+  "source_hashes": {
+    "/home/ziyan/FYP_XZH/run_kth_spatiotemporal.py": "0e1171976e473de37f4869b45bb22fd9c57cbcf41e95ad96f5edc8fe6c601477",
+    "/home/ziyan/FYP_XZH/run_kth_cycle_robustness.py": "706a3882550eea40869cf7d0bd62d5c50da98afb444800ab87909231e321b7c3",
+    "/home/ziyan/FYP_XZH/run_kth_joint_rbf.py": "bdf4c77a1572494f6ad6665d13982b3ec2ef92c36a4592e1efa7c4e3dd85f288",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/preprocessing/raw_features.npz": "704b98a475195173f2e640cea7738c2631c60309888c03e4aba4174efdb76d94",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/preprocessing/signature.json": "516c943d72b62844d2cfb4557be29afa1ab834b36cb3dd02bf3320fb1859861a",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/preprocessing/extraction_checks.json": "d34c804741976133a2dc3c65966be4ffd424572a05df547840ba2b659b98c1d8",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/signature.json": "b56713c223478d7ec0a2ccc41a50ca8b5e5813508b760ca26792f8e0fd4e8fa1",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/inputs.npz": "fd38776b50687118bd8f5dae70170210878360f354e4b0c5112cc021229a1354",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/sample_manifest.csv": "43a773ca822a0472e0ca4bee1174a32cd6f5d7bc5e5892ce25d27e95654365d2",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/all_metrics.csv": "0586f0fbb7e9e88ccf88cc5ac7be735fac6a418a4523a8b02772cb92c65aa788",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/sample_predictions.csv": "47972972559a07182d2fc63ac21d8d567317d181d2b67762f667d7195c667274",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/group_cv_results.csv": "4be51f4d09a8b284b909f4bcd34625420b0c968e9cfaf39b8d4bf69e553fc7e7",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/cycle_split.csv": "68ca50c70ea8db04d64e90a9d0f655eb7b8e511bf894860de2ed7b094e92d2e6",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/evaluation_cycle_assignments.npz": "e4dd6dc1c503bfd61e361fe5b72603fcae441378d6a5d98a1dbe6b05bfa8e339",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/training_responses.npz": "38f54dcdbb227a161fc6713a62c01f43b12f96ad7499e2f2a82c366c14a33d13",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/training_noise_magnitude_references.npy": "bb69b351c7beefebb2c48cdd9e12ca07207bc38b8e9927a5019e8b1d84dc4647",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/models/A_linear.joblib": "88070dbcbf92561cdd481becc2636666bf80733966a66816d36a04f7bccf14fc",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/models/G0_mean.joblib": "3695c7b6ef9e25b8f05654269858c6fa4661a6f72f9874b2a36921af82fa6e4c",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/models/G1_head_cycle.joblib": "8fd60ca6fab18bcfc6e35628330153a9ed78a5de886d0ffcd9f7a7fccf90560e",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/models/I_ideal.joblib": "967e297329915015562b0d1a4ca8c8d51fd4844efab3bdb6e3c4b2c0a9501672",
+    "/home/ziyan/SURF2026/rbf_hardware/dataset/empirical/hardware_response_samples.npz": "b2d22f0d9469745b7f204f2608d77cf6fc76a1a0fc60d089cc0db6ef18c0c86c",
+    "/home/ziyan/SURF2026/rbf_hardware/dataset/empirical/hardware_response_metadata.json": "72eec127b8c33ea2300c9a594d9b2b1740be2b5c34d68e477bb9a316b3283961",
+    "/home/ziyan/SURF2026/rbf_hardware/dataset/csv/differential_levels.csv": "cced3dd0bda4cbc4a578c2337315117ee8c7c1e7f9fa169f30e270521a5d68d1",
+    "/home/ziyan/SURF2026/rbf_hardware/src/rbf_hardware/modeling/joint_gaussian.py": "c23a1ef23696ccb1dab4e8e757ab4ca55959fca0c51987a3c9d6e0960dea7c43",
+    "/home/ziyan/SURF2026/rbf_hardware/src/rbf_hardware/modeling/ridge_classifier.py": "21dae82aa9db28bda6a86cd9d265dc1a3354de128ce1213ed85ca2e1ead6148a",
+    "/home/ziyan/SURF2026/rbf_hardware/src/rbf_hardware/inference/preprocessing.py": "43856e18f591a84acaba6531f6f71b7e5aafacf9fb286499fe3fb00e7472b153",
+    "/home/ziyan/SURF2026/rbf_hardware/src/rbf_hardware/inference/empirical_response.py": "84edaa62223a63490239a488d25b7ec06f2de176ed8fcb6826a691e9a7474a50",
+    "/home/ziyan/SURF2026/rbf_hardware/src/rbf_hardware/utilities/empirical_response_migration.py": "5e3723527ddbebfc619ed9c7c06feb26dc74b8be8c8eb6f20209341b9e890fea"
+  },
+  "old_results": "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1",
+  "versions": {
+    "numpy": "2.2.6",
+    "torch": "2.7.0+cu118",
+    "scikit-learn": "1.7.2",
+    "pandas": "2.3.3"
+  },
+  "seed": 42,
+  "new_representation": "region4_time4",
+  "model_schemes": [
+    "A_linear",
+    "G0_mean",
+    "G1_head_cycle",
+    "I_ideal"
+  ]
+}

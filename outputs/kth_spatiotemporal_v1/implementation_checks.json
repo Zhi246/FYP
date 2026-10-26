@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "scheme": "A_linear",
+      "normal_equation_relative_residual": 1.1292929666917052e-15
+    },
+    {
+      "scheme": "G0_mean",
+      "normal_equation_relative_residual": 4.616416324617732e-15
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "normal_equation_relative_residual": 3.3038789398462216e-15
+    },
+    {
+      "scheme": "I_ideal",
+      "normal_equation_relative_residual": 5.9127739553051765e-15
+    }
+  ],
+  "independent_product_max_abs_error": 0.0,
+  "train_only_response_statistics_exact": true,
+  "g0_g1_calibration_identical": true,
+  "inference_uses_only_hardware_responses_for_gaussian": true
+}

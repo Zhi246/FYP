@@ -1,0 +1,11 @@
+{
+  "source_experiment": "../kth_spatiotemporal_v1/",
+  "training_mean_and_augmented_responses": "../kth_spatiotemporal_v1/new_training_responses.npz",
+  "default_training_features": "../kth_spatiotemporal_v1/features/{scheme}_head_training.npz",
+  "default_evaluation_features": "../kth_spatiotemporal_v1/features/{split}_{condition}_{repeat}.npz",
+  "adjusted_evaluation_features": "features/{model_id}_{split}_{condition}_{repeat}.npz",
+  "all_feature_matrices_are_aligned_by_saved_sample_ids": true,
+  "raw_16d_inputs_quantized_inputs_and_centers": "new_inputs.npz",
+  "original_17frame_training_examples": "../kth_spatiotemporal_v1/preprocessing/training_examples.npz",
+  "reason_for_reuse": "Same inputs, scaling, model parameters, response bank, Cycle assignments and numerical environment; do not recompute matching default experiments."
+}

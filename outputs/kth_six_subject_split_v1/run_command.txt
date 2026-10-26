@@ -1,0 +1,2 @@
+cd /home/ziyan/FYP_XZH
+/home/ziyan/FYP_XZH/.venv/bin/python run_kth.py

@@ -1,0 +1,21 @@
+{
+  "candidate_subsequences": 2391,
+  "included_subsequences": 2389,
+  "excluded_subsequences": 2,
+  "included_unique_video_files": 599,
+  "original_video_bytes_unique": 1162375168,
+  "original_video_duration_seconds_unique": 11591.240000000009,
+  "original_video_frames_unique": 289781,
+  "included_annotated_segment_duration_seconds": 9099.52,
+  "sampled_float32_frames_bytes_if_all_stored": 665403392,
+  "sampled_frames_materialized_all_at_once": false,
+  "one_sample_float32_frames_bytes": 278528,
+  "raw_float32_feature_bytes": 152896,
+  "saved_float64_raw_array_bytes": 305792,
+  "raw_scaled_two_gaussian_arrays_float64_bytes": 1223168,
+  "preprocessing_seconds_historical": 14.858058191995951,
+  "preprocessing_seconds_this_run": 14.858058191995951,
+  "feature_cache_reused": false,
+  "mean_preprocessing_seconds_per_source_video": 0.024804771606003258,
+  "mean_preprocessing_seconds_per_candidate_subsequence": 0.006214160682557905
+}

@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "shape": [
+    2389,
+    16
+  ],
+  "unique_ids": 2389,
+  "nan_inf": 0,
+  "all_zero_rows": 0,
+  "cache_records_exactly_equal": true,
+  "subject_video_hash_split_disjoint": true,
+  "source_videos_hashed": 599,
+  "missing_videos": [],
+  "changed_video_bytes": [],
+  "reused_independent_video_audit": "/home/ziyan/FYP_XZH/outputs/kth_six_subject_split_v1/independent_video_audit.json",
+  "audit_applicable_to_available_identical_videos": true,
+  "sampling_span_min_max_seconds": [
+    0.96,
+    1.04
+  ],
+  "repeated_frame_indices": 0,
+  "legacy_preprocessing_seconds": 14.858058191995951,
+  "new_video_decode_seconds": 0.0,
+  "note": "Existing floating-point frame-difference cache reused; no new extraction."
+}

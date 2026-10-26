@@ -1,0 +1,4 @@
+split,walking,jogging,running,boxing,handwaving,handclapping
+test,144,144,144,143,144,143
+train,128,128,128,126,126,124
+validation,128,128,128,127,128,128

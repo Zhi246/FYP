@@ -1,0 +1,33 @@
+{
+  "passed": true,
+  "inference_uses_h_only": true,
+  "checks": {
+    "G0_mean": {
+      "train_only_channel_statistics_exact": true,
+      "independent_product_max_error": 0.0,
+      "normal_equation_relative_residual": 7.250830168252644e-15,
+      "atol": 2e-07,
+      "rtol": 2e-06
+    },
+    "G1_head_cycle": {
+      "train_only_channel_statistics_exact": true,
+      "independent_product_max_error": 0.0,
+      "normal_equation_relative_residual": 4.313241653949986e-15,
+      "atol": 2e-07,
+      "rtol": 2e-06
+    },
+    "G2_calibration_and_head_cycle": {
+      "train_only_channel_statistics_exact": true,
+      "independent_product_max_error": 0.0,
+      "normal_equation_relative_residual": 6.7215604046255816e-15,
+      "atol": 2e-07,
+      "rtol": 2e-06
+    }
+  },
+  "g1_calibration_exactly_reuses_g0": true,
+  "g2_changes_training_standardization_and_calibration_together": true,
+  "cache_and_manifest_alignment": true,
+  "subjects_videos_hashes_disjoint_between_splits": true,
+  "raw_and_quantized_inputs_exactly_reused": true,
+  "bank_cycle_pools_disjoint": true
+}

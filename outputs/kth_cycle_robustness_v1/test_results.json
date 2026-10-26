@@ -1,0 +1,11 @@
+{
+  "command": "/home/ziyan/FYP_2026/.venv/bin/python -m unittest test_kth_joint_rbf test_kth_cycle_robustness -v",
+  "result": "OK",
+  "tests_run": 12,
+  "new_cycle_tests": 7,
+  "existing_original_pipeline_tests": 5,
+  "failures": 0,
+  "errors": 0,
+  "unit_test_data_are_not_classification_experiment_data": true,
+  "actual_experiment_uses_cached_real_KTH_features_and_the_original_response_bank": true
+}

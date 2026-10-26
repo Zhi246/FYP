@@ -1,0 +1,11 @@
+cd /home/ziyan/FYP_XZH
+/home/ziyan/FYP_2026/.venv/bin/python -m unittest test_kth_cycle_robustness -v
+/home/ziyan/FYP_2026/.venv/bin/python -u run_kth_cycle_robustness.py
+/home/ziyan/FYP_2026/.venv/bin/python verify_kth_cycle_robustness.py
+/home/ziyan/FYP_2026/.venv/bin/python render_kth_cycle_robustness.py
+
+# Built-in saved-model verification, without any fitting:
+/home/ziyan/FYP_2026/.venv/bin/python run_kth_cycle_robustness.py --verify-only
+
+# Existing complete conditions are reused. For changed conditions use a new --output.
+# Dependencies: requirements_joint.txt. Upstream source is imported read-only.

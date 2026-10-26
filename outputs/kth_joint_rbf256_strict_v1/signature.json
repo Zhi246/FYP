@@ -1,0 +1,8 @@
+{
+  "parent_signature_sha256": "5d3f7224745d3dab9e1bf369bbbab0bf72aabffc068894b98a935288a6d6e940",
+  "parent_search_sha256": "b5591551b7312e7cebc3589aa3093b317a538bcf070d0b859cfd887c5ced0e54",
+  "code_sha256": "7841d2f4e690d82f8063c24c5ce65a08d3d45be5add5422d8dd4a769202de5f6",
+  "factor_upper_fixed": 1.0,
+  "new_head_fits": 0,
+  "reason": "User screenshot saved standard fixes clipping to [1e-6,1]; upper1.2 is diagnostic only."
+}

@@ -1,0 +1,60 @@
+{
+  "passed": true,
+  "main_models": [
+    {
+      "id": "3cfa4813f00f3530",
+      "normal_equation_relative_residual": 5.9127739553051765e-15,
+      "maximum_saved_score_error": 2.220446049250313e-16,
+      "all_predictions_reproduced": true
+    },
+    {
+      "id": "428b65d09e7f21a3",
+      "normal_equation_relative_residual": 9.570606967198336e-16,
+      "maximum_saved_score_error": 1.1102230246251565e-16,
+      "all_predictions_reproduced": true
+    },
+    {
+      "id": "505f709b5f8502c2",
+      "normal_equation_relative_residual": 1.1292929666917052e-15,
+      "maximum_saved_score_error": 2.220446049250313e-16,
+      "all_predictions_reproduced": true
+    },
+    {
+      "id": "924b6759aebd9f07",
+      "normal_equation_relative_residual": 1.4972487450773197e-14,
+      "maximum_saved_score_error": 2.220446049250313e-16,
+      "all_predictions_reproduced": true
+    },
+    {
+      "id": "975e0072942d130f",
+      "normal_equation_relative_residual": 2.4796178472429913e-14,
+      "maximum_saved_score_error": 2.220446049250313e-16,
+      "all_predictions_reproduced": true
+    },
+    {
+      "id": "a318c6ce7313bb4a",
+      "normal_equation_relative_residual": 1.9199860401000745e-14,
+      "maximum_saved_score_error": 4.440892098500626e-16,
+      "all_predictions_reproduced": true
+    },
+    {
+      "id": "a4d14723f8226257",
+      "normal_equation_relative_residual": 3.3038789398462216e-15,
+      "maximum_saved_score_error": 2.220446049250313e-16,
+      "all_predictions_reproduced": true
+    },
+    {
+      "id": "f820a479882acfe6",
+      "normal_equation_relative_residual": 4.616416324617732e-15,
+      "maximum_saved_score_error": 2.220446049250313e-16,
+      "all_predictions_reproduced": true
+    }
+  ],
+  "four_fold_train_only_normal_equations_verified": true,
+  "original_centers_fixed": true,
+  "no_test_scores_in_selection": true,
+  "selected_ids_reconstructed_from_validation_only": true,
+  "repeated_cycle_pairing_exact": true,
+  "score_atol": 1e-11,
+  "score_rtol": 1e-11
+}

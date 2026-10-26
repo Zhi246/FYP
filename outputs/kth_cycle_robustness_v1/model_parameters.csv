@@ -1,0 +1,4 @@
+scheme,sigma,factor_lower,factor_upper,unique_training_clips,calibration_response_rows,head_response_rows,calibration_sum_alpha,head_sum_alpha,calibration_average_lambda,head_average_lambda
+G0_mean,0.25,1e-06,1.0,760,760,760,0.01,0.1,1.3157894736842106e-05,0.00013157894736842105
+G1_head_cycle,0.25,1e-06,1.0,760,760,6080,0.01,0.8,1.3157894736842106e-05,0.00013157894736842105
+G2_calibration_and_head_cycle,0.25,1e-06,1.0,760,6080,6080,0.08,0.8,1.3157894736842106e-05,0.00013157894736842105

@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-26",
+  "passed": true,
+  "unit_tests_total": 21,
+  "suites": [
+    {
+      "python": "/home/ziyan/FYP_XZH/.venv/bin/python",
+      "command": "-m unittest test_kth_spatiotemporal_encoding -v",
+      "tests": 7,
+      "passed": true
+    },
+    {
+      "python": "/home/ziyan/FYP_2026/.venv/bin/python",
+      "command": "-m unittest test_kth_joint_rbf test_kth_cycle_robustness test_kth_spatiotemporal_selection -v",
+      "tests": 14,
+      "passed": true
+    }
+  ],
+  "independent_protocol_verification": "independent_protocol_verification.json",
+  "postrun_model_replay": "postrun_verification.json",
+  "cache_reuse_checked": {
+    "extraction": "Identical completed spatial-temporal cache reused; no video re-decoding.",
+    "training": "Identical completed spatial-temporal experiment reused; no fitting repeated."
+  },
+  "notes": [
+    "Synthetic unit-test fixtures are used only for implementation checks, never as experimental data.",
+    "An existing non-blocking Matplotlib Axes3D import warning appeared; all deliverable plots are two-dimensional."
+  ]
+}

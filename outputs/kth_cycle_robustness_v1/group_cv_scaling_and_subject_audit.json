@@ -1,0 +1,78 @@
+[
+  {
+    "fold": 0,
+    "train_subjects": [
+      11,
+      13,
+      14,
+      15,
+      17,
+      18
+    ],
+    "validation_subjects": [
+      12,
+      16
+    ],
+    "fit_split": "train",
+    "maximum": 0.08867473900318146,
+    "denominator": 0.08867473900318146,
+    "other_clipped_value_fraction": 0.0
+  },
+  {
+    "fold": 1,
+    "train_subjects": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ],
+    "validation_subjects": [
+      11,
+      18
+    ],
+    "fit_split": "train",
+    "maximum": 0.08867473900318146,
+    "denominator": 0.08867473900318146,
+    "other_clipped_value_fraction": 0.0
+  },
+  {
+    "fold": 2,
+    "train_subjects": [
+      11,
+      12,
+      14,
+      16,
+      17,
+      18
+    ],
+    "validation_subjects": [
+      13,
+      15
+    ],
+    "fit_split": "train",
+    "maximum": 0.08867473900318146,
+    "denominator": 0.08867473900318146,
+    "other_clipped_value_fraction": 0.0
+  },
+  {
+    "fold": 3,
+    "train_subjects": [
+      11,
+      12,
+      13,
+      15,
+      16,
+      18
+    ],
+    "validation_subjects": [
+      14,
+      17
+    ],
+    "fit_split": "train",
+    "maximum": 0.07253178209066391,
+    "denominator": 0.07253178209066391,
+    "other_clipped_value_fraction": 0.0068717277486911
+  }
+]

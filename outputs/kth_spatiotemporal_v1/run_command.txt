@@ -1,0 +1,14 @@
+cd /home/ziyan/FYP_XZH
+/home/ziyan/FYP_XZH/.venv/bin/python -m unittest test_kth_spatiotemporal_encoding -v
+/home/ziyan/FYP_XZH/.venv/bin/python -u extract_kth_spatiotemporal.py
+/home/ziyan/FYP_2026/.venv/bin/python -m unittest test_kth_spatiotemporal_selection -v
+/home/ziyan/FYP_2026/.venv/bin/python -u run_kth_spatiotemporal.py
+/home/ziyan/FYP_2026/.venv/bin/python verify_kth_spatiotemporal.py
+/home/ziyan/FYP_2026/.venv/bin/python render_kth_spatiotemporal.py
+
+# Alternative saved-model verification without any fitting:
+/home/ziyan/FYP_2026/.venv/bin/python run_kth_spatiotemporal.py --verify-only
+
+# No new package installation, video download or hardware operation is needed.
+# Existing complete extraction/training conditions reuse results. For changed
+# conditions use a NEW output and matching preprocessing output directory.

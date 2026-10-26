@@ -1,0 +1,108 @@
+{
+  "created_at_Asia_Shanghai": "2026-10-26T12:22:57+08:00",
+  "signature": {
+    "source_files": {
+      "run_signature.json": "062a735a3983c3e35b36dbb4fca9e432abe1aac78f52e2bc0cdf1d20dc47dc8c",
+      "feature_cache.joblib": "8a6809b2d1247eb35126a63b520c3bd00c2eb2fd621d45a4fe71d08e97dd9934",
+      "features_arrays.npz": "e448c49fd9f35e0b7a9ca554f4615d7ed34ed04a29ce944d9d80dad6819dcb98",
+      "sample_manifest.csv": "43a773ca822a0472e0ca4bee1174a32cd6f5d7bc5e5892ce25d27e95654365d2",
+      "all_configuration_metrics.json": "50602caca0315bbff6767e7b4d02b275e2374c707865455335409ec3aa2b4558",
+      "all_configuration_predictions_train_validation.csv": "0ef20df96332e82853fbac053d3e53d880c8ec570cd6e1e6b6a283f33d7323af",
+      "complete_metrics.json": "3fb2b7fd4ec1d43687afbb38588e31c0f96ae4e75eaafb6a2ffdb3f7735aafe2",
+      "parameters_frozen_before_test.json": "133fb506e4aad994fc917745be5a53da6a1665a59b1ea3d27dbf5eb28def3f97"
+    },
+    "script_sha256": "6f75441827e16f1ae810b6fab4255439afa2a72887bbfc55100168c4e71ba365",
+    "classifier_code_sha256": "5d99ea17ec8db76fe2adbd5e7bbedf9781237b76c85feb7d3c667a11eb533ed5",
+    "Gaussian_code_sha256": "9b38455e8a95585a36aa818f0009f7130d55b963fbcdd8a198ac9a536ea6fdae",
+    "scale_code_sha256": "2976c8fb620e559f1d596c17c7688213c39b2eb3a0f76a1070009e111e62b72f",
+    "numpy": "1.26.4",
+    "sklearn": "1.7.2",
+    "solver": {
+      "solver": "lbfgs",
+      "max_iter": 5000,
+      "tol": 1e-06,
+      "random_state": 42
+    },
+    "seed": 42,
+    "center_modes": [
+      "uniform_0_1",
+      "uniform_p01_p99",
+      "uniform_p05_p95",
+      "uniform_0_p95",
+      "quantile_p01_p99",
+      "quantile_p05_p95",
+      "power2_0_1",
+      "power3_0_1"
+    ],
+    "sigmas": [
+      0.005,
+      0.01,
+      0.02,
+      0.03,
+      0.05,
+      0.075,
+      0.1,
+      0.15,
+      0.2,
+      0.3,
+      0.5,
+      0.75,
+      1.0,
+      2.0
+    ],
+    "C": [
+      0.001,
+      0.01,
+      0.1,
+      1.0,
+      10.0,
+      100.0,
+      1000.0
+    ],
+    "subject_splits": {
+      "train": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "validation": [
+        19,
+        20,
+        21,
+        23,
+        24,
+        25,
+        1,
+        4
+      ],
+      "test": [
+        22,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "selection_rule": "converged only; validation Macro-F1 descending; validation accuracy descending; C ascending; center mode lexical; sigma ascending"
+  },
+  "candidate_configurations": 791,
+  "fixed_kernel_count": 16,
+  "fixed_peak": 1,
+  "output_dimension": 16,
+  "input_preprocessing_unchanged": true,
+  "same_sigma_for_all_16_kernels": true,
+  "gradient_learning": false,
+  "test_and_validation_previously_observed": true,
+  "not_an_independent_final_validation": true,
+  "nonconvergence_policy": "record every warning/iteration count; exclude unconverged fits, no silent retry or tolerance change",
+  "coincident_center_policy": "retain duplicates and all 16 channels"
+}

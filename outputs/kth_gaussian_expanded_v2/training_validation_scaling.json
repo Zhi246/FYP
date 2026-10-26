@@ -1,0 +1,8 @@
+{
+  "training_global_max": 0.08867473900318146,
+  "divisor": 0.08867473900318146,
+  "zero_max_fallback": false,
+  "eval_clipped_values": 0,
+  "eval_total_values": 12272,
+  "eval_clipped_ratio": 0.0
+}

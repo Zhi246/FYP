@@ -1,0 +1,43 @@
+{
+  "fixed_input": "region4_time4; same 17 cached frames; no extraction",
+  "seed": 42,
+  "train_validation_test_unique_n": [
+    760,
+    767,
+    862
+  ],
+  "centers": "same 256 train-only KMeans centers, no center search",
+  "primary_candidates": 76,
+  "ideal_diagnostic_candidates": 12,
+  "sigmas": [
+    0.125,
+    0.25,
+    0.5
+  ],
+  "calibration_anchor_alphas": [
+    0.001,
+    0.01,
+    0.1
+  ],
+  "head_anchor_alphas": [
+    0.01,
+    0.1,
+    1.0,
+    10.0
+  ],
+  "anchor_n": 760,
+  "sum_form_alpha": "anchor_alpha * number_of_rows / 760; intercept unpenalized",
+  "gaussian_clip": [
+    1e-06,
+    1.0
+  ],
+  "physical_bank_unchanged": true,
+  "pulse_or_circuit_simulation": false,
+  "formula": "H[N,16,16] -> train channel standardization -> per-dimension 17x256 Ridge -> clip factors -> exp(sum(log(factors))) [N,256] -> Ridge scores",
+  "schemes": "G0: training-pool mean calibration and head; G1: same calibration, head trained on same eight cycles/video",
+  "selection": "10 official validation Cycle draws: Macro-F1 mean desc, accuracy mean desc, F1 SD asc, default preferred, scheme order, width/calibration distance to default, larger head alpha, ID",
+  "test_lock_required": true,
+  "test_status": "Exploratory: old official test set already examined; no new independent confirmation",
+  "group_cv": "Same 4 participant folds, fitted only after configuration lock, audit only; no additional search",
+  "limitation": "Existing processed response bank index holdout; source workbook unavailable, not independent new-device or raw-measurement validation"
+}

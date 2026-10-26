@@ -11,13 +11,19 @@ __pycache__/
 .idea/
 .DS_Store
 
-# Raw HMDB51 data, archives and local extraction tools
+# Raw HMDB51/KTH data, archives and local extraction tools
 /data/
 *.rar
 *.zip
 *.7z
 *.tar
 *.tar.gz
+*.avi
+*.mp4
+*.mov
+*.mkv
+*.mpg
+*.mpeg
 
 # Rebuildable numeric features, models and checkpoints
 *.npz
@@ -33,6 +39,16 @@ __pycache__/
 /outputs/**/previous_results_snapshot/
 /outputs/**/sampling_contact_sheets/
 /outputs/*_local/
+/outputs/**/config_cache/
+/outputs/**/feature_maps_train_validation/
+/outputs/**/.run.lock
+
+# Repeated per-sample prediction/score dumps remain local; aggregate CSVs are published
+/outputs/kth_*/sample_predictions.csv
+/outputs/kth_six_subject_split_v1/all_configuration_predictions_train_validation.csv
+
+# Machine-path duplicate upstream snapshots; root experiment code remains published
+/outputs/**/source_code/home/
 
 # Credentials and machine-local files
 .env

@@ -1,0 +1,13 @@
+cd /home/ziyan/FYP_XZH
+/home/ziyan/FYP_2026/.venv/bin/python -m unittest test_tune_kth_spatiotemporal -v
+/home/ziyan/FYP_2026/.venv/bin/python -u tune_kth_spatiotemporal.py
+/home/ziyan/FYP_2026/.venv/bin/python tune_kth_spatiotemporal.py --verify-only
+/home/ziyan/FYP_2026/.venv/bin/python render_kth_spatiotemporal_tuning.py
+
+# Regression suites run for this delivery: 18 tests in the Torch environment, 7 in the video environment.
+/home/ziyan/FYP_2026/.venv/bin/python -m unittest test_kth_joint_rbf test_kth_cycle_robustness test_kth_spatiotemporal_selection test_tune_kth_spatiotemporal -v
+/home/ziyan/FYP_XZH/.venv/bin/python -m unittest test_kth_spatiotemporal_encoding -v
+
+# No new packages required. See source_code/requirements_joint.txt and signature.json versions.
+# The source response bank/project and previous completed experiment remain required and read-only.
+# Matching completed runs reuse outputs; changed conditions require a fresh --output directory.

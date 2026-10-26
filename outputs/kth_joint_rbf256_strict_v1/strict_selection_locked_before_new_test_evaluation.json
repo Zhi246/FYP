@@ -1,0 +1,21 @@
+{
+  "selection_rule": "validation Macro-F1, accuracy, smaller head_alpha/sigma/calibration_alpha; upper fixed1",
+  "candidate_count": 270,
+  "strict_selected": {
+    "family": "hardware",
+    "head_alpha": 0.1,
+    "id": "a4cb1a14b33fe20b",
+    "output_dimension": 256,
+    "head_fit_seconds": 0.0025261720002163,
+    "feature_fit_and_all_transform_seconds": 0.0906850419996772,
+    "train_accuracy": 0.6263157894736842,
+    "train_macro_f1": 0.6246956172983464,
+    "validation_accuracy": 0.5749674054758801,
+    "validation_macro_f1": 0.5591757761286147,
+    "sigma": 0.25,
+    "calibration_alpha": 0.01,
+    "factor_upper": 1.0
+  },
+  "parent_upper1p2_result_not_a_strict_replication": true,
+  "test_not_used_to_select": true
+}

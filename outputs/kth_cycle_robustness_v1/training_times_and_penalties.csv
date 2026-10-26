@@ -1,0 +1,4 @@
+scheme,head_fit_seconds,calibration_fit_seconds,calibration_reused_from,unique_train_n,head_training_rows,sum_form_head_alpha,sum_form_calibration_alpha
+G0_mean,0.015581432991893962,0.030930364009691402,,760,760,0.1,0.01
+G1_head_cycle,0.014270803978433833,0.0,G0_mean,760,6080,0.8,0.01
+G2_calibration_and_head_cycle,0.014084773021750152,0.2730168470006902,,760,6080,0.8,0.08

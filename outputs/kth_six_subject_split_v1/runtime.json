@@ -1,0 +1,19 @@
+{
+  "python": "3.10.12",
+  "numpy": "1.26.4",
+  "opencv": "4.11.0",
+  "sklearn": "1.7.2",
+  "cpu": "x86_64",
+  "cpu_model": "Intel(R) Core(TM) i7-14700KF",
+  "logical_cpu_count": 28,
+  "memory_total_bytes": 16674549760,
+  "gpu_used": false,
+  "BLAS_threads": 1,
+  "feature_cache_reused": false,
+  "preprocessing_seconds_historical": 14.858058191995951,
+  "candidate_classifier_fits": 21,
+  "final_additional_fits": 0,
+  "classifier_fit_seconds_total": 0.4639652999903774,
+  "experiment_wall_seconds": 25.648197650996735,
+  "peak_process_rss_bytes": 643903488
+}

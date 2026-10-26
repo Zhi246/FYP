@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-26",
+  "passed": true,
+  "total_unit_tests": 25,
+  "suites": [
+    {
+      "python": "/home/ziyan/FYP_2026/.venv/bin/python",
+      "arguments": "-m unittest test_kth_joint_rbf test_kth_cycle_robustness test_kth_spatiotemporal_selection test_tune_kth_spatiotemporal -v",
+      "tests": 18,
+      "passed": true
+    },
+    {
+      "python": "/home/ziyan/FYP_XZH/.venv/bin/python",
+      "arguments": "-m unittest test_kth_spatiotemporal_encoding -v",
+      "tests": 7,
+      "passed": true
+    }
+  ],
+  "trained_model_and_protocol_checks": "verification.json",
+  "completed_run_cache_reuse_verified": true,
+  "cache_reuse_message": "Matching completed tuning reused; no search, fits or test evaluation repeated.",
+  "verify_only_replay_passed": true,
+  "notes": [
+    "Artificial unit-test fixtures are never used for experimental performance metrics.",
+    "The existing non-blocking Matplotlib Axes3D warning does not affect the two-dimensional figures.",
+    "A non-blocking pandas mixed-type warning was printed while replaying concatenated default/new predictions; all scores and labels were successfully reproduced."
+  ]
+}

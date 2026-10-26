@@ -1,0 +1,56 @@
+{
+  "chosen_before_test": "G1_head_cycle",
+  "g1_minus_g0_cycle_accuracy_pp": 1.415313225058007,
+  "g1_minus_g0_cycle_macro_f1": 0.01581443275172728,
+  "g1_minus_linear_cycle_accuracy_pp": 5.8584686774942,
+  "paired_bootstrap": [
+    {
+      "comparison": "G1_head_cycle minus G0_mean",
+      "accuracy_difference": 0.014153132250580047,
+      "paired_subject_and_draw_bootstrap_95_low": -0.0021992016305748905,
+      "paired_subject_and_draw_bootstrap_95_high": 0.033023282761594226,
+      "test_subjects": 9,
+      "draw_repeats": 10,
+      "bootstrap_repeats": 2000,
+      "seed": 42,
+      "independent_new_data": false
+    },
+    {
+      "comparison": "G2_calibration_and_head_cycle minus G0_mean",
+      "accuracy_difference": -0.0017401392111368909,
+      "paired_subject_and_draw_bootstrap_95_low": -0.02900522041763341,
+      "paired_subject_and_draw_bootstrap_95_high": 0.02578397212543554,
+      "test_subjects": 9,
+      "draw_repeats": 10,
+      "bootstrap_repeats": 2000,
+      "seed": 42,
+      "independent_new_data": false
+    },
+    {
+      "comparison": "A_linear minus G0_mean",
+      "accuracy_difference": -0.04443155452436195,
+      "paired_subject_and_draw_bootstrap_95_low": -0.07735837368731659,
+      "paired_subject_and_draw_bootstrap_95_high": -0.016490023093752543,
+      "test_subjects": 9,
+      "draw_repeats": 10,
+      "bootstrap_repeats": 2000,
+      "seed": 42,
+      "independent_new_data": false
+    },
+    {
+      "comparison": "I_ideal minus G0_mean",
+      "accuracy_difference": 0.03097447795823666,
+      "paired_subject_and_draw_bootstrap_95_low": -0.008102086552079309,
+      "paired_subject_and_draw_bootstrap_95_high": 0.06771393120492665,
+      "test_subjects": 9,
+      "draw_repeats": 10,
+      "bootstrap_repeats": 2000,
+      "seed": 42,
+      "independent_new_data": false
+    }
+  ],
+  "group_cv_rank_disagrees_with_official_validation": true,
+  "pooled_classification_f1_is_not_the_same_as_mean_of_draw_f1": true,
+  "render_wall_seconds": 1.7906391989963595,
+  "render_peak_rss_bytes": 742703104
+}

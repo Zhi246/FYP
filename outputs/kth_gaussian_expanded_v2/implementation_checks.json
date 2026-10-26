@@ -1,0 +1,122 @@
+{
+  "status": "PASSED",
+  "samples": 2389,
+  "feature_shape": [
+    2389,
+    16
+  ],
+  "finite_values": true,
+  "alignment": true,
+  "split_overlap_checks": [
+    {
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "identity": "subject",
+      "overlap_count": 0
+    },
+    {
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "identity": "video_id",
+      "overlap_count": 0
+    },
+    {
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "identity": "path",
+      "overlap_count": 0
+    },
+    {
+      "splits": [
+        "train",
+        "validation"
+      ],
+      "identity": "video_sha256",
+      "overlap_count": 0
+    },
+    {
+      "splits": [
+        "train",
+        "test"
+      ],
+      "identity": "subject",
+      "overlap_count": 0
+    },
+    {
+      "splits": [
+        "train",
+        "test"
+      ],
+      "identity": "video_id",
+      "overlap_count": 0
+    },
+    {
+      "splits": [
+        "train",
+        "test"
+      ],
+      "identity": "path",
+      "overlap_count": 0
+    },
+    {
+      "splits": [
+        "train",
+        "test"
+      ],
+      "identity": "video_sha256",
+      "overlap_count": 0
+    },
+    {
+      "splits": [
+        "validation",
+        "test"
+      ],
+      "identity": "subject",
+      "overlap_count": 0
+    },
+    {
+      "splits": [
+        "validation",
+        "test"
+      ],
+      "identity": "video_id",
+      "overlap_count": 0
+    },
+    {
+      "splits": [
+        "validation",
+        "test"
+      ],
+      "identity": "path",
+      "overlap_count": 0
+    },
+    {
+      "splits": [
+        "validation",
+        "test"
+      ],
+      "identity": "video_sha256",
+      "overlap_count": 0
+    }
+  ],
+  "all_zero_samples": 0,
+  "duplicate_feature_rows_including_within_split": 0,
+  "minimum_sampling_span_seconds": 0.96,
+  "maximum_sampling_span_seconds": 1.04,
+  "samples_with_repeated_frame_indices": 0,
+  "samples_with_annotation_end_beyond_video": 0,
+  "source_videos": 599,
+  "frame_index_convention": "official 1-based inclusive -> decoder 0-based",
+  "raw_features_reused": true,
+  "videos_redecoded_this_run": 0,
+  "video_content_SHA256_rechecked": true,
+  "source": "/home/ziyan/FYP_XZH/outputs/kth_six_subject_split_v1",
+  "previous_independent_video_audit_reused": true,
+  "audit_seconds": 1.9161086550157052
+}

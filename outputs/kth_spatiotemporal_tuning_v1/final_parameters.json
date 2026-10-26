@@ -1,0 +1,35 @@
+{
+  "input": "4 fixed image quadrants x 4 temporal groups, region-major, 16 coordinates",
+  "input_dimension_definition_file": "input_dimension_definition.csv",
+  "raw_quantized_inputs_and_256_centers": "new_inputs.npz",
+  "input_scaling_file": "new_input_scaling.json",
+  "selected_by": "official validation 10-Cycle mean Macro-F1; see locked_selection_before_test.json",
+  "selected_gaussian": {
+    "scheme": "G1_head_cycle",
+    "model": "models/924b6759aebd9f07.joblib",
+    "joint_sigma": 0.25,
+    "calibration_anchor_alpha": 0.001,
+    "calibration_rows": 760,
+    "calibration_sum_form_alpha": 0.001,
+    "head_anchor_alpha": 0.01,
+    "head_training_rows": 6080,
+    "head_sum_form_alpha": 0.08,
+    "head_average_loss_lambda": 0.000013157894736842106,
+    "unique_training_clips": 760,
+    "factor_clip": [0.000001, 1.0],
+    "output_dimension": 256,
+    "joint_centers": 256,
+    "calibration_layout": [16, 17, 256],
+    "classifier": "one-hot Ridge, unpenalized intercept, argmax scores (not Softmax probabilities)"
+  },
+  "selected_linear": {
+    "model": "models/428b65d09e7f21a3.joblib",
+    "head_anchor_alpha": 10.0,
+    "head_sum_form_alpha": 10.0,
+    "output_dimension": 16
+  },
+  "fixed_seed": 42,
+  "physical_response_bank_unchanged": true,
+  "hardware_experiment_performed": false,
+  "evaluation_status": "exploratory; previously inspected test population, not independent confirmation"
+}

@@ -1,0 +1,11 @@
+{
+  "old_full_heads": 4,
+  "old_primary_heads": 3,
+  "old_fold_heads": 16,
+  "old_fold_primary_heads": 12,
+  "identical_samples_features_model_parameters_cycle_assignments_and_environment_verified": true,
+  "new_full_heads": 4,
+  "new_full_primary_heads": 3,
+  "new_full_calibration_fits": 1,
+  "notes": "I_ideal is the fourth head, a software diagnostic. Old-input fits/predictions are reused unchanged."
+}

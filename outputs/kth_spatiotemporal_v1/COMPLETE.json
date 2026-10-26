@@ -1,0 +1,20 @@
+{
+  "completed": true,
+  "old_results_preserved": true,
+  "selected_gaussian_by_validation": {
+    "representation": "region4_time4",
+    "scheme": "G1_head_cycle",
+    "macro_f1_mean": 0.5564307932363131,
+    "accuracy_mean": 0.5727509778357236,
+    "macro_f1_std": 0.00754222747983043
+  },
+  "selected_linear_by_validation": {
+    "representation": "region4_time4",
+    "scheme": "A_linear",
+    "macro_f1_mean": 0.4980452082529034,
+    "accuracy_mean": 0.5319426336375488,
+    "macro_f1_std": 0.0
+  },
+  "source_hashes_unchanged": true,
+  "same_successful_samples": 2389
+}

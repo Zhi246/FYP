@@ -1,0 +1,46 @@
+[
+  {
+    "fold": 0,
+    "fit_sample_n": 568,
+    "validation_sample_n": 192,
+    "fit_split": "train",
+    "maximum": 0.1383846402168274,
+    "denominator": 0.1383846402168274,
+    "other_clipped_value_fraction": 0.0,
+    "participants_disjoint": true,
+    "train_only_centers_and_statistics": true
+  },
+  {
+    "fold": 1,
+    "fit_sample_n": 569,
+    "validation_sample_n": 191,
+    "fit_split": "train",
+    "maximum": 0.1383846402168274,
+    "denominator": 0.1383846402168274,
+    "other_clipped_value_fraction": 0.0,
+    "participants_disjoint": true,
+    "train_only_centers_and_statistics": true
+  },
+  {
+    "fold": 2,
+    "fit_sample_n": 574,
+    "validation_sample_n": 186,
+    "fit_split": "train",
+    "maximum": 0.1383846402168274,
+    "denominator": 0.1383846402168274,
+    "other_clipped_value_fraction": 0.0,
+    "participants_disjoint": true,
+    "train_only_centers_and_statistics": true
+  },
+  {
+    "fold": 3,
+    "fit_sample_n": 569,
+    "validation_sample_n": 191,
+    "fit_split": "train",
+    "maximum": 0.1137896403670311,
+    "denominator": 0.1137896403670311,
+    "other_clipped_value_fraction": 0.003926701570680628,
+    "participants_disjoint": true,
+    "train_only_centers_and_statistics": true
+  }
+]

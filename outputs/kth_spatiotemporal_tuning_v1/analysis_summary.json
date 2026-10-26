@@ -1,0 +1,324 @@
+{
+  "selected_gaussian": {
+    "scheme": "G1_head_cycle",
+    "head_alpha": 0.01,
+    "sigma": 0.25,
+    "calibration_alpha": 0.001,
+    "id": "924b6759aebd9f07",
+    "output_dimension": 256,
+    "default": false,
+    "fit_reused": false,
+    "train_mean_accuracy": 0.7276315789473684,
+    "train_mean_macro_f1": 0.7261658674547053,
+    "fit_row_accuracy": 0.7243421052631579,
+    "fit_row_macro_f1": 0.7221700229837372,
+    "validation_accuracy_mean": 0.5777053455019556,
+    "validation_accuracy_std": 0.006856395001568131,
+    "validation_macro_f1_mean": 0.5674458206941491,
+    "validation_macro_f1_std": 0.006854436698806891
+  },
+  "paired_comparisons": [
+    {
+      "comparison": "adjusted_minus_default",
+      "first_stage": "adjusted",
+      "first_scheme": "A_linear",
+      "second_stage": "default",
+      "second_scheme": "A_linear",
+      "accuracy_difference": 0.002320185614849188,
+      "paired_95_low": -0.009291521486643438,
+      "paired_95_high": 0.012746234067207415,
+      "participants": 9,
+      "cycle_repeats": 10,
+      "bootstrap_repeats": 2000,
+      "seed": 42,
+      "exploratory": true
+    },
+    {
+      "comparison": "adjusted_minus_default",
+      "first_stage": "adjusted",
+      "first_scheme": "G0_mean",
+      "second_stage": "default",
+      "second_scheme": "G0_mean",
+      "accuracy_difference": -0.0016241299303944316,
+      "paired_95_low": -0.014849187935034803,
+      "paired_95_high": 0.01171727756803587,
+      "participants": 9,
+      "cycle_repeats": 10,
+      "bootstrap_repeats": 2000,
+      "seed": 42,
+      "exploratory": true
+    },
+    {
+      "comparison": "adjusted_minus_default",
+      "first_stage": "adjusted",
+      "first_scheme": "G1_head_cycle",
+      "second_stage": "default",
+      "second_scheme": "G1_head_cycle",
+      "accuracy_difference": 0.004176334106728539,
+      "paired_95_low": -0.009617612977983778,
+      "paired_95_high": 0.01686189670969306,
+      "participants": 9,
+      "cycle_repeats": 10,
+      "bootstrap_repeats": 2000,
+      "seed": 42,
+      "exploratory": true
+    },
+    {
+      "comparison": "adjusted_minus_default",
+      "first_stage": "adjusted",
+      "first_scheme": "I_ideal",
+      "second_stage": "default",
+      "second_scheme": "I_ideal",
+      "accuracy_difference": 0.016241299303944315,
+      "paired_95_low": -0.009269988412514484,
+      "paired_95_high": 0.042999765827818705,
+      "participants": 9,
+      "cycle_repeats": 10,
+      "bootstrap_repeats": 2000,
+      "seed": 42,
+      "exploratory": true
+    },
+    {
+      "comparison": "adjusted_G_minus_adjusted_Linear",
+      "first_stage": "adjusted",
+      "first_scheme": "G0_mean",
+      "second_stage": "adjusted",
+      "second_scheme": "A_linear",
+      "accuracy_difference": 0.02749419953596288,
+      "paired_95_low": -0.016668118466898956,
+      "paired_95_high": 0.07068571163560987,
+      "participants": 9,
+      "cycle_repeats": 10,
+      "bootstrap_repeats": 2000,
+      "seed": 42,
+      "exploratory": true
+    },
+    {
+      "comparison": "adjusted_G_minus_adjusted_Linear",
+      "first_stage": "adjusted",
+      "first_scheme": "G1_head_cycle",
+      "second_stage": "adjusted",
+      "second_scheme": "A_linear",
+      "accuracy_difference": 0.032018561484918794,
+      "paired_95_low": -0.013111948955916473,
+      "paired_95_high": 0.07447558531955284,
+      "participants": 9,
+      "cycle_repeats": 10,
+      "bootstrap_repeats": 2000,
+      "seed": 42,
+      "exploratory": true
+    }
+  ],
+  "g1_recall": [
+    {
+      "stage": "default",
+      "scheme": "G1_head_cycle",
+      "true_class": "walking",
+      "predicted_class": "walking",
+      "count": 873,
+      "repeated_predictions": 1440,
+      "fraction": 0.60625,
+      "unique_clips": 144
+    },
+    {
+      "stage": "default",
+      "scheme": "G1_head_cycle",
+      "true_class": "jogging",
+      "predicted_class": "jogging",
+      "count": 423,
+      "repeated_predictions": 1440,
+      "fraction": 0.29375,
+      "unique_clips": 144
+    },
+    {
+      "stage": "default",
+      "scheme": "G1_head_cycle",
+      "true_class": "running",
+      "predicted_class": "running",
+      "count": 948,
+      "repeated_predictions": 1440,
+      "fraction": 0.6583333333333333,
+      "unique_clips": 144
+    },
+    {
+      "stage": "default",
+      "scheme": "G1_head_cycle",
+      "true_class": "boxing",
+      "predicted_class": "boxing",
+      "count": 358,
+      "repeated_predictions": 1430,
+      "fraction": 0.25034965034965034,
+      "unique_clips": 143
+    },
+    {
+      "stage": "default",
+      "scheme": "G1_head_cycle",
+      "true_class": "handwaving",
+      "predicted_class": "handwaving",
+      "count": 930,
+      "repeated_predictions": 1440,
+      "fraction": 0.6458333333333334,
+      "unique_clips": 144
+    },
+    {
+      "stage": "default",
+      "scheme": "G1_head_cycle",
+      "true_class": "handclapping",
+      "predicted_class": "handclapping",
+      "count": 1088,
+      "repeated_predictions": 1430,
+      "fraction": 0.7608391608391608,
+      "unique_clips": 143
+    },
+    {
+      "stage": "adjusted",
+      "scheme": "G1_head_cycle",
+      "true_class": "walking",
+      "predicted_class": "walking",
+      "count": 839,
+      "repeated_predictions": 1440,
+      "fraction": 0.5826388888888889,
+      "unique_clips": 144
+    },
+    {
+      "stage": "adjusted",
+      "scheme": "G1_head_cycle",
+      "true_class": "jogging",
+      "predicted_class": "jogging",
+      "count": 473,
+      "repeated_predictions": 1440,
+      "fraction": 0.3284722222222222,
+      "unique_clips": 144
+    },
+    {
+      "stage": "adjusted",
+      "scheme": "G1_head_cycle",
+      "true_class": "running",
+      "predicted_class": "running",
+      "count": 945,
+      "repeated_predictions": 1440,
+      "fraction": 0.65625,
+      "unique_clips": 144
+    },
+    {
+      "stage": "adjusted",
+      "scheme": "G1_head_cycle",
+      "true_class": "boxing",
+      "predicted_class": "boxing",
+      "count": 468,
+      "repeated_predictions": 1430,
+      "fraction": 0.32727272727272727,
+      "unique_clips": 143
+    },
+    {
+      "stage": "adjusted",
+      "scheme": "G1_head_cycle",
+      "true_class": "handwaving",
+      "predicted_class": "handwaving",
+      "count": 907,
+      "repeated_predictions": 1440,
+      "fraction": 0.6298611111111111,
+      "unique_clips": 144
+    },
+    {
+      "stage": "adjusted",
+      "scheme": "G1_head_cycle",
+      "true_class": "handclapping",
+      "predicted_class": "handclapping",
+      "count": 1024,
+      "repeated_predictions": 1430,
+      "fraction": 0.7160839160839161,
+      "unique_clips": 143
+    }
+  ],
+  "boxing_to_clapping": [
+    {
+      "stage": "default",
+      "scheme": "A_linear",
+      "true_class": "boxing",
+      "predicted_class": "handclapping",
+      "count": 610,
+      "repeated_predictions": 1430,
+      "fraction": 0.42657342657342656,
+      "unique_clips": 143
+    },
+    {
+      "stage": "adjusted",
+      "scheme": "A_linear",
+      "true_class": "boxing",
+      "predicted_class": "handclapping",
+      "count": 660,
+      "repeated_predictions": 1430,
+      "fraction": 0.46153846153846156,
+      "unique_clips": 143
+    },
+    {
+      "stage": "default",
+      "scheme": "G0_mean",
+      "true_class": "boxing",
+      "predicted_class": "handclapping",
+      "count": 860,
+      "repeated_predictions": 1430,
+      "fraction": 0.6013986013986014,
+      "unique_clips": 143
+    },
+    {
+      "stage": "adjusted",
+      "scheme": "G0_mean",
+      "true_class": "boxing",
+      "predicted_class": "handclapping",
+      "count": 783,
+      "repeated_predictions": 1430,
+      "fraction": 0.5475524475524476,
+      "unique_clips": 143
+    },
+    {
+      "stage": "default",
+      "scheme": "G1_head_cycle",
+      "true_class": "boxing",
+      "predicted_class": "handclapping",
+      "count": 841,
+      "repeated_predictions": 1430,
+      "fraction": 0.5881118881118881,
+      "unique_clips": 143
+    },
+    {
+      "stage": "adjusted",
+      "scheme": "G1_head_cycle",
+      "true_class": "boxing",
+      "predicted_class": "handclapping",
+      "count": 751,
+      "repeated_predictions": 1430,
+      "fraction": 0.5251748251748252,
+      "unique_clips": 143
+    },
+    {
+      "stage": "default",
+      "scheme": "I_ideal",
+      "true_class": "boxing",
+      "predicted_class": "handclapping",
+      "count": 570,
+      "repeated_predictions": 1430,
+      "fraction": 0.3986013986013986,
+      "unique_clips": 143
+    },
+    {
+      "stage": "adjusted",
+      "scheme": "I_ideal",
+      "true_class": "boxing",
+      "predicted_class": "handclapping",
+      "count": 590,
+      "repeated_predictions": 1430,
+      "fraction": 0.4125874125874126,
+      "unique_clips": 143
+    }
+  ],
+  "render_and_analysis_wall_seconds": 2.155890754016582,
+  "render_process_peak_rss_bytes": 714035200,
+  "figure_captions_zh": {
+    "performance": "相同输入与测试抽样下的调参前后准确率；误差线仅为响应库抽样标准差。",
+    "validation_search": "G1各宽度与校准正则化组合的验证Macro-F1，每格取四个分类头参数中的最佳值，不用测试排名。",
+    "class_recall": "各类G1召回率揭示调参是否只改善总分而牺牲某些动作；十轮抽样并非十倍独立视频。",
+    "confusion": "按验证预选的Gaussian配置，在固定首轮seed=3042的测试混淆矩阵；纵轴真实，横轴预测。"
+  }
+}

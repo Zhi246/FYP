@@ -1,0 +1,16 @@
+[
+  {
+    "scheme": "A_linear",
+    "source": "/home/ziyan/FYP_XZH/outputs/kth_joint_rbf256_strict_v1/models/Linear16_standardized.joblib",
+    "identical_conditions_verified": true,
+    "new_fit": false,
+    "reason": "Same 760 quantized training coordinates, labels, train-only preprocessing, centers/sigma if applicable, head alpha and numerical environment; no cycle dependence."
+  },
+  {
+    "scheme": "I_ideal",
+    "source": "/home/ziyan/FYP_XZH/outputs/kth_joint_rbf256_strict_v1/models/Ideal_RBF256_matched_to_hardware.joblib",
+    "identical_conditions_verified": true,
+    "new_fit": false,
+    "reason": "Same 760 quantized training coordinates, labels, train-only preprocessing, centers/sigma if applicable, head alpha and numerical environment; no cycle dependence."
+  }
+]

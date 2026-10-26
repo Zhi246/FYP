@@ -1,0 +1,32 @@
+{
+  "array_shape": [
+    256,
+    400,
+    16
+  ],
+  "metadata": {
+    "format_version": 1,
+    "source_workbook": "400次循环归一化_新规则.xlsx",
+    "source_sha256": "ccbfa341a48066276d4a00c2b621014227be8d93ce2e0636dac0655396105ab5",
+    "level_count": 256,
+    "cycle_count": 400,
+    "group_count": 16,
+    "response_layout": "level,cycle,group",
+    "group_magnitude_reference": "95th percentile of abs(response) per Group",
+    "sampling_rule": "one shared physical cycle per saved digit; exact 16-Group row lookup for each quantized level, followed by independent magnitude-adaptive multiplicative jitter"
+  },
+  "metadata_path": "/home/ziyan/SURF2026/rbf_hardware/dataset/empirical/hardware_response_metadata.json",
+  "migration_source": "/home/ziyan/SURF2026/rbf_hardware/src/rbf_hardware/utilities/empirical_response_migration.py",
+  "migration_contract": "Each of 256 sheets must have Cycle=1..400 and Group_1..16; mismatch raises an error.",
+  "source_workbook_found_at_documented_locations": false,
+  "source_workbook_sha_verified": null,
+  "independent_raw_workbook_or_chronology_verification": false,
+  "scope": "Disjoint indices of an existing processed response library, under its existing alignment convention.",
+  "not_claimed": [
+    "new hardware acquisition",
+    "independent device/batch generalization",
+    "temporal drift extrapolation",
+    "end-to-end holdout of raw measurements before source-workbook normalization"
+  ],
+  "negative_responses_preserved": true
+}

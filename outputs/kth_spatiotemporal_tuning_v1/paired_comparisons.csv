@@ -1,0 +1,7 @@
+comparison,first_stage,first_scheme,second_stage,second_scheme,accuracy_difference,paired_95_low,paired_95_high,participants,cycle_repeats,bootstrap_repeats,seed,exploratory
+adjusted_minus_default,adjusted,A_linear,default,A_linear,0.002320185614849188,-0.009291521486643438,0.012746234067207415,9,10,2000,42,True
+adjusted_minus_default,adjusted,G0_mean,default,G0_mean,-0.0016241299303944316,-0.014849187935034803,0.01171727756803587,9,10,2000,42,True
+adjusted_minus_default,adjusted,G1_head_cycle,default,G1_head_cycle,0.004176334106728539,-0.009617612977983778,0.01686189670969306,9,10,2000,42,True
+adjusted_minus_default,adjusted,I_ideal,default,I_ideal,0.016241299303944315,-0.009269988412514484,0.042999765827818705,9,10,2000,42,True
+adjusted_G_minus_adjusted_Linear,adjusted,G0_mean,adjusted,A_linear,0.02749419953596288,-0.016668118466898956,0.07068571163560987,9,10,2000,42,True
+adjusted_G_minus_adjusted_Linear,adjusted,G1_head_cycle,adjusted,A_linear,0.032018561484918794,-0.013111948955916473,0.07447558531955284,9,10,2000,42,True

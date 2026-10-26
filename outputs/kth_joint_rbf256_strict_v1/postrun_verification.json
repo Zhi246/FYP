@@ -1,0 +1,55 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "scheme": "Linear16",
+      "predictions_reproduced": true,
+      "all_metrics_reproduced": true
+    },
+    {
+      "scheme": "Linear16_standardized",
+      "predictions_reproduced": true,
+      "all_metrics_reproduced": true
+    },
+    {
+      "scheme": "Response256_direct_diagnostic",
+      "predictions_reproduced": true,
+      "all_metrics_reproduced": true
+    },
+    {
+      "scheme": "Ideal_RBF256_default",
+      "predictions_reproduced": true,
+      "all_metrics_reproduced": true
+    },
+    {
+      "scheme": "Ideal_RBF256_tuned",
+      "predictions_reproduced": true,
+      "all_metrics_reproduced": true
+    },
+    {
+      "scheme": "Hardware_joint256_default",
+      "predictions_reproduced": true,
+      "all_metrics_reproduced": true
+    },
+    {
+      "scheme": "Hardware_joint256_default_head_tuned",
+      "predictions_reproduced": true,
+      "all_metrics_reproduced": true
+    },
+    {
+      "scheme": "Extended_clip_1p2_diagnostic",
+      "predictions_reproduced": true,
+      "all_metrics_reproduced": true
+    },
+    {
+      "scheme": "Hardware_joint256_tuned",
+      "predictions_reproduced": true,
+      "all_metrics_reproduced": true
+    },
+    {
+      "scheme": "Ideal_RBF256_matched_to_hardware",
+      "predictions_reproduced": true,
+      "all_metrics_reproduced": true
+    }
+  ]
+}

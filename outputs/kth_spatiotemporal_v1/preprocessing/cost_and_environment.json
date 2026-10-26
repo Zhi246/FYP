@@ -1,0 +1,15 @@
+{
+  "wall_seconds": 18.960708719008835,
+  "video_hashing_seconds": 1.1441410740080755,
+  "decode_and_feature_seconds": 17.63345516801928,
+  "independent_audit_and_cache_save_seconds": 0.15698917699046433,
+  "process_peak_rss_bytes": 643903488,
+  "original_video_bytes_unique": 1162375168,
+  "new_raw_float64_bytes": 305792,
+  "all_raw_video_frames_loaded_at_once": false,
+  "maximum_retained_video_gray_bytes": 278528,
+  "new_download_seconds": 0.0,
+  "numpy": "1.26.4",
+  "opencv": "4.11.0",
+  "opencv_threads": 1
+}

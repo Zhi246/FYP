@@ -1,0 +1,8 @@
+comparison,first_representation,first_scheme,second_representation,second_scheme,accuracy_difference,paired_95_low,paired_95_high,subjects,bank_draw_repeats,bootstrap_repeats,seed,independent_new_test_data
+new_input_minus_old_input,region4_time4,A_linear,temporal16,A_linear,0.0568445475638051,0.023174971031286212,0.0859465737514518,9,10,2000,42,False
+new_input_minus_old_input,region4_time4,G0_mean,temporal16,G0_mean,0.043851508120649654,0.014583333333333334,0.08139825581395348,9,10,2000,42,False
+new_input_minus_old_input,region4_time4,G1_head_cycle,temporal16,G1_head_cycle,0.02842227378190255,-0.006032833324340366,0.06830048213272827,9,10,2000,42,False
+new_input_minus_old_input,region4_time4,I_ideal,temporal16,I_ideal,0.07076566125290024,0.016193947891265832,0.12398969090180746,9,10,2000,42,False
+new_G1_minus_new_Linear,region4_time4,G1_head_cycle,region4_time4,A_linear,0.030162412993039442,-0.009733487833140209,0.06574356368563684,9,10,2000,42,False
+new_G0_minus_new_Linear,region4_time4,G0_mean,region4_time4,A_linear,0.03143851508120649,-0.007554942722943968,0.06674611503804023,9,10,2000,42,False
+new_G1_minus_new_G0,region4_time4,G1_head_cycle,region4_time4,G0_mean,-0.0012761020881670534,-0.008014170245523054,0.005324074074074074,9,10,2000,42,False

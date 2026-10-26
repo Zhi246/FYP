@@ -1,0 +1,719 @@
+{
+  "source": "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1",
+  "hashes": {
+    "/home/ziyan/SURF2026/rbf_hardware/src/rbf_hardware/utilities/empirical_response_migration.py": "5e3723527ddbebfc619ed9c7c06feb26dc74b8be8c8eb6f20209341b9e890fea",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/sample_predictions.csv": "d800fe92f1210260e76010c506e7e90c724e9b5872d5da423b91834e6b467f79",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/group_cv/region4_time4/fold_0/A_linear.joblib": "2480615c2ae6bef5564961a70eecd0fa1e0b9381693e333692409acfec07d934",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/group_cv/region4_time4/fold_3/G1_head_cycle.joblib": "f51e717e4076b0b39a5bf3d22962d3f925da5ffc1d24b63c7eac864f90ec4f0d",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/cycle_split.csv": "68ca50c70ea8db04d64e90a9d0f655eb7b8e511bf894860de2ed7b094e92d2e6",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/features/G1_head_cycle_head_training.npz": "c1ff6da28a771e03d588d2d4df74bb3ebb9f2586cd4843cdea458f48bbca9268",
+    "/home/ziyan/SURF2026/rbf_hardware/src/rbf_hardware/inference/empirical_response.py": "84edaa62223a63490239a488d25b7ec06f2de176ed8fcb6826a691e9a7474a50",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/models/region4_time4/I_ideal.joblib": "888c8f22cd157149229edaff36b887fb0b3bd2da7c889ccad5f985b1a8df283d",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/group_cv/region4_time4/fold_0/G0_mean.joblib": "6f51508abce867d052aba4caf9a51533a1767bc5d831d50d26c436b04250ea89",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/all_metrics.csv": "00245e21d8fa1900b749d4f855177ab42584ce0b5462f520c3dcce1a4a841410",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/preprocessing/signature.json": "516c943d72b62844d2cfb4557be29afa1ab834b36cb3dd02bf3320fb1859861a",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/group_cv/region4_time4/fold_2/G1_head_cycle.joblib": "41dae311470cda075a6c6d28ecfbbb95f7eafc9097568cfc892d378b71644cb1",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/group_cv/region4_time4/fold_0/inputs_and_assignments.npz": "c6193f148de8bc998e12840098379cb2c985dbd8aa1ddf5f4f0d0a6f0a211fe6",
+    "/home/ziyan/FYP_XZH/run_kth_joint_rbf.py": "bdf4c77a1572494f6ad6665d13982b3ec2ef92c36a4592e1efa7c4e3dd85f288",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/group_cv/region4_time4/fold_1/I_ideal.joblib": "8e3811e57ed0338b71b3ae2237d142d0c7f5ca869ad71c05323a9e688fd9b958",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/features/validation_cycle_2.npz": "b754867eb9ec8b0946c7753aedbe9345dc53bbf6bf7c1b48c485636215862def",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/sample_manifest.csv": "43a773ca822a0472e0ca4bee1174a32cd6f5d7bc5e5892ce25d27e95654365d2",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/sample_predictions.csv": "47972972559a07182d2fc63ac21d8d567317d181d2b67762f667d7195c667274",
+    "/home/ziyan/FYP_XZH/run_kth_cycle_robustness.py": "706a3882550eea40869cf7d0bd62d5c50da98afb444800ab87909231e321b7c3",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/models/region4_time4/A_linear.joblib": "6f31a588f03f993ea9197a467a04c98ad46d527b13b74daed55a080a44bc909a",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/models/I_ideal.joblib": "967e297329915015562b0d1a4ca8c8d51fd4844efab3bdb6e3c4b2c0a9501672",
+    "/home/ziyan/SURF2026/rbf_hardware/dataset/empirical/hardware_response_samples.npz": "b2d22f0d9469745b7f204f2608d77cf6fc76a1a0fc60d089cc0db6ef18c0c86c",
+    "/home/ziyan/SURF2026/rbf_hardware/src/rbf_hardware/modeling/ridge_classifier.py": "21dae82aa9db28bda6a86cd9d265dc1a3354de128ce1213ed85ca2e1ead6148a",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/group_cv/region4_time4/fold_1/A_linear.joblib": "c5ba24537c5ca10bed725ea84e6096c2e83d34b5a6dd9389fe085656be5a925c",
+    "/home/ziyan/FYP_XZH/tune_kth_spatiotemporal.py": "31f2c8ff47d93506e07ab4fe7301ce2ddbfd45e68615860235017a1bf72260d3",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/features/validation_cycle_6.npz": "4c4b767a733398b2fa51beb4cb286d022042821c7eb7af5e3b1b901feb87ef45",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/models/region4_time4/G0_mean.joblib": "dc7ba1d6696007da99a17a555de9f04291a6640d97a4e4c83b6122b6c0e77fdd",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/features/validation_cycle_0.npz": "3a6bc887d5e8e39857e0168eed7cec443fc8c70959b6ff865ed121c845790b43",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/features/validation_cycle_8.npz": "15640cfcaf3e82f9c9384c385cffe84eb5f7751cecf806ef9f138f27989f3437",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/group_cv/region4_time4/fold_0/G1_head_cycle.joblib": "35cf7c5e21fd0915415bc31f79f56de646f83bc5be300a9e2bd25394bfa5fd86",
+    "/home/ziyan/FYP_XZH/run_kth_spatiotemporal.py": "0e1171976e473de37f4869b45bb22fd9c57cbcf41e95ad96f5edc8fe6c601477",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/all_metrics.csv": "0586f0fbb7e9e88ccf88cc5ac7be735fac6a418a4523a8b02772cb92c65aa788",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/group_cv/region4_time4/fold_3/I_ideal.joblib": "0b34f3c02718e9b58b98b6bbd55f58d087b03ac785dfabdd00389671948aad33",
+    "/home/ziyan/SURF2026/rbf_hardware/src/rbf_hardware/modeling/joint_gaussian.py": "c23a1ef23696ccb1dab4e8e757ab4ca55959fca0c51987a3c9d6e0960dea7c43",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/new_training_responses.npz": "7b9f90573193dd17bd45b2422499f1ee85e8ab1c079820db6085217fb5bb2a3f",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/group_cv/region4_time4/fold_1/G0_mean.joblib": "a128f2a803bebcc1e5db2a04e32ecae3758c465dc30ecd7445e4b69a2ef230c2",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/sample_manifest.csv": "43a773ca822a0472e0ca4bee1174a32cd6f5d7bc5e5892ce25d27e95654365d2",
+    "/home/ziyan/SURF2026/rbf_hardware/src/rbf_hardware/inference/preprocessing.py": "43856e18f591a84acaba6531f6f71b7e5aafacf9fb286499fe3fb00e7472b153",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/signature.json": "7c79cb9cc578a10f139f186560c80837bd6dcc3bbd9150362b1ed8ef74ee7760",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/group_cv_results.csv": "ae5e79d89eacfedba8860f0aa0ac7a78717606ec3942b598b667b4bb9e2fa6e6",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/features/validation_cycle_1.npz": "40c921524dc80b2ea24ac475dd92d0755f22e2361d64b278bfad9d76936d49fc",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/group_cv/region4_time4/fold_2/I_ideal.joblib": "44b64028bc1e6c946edec5f2e33ecbccff83c488e6d87dbad7efaae99ff910d0",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/preprocessing/raw_features.npz": "704b98a475195173f2e640cea7738c2631c60309888c03e4aba4174efdb76d94",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/group_cv/region4_time4/fold_1/inputs_and_assignments.npz": "9ebe4b6c6d3fb99446205416bd43aed72ef057abb7fcbd67cbd11404238bddce",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/evaluation_cycle_assignments.npz": "e4dd6dc1c503bfd61e361fe5b72603fcae441378d6a5d98a1dbe6b05bfa8e339",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/inputs.npz": "fd38776b50687118bd8f5dae70170210878360f354e4b0c5112cc021229a1354",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/training_responses.npz": "38f54dcdbb227a161fc6713a62c01f43b12f96ad7499e2f2a82c366c14a33d13",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/features/G0_mean_head_training.npz": "169414f4603616b0e5aee1599c00120aa3d06fd4d396be19355814d6ad6f51a4",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/models/A_linear.joblib": "88070dbcbf92561cdd481becc2636666bf80733966a66816d36a04f7bccf14fc",
+    "/home/ziyan/SURF2026/rbf_hardware/dataset/empirical/hardware_response_metadata.json": "72eec127b8c33ea2300c9a594d9b2b1740be2b5c34d68e477bb9a316b3283961",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/group_cv/region4_time4/fold_3/A_linear.joblib": "8bd8b8fc59165ddf08facf41c713b671d1e2c5f13b41bc855547960baa475d53",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/models/G0_mean.joblib": "3695c7b6ef9e25b8f05654269858c6fa4661a6f72f9874b2a36921af82fa6e4c",
+    "/home/ziyan/SURF2026/rbf_hardware/dataset/csv/differential_levels.csv": "cced3dd0bda4cbc4a578c2337315117ee8c7c1e7f9fa169f30e270521a5d68d1",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/group_cv/region4_time4/fold_2/A_linear.joblib": "bd2491aa4bb5c075d2cab23720853bc0daa35e4d7e1adb29fabb094c87fea85b",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/group_cv/region4_time4/fold_3/G0_mean.joblib": "66b03f57a9a801b1e5592389932bdd144de06ca5daa25ae5e0bc1febdb914f75",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/signature.json": "b56713c223478d7ec0a2ccc41a50ca8b5e5813508b760ca26792f8e0fd4e8fa1",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/models/region4_time4/G1_head_cycle.joblib": "b4a88e15353d464b09e8c70dace1ad2b964c87b35d4ca48f55ab89e8e69b7eb0",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/group_cv_results.csv": "4be51f4d09a8b284b909f4bcd34625420b0c968e9cfaf39b8d4bf69e553fc7e7",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/independent_protocol_verification.json": "a0c03f22c9a8811e87196665bac697f44f2766c4d49d00b865c81db6ce4edc23",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/group_cv/region4_time4/fold_0/I_ideal.joblib": "f54500987cf28a203d3be55cb51ba23b829b9709cdbee88940542444b48ae60e",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/group_cv/region4_time4/fold_3/inputs_and_assignments.npz": "689270682d1fb40bd70c579f53135445c591d8f883c58f2b665bc87be98813e7",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/group_cv/region4_time4/fold_2/G0_mean.joblib": "e7fd70ee4510622f155906620c8492cb3e4084ed7160847300e227d13eba19be",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/new_inputs.npz": "2ef2db5733e84ea8a20f924f9aa78f5d070f2c82a8152fbbd95e9144d45d0c24",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/group_cv/region4_time4/fold_1/G1_head_cycle.joblib": "de278eda877ccd540c32e16ae24e77f8257b3566496558d862b3b7433f948c7f",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/features/validation_cycle_7.npz": "3b441357474d7b6eaa285c9871a8a7a65f61ec50e7a8e9c22abccc41607dc99b",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/features/validation_cycle_9.npz": "1d7b8a5c465092f809f9ac811f4a0f5bc7275eb7b6732bb38282810cc729d7c9",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/training_noise_magnitude_references.npy": "bb69b351c7beefebb2c48cdd9e12ca07207bc38b8e9927a5019e8b1d84dc4647",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/features/validation_cycle_4.npz": "6c4d8564c12ea78f28cd3cd7465b07494a941487f97d556554aeff877e9ec1f8",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/group_cv/region4_time4/fold_2/inputs_and_assignments.npz": "ccc53e33eaa84aa683ac02cf68f76bc157ba676c0cbce2cf71c25c836eba105e",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/features/validation_cycle_3.npz": "931cbe70619d07b6896bd0cdf54079546c15ed6b8f47633642079be6174cc238",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/preprocessing/extraction_checks.json": "d34c804741976133a2dc3c65966be4ffd424572a05df547840ba2b659b98c1d8",
+    "/home/ziyan/FYP_XZH/outputs/kth_spatiotemporal_v1/features/validation_cycle_5.npz": "9a353a35ef4dc7112cc355037ce5d1107b3c2d8b3da1265aa892613c4dbaa002",
+    "/home/ziyan/FYP_XZH/outputs/kth_cycle_robustness_v1/models/G1_head_cycle.joblib": "8fd60ca6fab18bcfc6e35628330153a9ed78a5de886d0ffcd9f7a7fccf90560e"
+  },
+  "versions": {
+    "numpy": "2.2.6",
+    "torch": "2.7.0+cu118",
+    "scikit-learn": "1.7.2",
+    "pandas": "2.3.3"
+  },
+  "seed": 42,
+  "sigmas": [
+    0.125,
+    0.25,
+    0.5
+  ],
+  "calibration_alphas": [
+    0.001,
+    0.01,
+    0.1
+  ],
+  "head_alphas": [
+    0.01,
+    0.1,
+    1.0,
+    10.0
+  ],
+  "configurations": [
+    {
+      "scheme": "A_linear",
+      "head_alpha": 0.01,
+      "sigma": null,
+      "calibration_alpha": null,
+      "id": "39b46b2f7633f726"
+    },
+    {
+      "scheme": "A_linear",
+      "head_alpha": 0.1,
+      "sigma": null,
+      "calibration_alpha": null,
+      "id": "50228ab2b7212b96"
+    },
+    {
+      "scheme": "A_linear",
+      "head_alpha": 1.0,
+      "sigma": null,
+      "calibration_alpha": null,
+      "id": "505f709b5f8502c2"
+    },
+    {
+      "scheme": "A_linear",
+      "head_alpha": 10.0,
+      "sigma": null,
+      "calibration_alpha": null,
+      "id": "428b65d09e7f21a3"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 0.01,
+      "sigma": 0.125,
+      "calibration_alpha": 0.001,
+      "id": "9d28c2d1bc02e09c"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 0.01,
+      "sigma": 0.125,
+      "calibration_alpha": 0.001,
+      "id": "4cd9302c65f4af11"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 0.1,
+      "sigma": 0.125,
+      "calibration_alpha": 0.001,
+      "id": "b3a0099118261a26"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 0.1,
+      "sigma": 0.125,
+      "calibration_alpha": 0.001,
+      "id": "7600dd465885073b"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 1.0,
+      "sigma": 0.125,
+      "calibration_alpha": 0.001,
+      "id": "9aacf0f764368731"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 1.0,
+      "sigma": 0.125,
+      "calibration_alpha": 0.001,
+      "id": "5c34527c1d75d238"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 10.0,
+      "sigma": 0.125,
+      "calibration_alpha": 0.001,
+      "id": "09c82fe2fa8a1e7b"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 10.0,
+      "sigma": 0.125,
+      "calibration_alpha": 0.001,
+      "id": "3146bbe30ed3b996"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 0.01,
+      "sigma": 0.125,
+      "calibration_alpha": 0.01,
+      "id": "209fe546536cb3b3"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 0.01,
+      "sigma": 0.125,
+      "calibration_alpha": 0.01,
+      "id": "18dcfecfdeb1570d"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 0.1,
+      "sigma": 0.125,
+      "calibration_alpha": 0.01,
+      "id": "8057874cb8828252"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 0.1,
+      "sigma": 0.125,
+      "calibration_alpha": 0.01,
+      "id": "f0d57e9595a82cc7"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 1.0,
+      "sigma": 0.125,
+      "calibration_alpha": 0.01,
+      "id": "e9f12456ab0c48df"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 1.0,
+      "sigma": 0.125,
+      "calibration_alpha": 0.01,
+      "id": "2b36a793b41612f2"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 10.0,
+      "sigma": 0.125,
+      "calibration_alpha": 0.01,
+      "id": "60d9996aa2a4d35a"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 10.0,
+      "sigma": 0.125,
+      "calibration_alpha": 0.01,
+      "id": "b6d64ba5f5c6395e"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 0.01,
+      "sigma": 0.125,
+      "calibration_alpha": 0.1,
+      "id": "ab099b0477398a88"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 0.01,
+      "sigma": 0.125,
+      "calibration_alpha": 0.1,
+      "id": "bbb801f392223f59"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 0.1,
+      "sigma": 0.125,
+      "calibration_alpha": 0.1,
+      "id": "e51abe61d635ac20"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 0.1,
+      "sigma": 0.125,
+      "calibration_alpha": 0.1,
+      "id": "afcff266e20ba509"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 1.0,
+      "sigma": 0.125,
+      "calibration_alpha": 0.1,
+      "id": "90bd1f4a5f9f1f65"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 1.0,
+      "sigma": 0.125,
+      "calibration_alpha": 0.1,
+      "id": "93499f06c83e6163"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 10.0,
+      "sigma": 0.125,
+      "calibration_alpha": 0.1,
+      "id": "71c22e7663862cc0"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 10.0,
+      "sigma": 0.125,
+      "calibration_alpha": 0.1,
+      "id": "d6486360c9ea536e"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 0.01,
+      "sigma": 0.25,
+      "calibration_alpha": 0.001,
+      "id": "a318c6ce7313bb4a"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 0.01,
+      "sigma": 0.25,
+      "calibration_alpha": 0.001,
+      "id": "924b6759aebd9f07"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 0.1,
+      "sigma": 0.25,
+      "calibration_alpha": 0.001,
+      "id": "6ea33d5682c9eacc"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 0.1,
+      "sigma": 0.25,
+      "calibration_alpha": 0.001,
+      "id": "e86dde1c064e820d"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 1.0,
+      "sigma": 0.25,
+      "calibration_alpha": 0.001,
+      "id": "b7b2fe3b96fd37f4"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 1.0,
+      "sigma": 0.25,
+      "calibration_alpha": 0.001,
+      "id": "87509386918c792a"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 10.0,
+      "sigma": 0.25,
+      "calibration_alpha": 0.001,
+      "id": "97d180d91e7a73e1"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 10.0,
+      "sigma": 0.25,
+      "calibration_alpha": 0.001,
+      "id": "96f4521a5a61846d"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 0.01,
+      "sigma": 0.25,
+      "calibration_alpha": 0.01,
+      "id": "a3dc36342f3d67f6"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 0.01,
+      "sigma": 0.25,
+      "calibration_alpha": 0.01,
+      "id": "9f3ef31d72a1f105"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 0.1,
+      "sigma": 0.25,
+      "calibration_alpha": 0.01,
+      "id": "f820a479882acfe6"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 0.1,
+      "sigma": 0.25,
+      "calibration_alpha": 0.01,
+      "id": "a4d14723f8226257"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 1.0,
+      "sigma": 0.25,
+      "calibration_alpha": 0.01,
+      "id": "5365c0fd86de25ac"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 1.0,
+      "sigma": 0.25,
+      "calibration_alpha": 0.01,
+      "id": "ccf9ca45d098bcdb"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 10.0,
+      "sigma": 0.25,
+      "calibration_alpha": 0.01,
+      "id": "de19ccf1215a11d8"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 10.0,
+      "sigma": 0.25,
+      "calibration_alpha": 0.01,
+      "id": "063b05cd1e6b9bdd"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 0.01,
+      "sigma": 0.25,
+      "calibration_alpha": 0.1,
+      "id": "d4b3fb44bb3e0619"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 0.01,
+      "sigma": 0.25,
+      "calibration_alpha": 0.1,
+      "id": "40a73e607d73d954"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 0.1,
+      "sigma": 0.25,
+      "calibration_alpha": 0.1,
+      "id": "28dfca4971ecd874"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 0.1,
+      "sigma": 0.25,
+      "calibration_alpha": 0.1,
+      "id": "20570bbbd5e9f7ba"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 1.0,
+      "sigma": 0.25,
+      "calibration_alpha": 0.1,
+      "id": "1e24dab34383a339"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 1.0,
+      "sigma": 0.25,
+      "calibration_alpha": 0.1,
+      "id": "8322b4d32ebd45c4"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 10.0,
+      "sigma": 0.25,
+      "calibration_alpha": 0.1,
+      "id": "f21e87968721eb0b"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 10.0,
+      "sigma": 0.25,
+      "calibration_alpha": 0.1,
+      "id": "f02d5359989c6209"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 0.01,
+      "sigma": 0.5,
+      "calibration_alpha": 0.001,
+      "id": "969be9a0140c69cf"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 0.01,
+      "sigma": 0.5,
+      "calibration_alpha": 0.001,
+      "id": "026e62a020bceffb"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 0.1,
+      "sigma": 0.5,
+      "calibration_alpha": 0.001,
+      "id": "8ec4491e8d882428"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 0.1,
+      "sigma": 0.5,
+      "calibration_alpha": 0.001,
+      "id": "9bcee38f6b628d76"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 1.0,
+      "sigma": 0.5,
+      "calibration_alpha": 0.001,
+      "id": "a2a663089380bd47"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 1.0,
+      "sigma": 0.5,
+      "calibration_alpha": 0.001,
+      "id": "5790faf218a2b200"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 10.0,
+      "sigma": 0.5,
+      "calibration_alpha": 0.001,
+      "id": "e158a681dbda9b58"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 10.0,
+      "sigma": 0.5,
+      "calibration_alpha": 0.001,
+      "id": "4fc6096f1f247fa9"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 0.01,
+      "sigma": 0.5,
+      "calibration_alpha": 0.01,
+      "id": "f6cf591b5b5517fe"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 0.01,
+      "sigma": 0.5,
+      "calibration_alpha": 0.01,
+      "id": "2059af05a6354c61"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 0.1,
+      "sigma": 0.5,
+      "calibration_alpha": 0.01,
+      "id": "5628cc50a4e8e7de"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 0.1,
+      "sigma": 0.5,
+      "calibration_alpha": 0.01,
+      "id": "bee2dad1ce30e7dd"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 1.0,
+      "sigma": 0.5,
+      "calibration_alpha": 0.01,
+      "id": "93ea89ebcfd406cd"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 1.0,
+      "sigma": 0.5,
+      "calibration_alpha": 0.01,
+      "id": "34ddd07a08b5fb41"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 10.0,
+      "sigma": 0.5,
+      "calibration_alpha": 0.01,
+      "id": "8dcc32237e8320f7"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 10.0,
+      "sigma": 0.5,
+      "calibration_alpha": 0.01,
+      "id": "b454ade992ad11d1"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 0.01,
+      "sigma": 0.5,
+      "calibration_alpha": 0.1,
+      "id": "4d775ec2002c4b98"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 0.01,
+      "sigma": 0.5,
+      "calibration_alpha": 0.1,
+      "id": "55c17da8933748ee"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 0.1,
+      "sigma": 0.5,
+      "calibration_alpha": 0.1,
+      "id": "805164545f04ba2f"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 0.1,
+      "sigma": 0.5,
+      "calibration_alpha": 0.1,
+      "id": "68c8e3c7bdac9590"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 1.0,
+      "sigma": 0.5,
+      "calibration_alpha": 0.1,
+      "id": "5ce71c25de3010ad"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 1.0,
+      "sigma": 0.5,
+      "calibration_alpha": 0.1,
+      "id": "709722afe7b1e978"
+    },
+    {
+      "scheme": "G0_mean",
+      "head_alpha": 10.0,
+      "sigma": 0.5,
+      "calibration_alpha": 0.1,
+      "id": "11dc556ead556996"
+    },
+    {
+      "scheme": "G1_head_cycle",
+      "head_alpha": 10.0,
+      "sigma": 0.5,
+      "calibration_alpha": 0.1,
+      "id": "e47d01e41fd5a761"
+    },
+    {
+      "scheme": "I_ideal",
+      "head_alpha": 0.01,
+      "sigma": 0.125,
+      "calibration_alpha": 0.01,
+      "id": "f38e92077f055b68"
+    },
+    {
+      "scheme": "I_ideal",
+      "head_alpha": 0.1,
+      "sigma": 0.125,
+      "calibration_alpha": 0.01,
+      "id": "f10de5745ad9a366"
+    },
+    {
+      "scheme": "I_ideal",
+      "head_alpha": 1.0,
+      "sigma": 0.125,
+      "calibration_alpha": 0.01,
+      "id": "b035261815ac94b8"
+    },
+    {
+      "scheme": "I_ideal",
+      "head_alpha": 10.0,
+      "sigma": 0.125,
+      "calibration_alpha": 0.01,
+      "id": "c26563f6b24472f9"
+    },
+    {
+      "scheme": "I_ideal",
+      "head_alpha": 0.01,
+      "sigma": 0.25,
+      "calibration_alpha": 0.01,
+      "id": "51e04f2ac542a333"
+    },
+    {
+      "scheme": "I_ideal",
+      "head_alpha": 0.1,
+      "sigma": 0.25,
+      "calibration_alpha": 0.01,
+      "id": "3cfa4813f00f3530"
+    },
+    {
+      "scheme": "I_ideal",
+      "head_alpha": 1.0,
+      "sigma": 0.25,
+      "calibration_alpha": 0.01,
+      "id": "7147c271e1d89f42"
+    },
+    {
+      "scheme": "I_ideal",
+      "head_alpha": 10.0,
+      "sigma": 0.25,
+      "calibration_alpha": 0.01,
+      "id": "059379b77d6eda6a"
+    },
+    {
+      "scheme": "I_ideal",
+      "head_alpha": 0.01,
+      "sigma": 0.5,
+      "calibration_alpha": 0.01,
+      "id": "975e0072942d130f"
+    },
+    {
+      "scheme": "I_ideal",
+      "head_alpha": 0.1,
+      "sigma": 0.5,
+      "calibration_alpha": 0.01,
+      "id": "50a5f0eb5b27b183"
+    },
+    {
+      "scheme": "I_ideal",
+      "head_alpha": 1.0,
+      "sigma": 0.5,
+      "calibration_alpha": 0.01,
+      "id": "b0d306fb623773b0"
+    },
+    {
+      "scheme": "I_ideal",
+      "head_alpha": 10.0,
+      "sigma": 0.5,
+      "calibration_alpha": 0.01,
+      "id": "eddfb9bf14146647"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+scheme,head_fit_seconds,head_rows,sum_form_head_alpha,calibration_sum_alpha,calibration_fit_seconds
+A_linear,0.011494236998260021,760,1.0,0.01,0.0
+G0_mean,0.004825594980502501,760,0.1,0.01,0.03132418901077472
+G1_head_cycle,0.014279940980486572,6080,0.8,0.01,0.0
+I_ideal,0.00241323298541829,760,0.1,0.01,0.0

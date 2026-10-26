@@ -1,0 +1,8 @@
+{
+  "completed": true,
+  "new_head_fits": 0,
+  "all_fits_reused_from_parent": true,
+  "additional_wall_seconds": 4.379231836006511,
+  "strict_factor_lower": 1e-06,
+  "strict_factor_upper": 1.0
+}

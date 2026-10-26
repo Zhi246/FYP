@@ -1,0 +1,9 @@
+{
+  "status": "PASSED",
+  "configuration_predictions_recomputed": 791,
+  "final_models_and_predictions_rechecked": 3,
+  "train_only_scaling_centers_StandardScaler_verified": true,
+  "selection_reproduced_without_test_scores": true,
+  "classifier_fits_during_verification": 0,
+  "checked_at_Asia_Shanghai": "2026-10-26T12:25:35+08:00"
+}
