@@ -37,11 +37,6 @@ def add(phase, row, model, source, representation, response_protocol, *,
 
 
 def main():
-    source = "outputs/hmdb51_software_feasibility_v3/results_table.csv"
-    for row in load(source):
-        add("HMDB51_sum_latest", row, row["method"], source, "temporal16", "scalar Gaussian sum, no response bank",
-            train_n=412, validation_n=None, test_n=176, dimension=16,
-            validation="validation_accuracy_mean", validation_f1="validation_macro_f1_mean")
     source = "outputs/kth_six_subject_split_v1/results_table.csv"
     for row in load(source):
         add("KTH_sum_initial", row, row["method"], source, "temporal16", "scalar Gaussian sum, no response bank", dimension=16)
@@ -74,7 +69,7 @@ def main():
             dimension=int(row["output_dimension"]), train="train_mean_accuracy",
             validation="validation_accuracy_mean", validation_f1="validation_macro_f1_mean",
             test="test_accuracy_mean", test_std="test_accuracy_std", test_f1="test_macro_f1_mean")
-    assert len(ROWS) == 30
+    assert len(ROWS) == 27
     for row in ROWS:
         for key in ["train_accuracy", "validation_accuracy", "validation_macro_f1", "test_accuracy", "test_macro_f1"]:
             assert row[key] is not None and 0 <= row[key] <= 1

@@ -2,9 +2,9 @@
 
 ## 综合实验报告
 
-完整阶段报告：[器件约束视觉动作识别实验报告](docs/器件约束视觉动作识别_实验报告.md)。报告依次整理HMDB51、KTH旧求和、原器件联合Gaussian、Cycle感知训练、16维时空输入和最新有限调参，区分可直接比较的条件，并保留负面结果及探索性限制。
+完整报告：[器件约束视觉动作识别实验报告](docs/器件约束视觉动作识别_实验报告.md)。以KTH为主体，按“选择原因→研究方向→实验流程→对应结果”组织；HMDB51仅简述为前期效果不理想、因此转用KTH的背景，不展开数据或成绩。KTH各轮仍区分模型与Cycle协议，保留负面结果及探索性限制。
 
-精确数据：[30行跨阶段汇总CSV](docs/assets/experiment_summary.csv)与[带源文件哈希的JSON](docs/assets/experiment_summary.json)。运行`python scripts/build_experiment_report_summary.py`可从已有结果重建汇总，不重新训练或评价测试。
+精确数据：[27行KTH跨阶段汇总CSV](docs/assets/experiment_summary.csv)与[带源文件哈希的JSON](docs/assets/experiment_summary.json)。运行`python scripts/build_experiment_report_summary.py`可从已有结果重建汇总，不重新训练或评价测试。
 
 GitHub仅发布代码、报告、PNG、汇总指标、样本划分及检查记录。原视频、环境、二进制特征／响应缓存、模型和大型KTH逐样本得分CSV保留本地；历史文档指向这些本地文件的链接不属于仓库交付。器件实验还依赖独立原项目及实测响应库，新机器需提供这些依赖并调整路径，不能仅克隆仓库直接重放所有实验。本文后续各轮记录和命令保留原样。
 
@@ -122,7 +122,7 @@ cd /home/ziyan/FYP_XZH
 
 ## KTH 受控场景实验
 
-组会文档：[视觉动作识别数据研究方向与实验结果](docs/视频动作识别_数据研究方向与实验结果.md)，汇总HMDB51与KTH的数据、研究问题、实测结果和下一轮建议。
+组会文档：[视觉动作识别数据研究方向与实验结果](docs/视频动作识别_数据研究方向与实验结果.md)，以KTH为主体，汇总数据选择原因、研究方向、实验流程、对应结果及下一步建议。
 
 ### 2026年10月26日扩展调参
 

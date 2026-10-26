@@ -1,6 +1,5 @@
 {
   "source_csv_sha256": {
-    "outputs/hmdb51_software_feasibility_v3/results_table.csv": "481d7dca621eaa73891817a6b0636e37e0fe06e41d2273773d57982b7a773b19",
     "outputs/kth_six_subject_split_v1/results_table.csv": "ec1baeb7fa389301c20d95b3125396255378796cbcb2c3720ae51d57946ce8c6",
     "outputs/kth_gaussian_expanded_v2/comparison_previous_vs_expanded.csv": "c23c90f0ce6d2f950cccce83a186ec6c30e8455d503ded1d4483f792748409d9",
     "outputs/kth_joint_rbf256_strict_v1/results_table.csv": "1a215c1acf375e8adb5f00ebca173810d4ed892564bb7ad119aefc0e98e35437",
@@ -8,59 +7,8 @@
     "outputs/kth_spatiotemporal_v1/results_table.csv": "7361eeb03fae03dd2638eb43f066709c5c268067065d428b9c4c7087bd071ae3",
     "outputs/kth_spatiotemporal_tuning_v1/results_table.csv": "fc0557c9a53a33eb71fd084ea7cbdf816d90239b21fce88414357a652eb46f13"
   },
-  "row_count": 30,
+  "row_count": 27,
   "rows": [
-    {
-      "phase": "HMDB51_sum_latest",
-      "model": "A",
-      "input_representation": "temporal16",
-      "response_protocol": "scalar Gaussian sum, no response bank",
-      "output_dimension": 16,
-      "train_unique_n": 412,
-      "validation_unique_n": null,
-      "test_unique_n": 176,
-      "train_accuracy": 0.27427184466019416,
-      "validation_accuracy": 0.1747240734863711,
-      "validation_macro_f1": 0.1625631861826683,
-      "test_accuracy": 0.17045454545454544,
-      "test_accuracy_std": null,
-      "test_macro_f1": 0.15381463767491102,
-      "source_csv": "outputs/hmdb51_software_feasibility_v3/results_table.csv"
-    },
-    {
-      "phase": "HMDB51_sum_latest",
-      "model": "G_default",
-      "input_representation": "temporal16",
-      "response_protocol": "scalar Gaussian sum, no response bank",
-      "output_dimension": 16,
-      "train_unique_n": 412,
-      "validation_unique_n": null,
-      "test_unique_n": 176,
-      "train_accuracy": 0.25970873786407767,
-      "validation_accuracy": 0.1894107690680207,
-      "validation_macro_f1": 0.1598166494213767,
-      "test_accuracy": 0.1875,
-      "test_accuracy_std": null,
-      "test_macro_f1": 0.16039260675237532,
-      "source_csv": "outputs/hmdb51_software_feasibility_v3/results_table.csv"
-    },
-    {
-      "phase": "HMDB51_sum_latest",
-      "model": "G_adjusted",
-      "input_representation": "temporal16",
-      "response_protocol": "scalar Gaussian sum, no response bank",
-      "output_dimension": 16,
-      "train_unique_n": 412,
-      "validation_unique_n": null,
-      "test_unique_n": 176,
-      "train_accuracy": 0.25485436893203883,
-      "validation_accuracy": 0.1966395147924821,
-      "validation_macro_f1": 0.1814486461513197,
-      "test_accuracy": 0.18181818181818182,
-      "test_accuracy_std": null,
-      "test_macro_f1": 0.17524803135986264,
-      "source_csv": "outputs/hmdb51_software_feasibility_v3/results_table.csv"
-    },
     {
       "phase": "KTH_sum_initial",
       "model": "A",
